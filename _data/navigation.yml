@@ -1,10 +1,16 @@
-- title: Start
+- title: Início
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Chamada de Trabalhos
   url: "/getting-started/"
   side: left
+  dropdown:
+  - title: "Fórum de Graduação"
+    url: "/design/cfp_fgd/"
+  - title: "Fórum de Pós-Graduação"
+    url: "/design/cfp_fpg/"
+
 
 - title: "Templates"
   url: "/design/"
