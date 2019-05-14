@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: logo_uem.png
+#header_unsplash_12.jpg
 
 widget1:
   title: "Blog & Portfolio"
