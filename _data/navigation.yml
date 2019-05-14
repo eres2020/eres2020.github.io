@@ -29,7 +29,7 @@
 
 - title: "Local do Evento"
   url: "/local_evento/"
-  side: right
+  side: left
 
 - title: "Contato"
   url: "/contato/"
