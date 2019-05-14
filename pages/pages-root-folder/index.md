@@ -6,9 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: maringa2.jpg
+  image_fullwidth: maringa.jpeg
 
-#maringa.jpeg
 
 
 widget1:
