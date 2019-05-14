@@ -6,9 +6,9 @@
   url: "/getting-started/"
   side: left
   dropdown:
-  - title: "Fórum de Graduacao"
+  - title: "Forum de Graduacao"
     url: "/design/cfp_fgd/"
-  - title: "Fórum de Pos-Graduacao"
+  - title: "Forum de Pos-Graduacao"
     url: "/design/cfp_fpg/"
 
 
