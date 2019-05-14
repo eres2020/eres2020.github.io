@@ -7,13 +7,13 @@
   side: left
   dropdown:
   - title: "Forum de Graduacao"
-    url: "/design/cfp_fgd/"
+    url: "/cfp_fgd/"
   - title: "Forum de Pos-Graduacao"
-    url: "/design/cfp_fpg/"
+    url: "/cfp_fpg/"
 
 
-- title: "Templates"
-  url: "/design/"
+- title: "Programacao"
+  url: "/programacao/"
 
   side: left
   dropdown:
