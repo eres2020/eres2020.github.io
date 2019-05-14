@@ -6,8 +6,11 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: logo_uem.png
+  image_fullwidth: maringa.jpeg
+
 #header_unsplash_12.jpg
+#logo_uem.png
+
 
 widget1:
   title: "Blog & Portfolio"
