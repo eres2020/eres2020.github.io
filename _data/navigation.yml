@@ -1,4 +1,4 @@
-- title: Início
+- title: Inicio
   url: "/"
   side: left
 
@@ -6,9 +6,9 @@
   url: "/getting-started/"
   side: left
   dropdown:
-  - title: "Fórum de Graduação"
+  - title: "Fórum de Graduacao"
     url: "/design/cfp_fgd/"
-  - title: "Fórum de Pós-Graduação"
+  - title: "Fórum de Pos-Graduacao"
     url: "/design/cfp_fpg/"
 
 
