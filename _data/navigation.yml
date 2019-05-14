@@ -14,6 +14,7 @@
 
 - title: "Templates"
   url: "/design/"
+
   side: left
   dropdown:
   - title: "Grid & Colors"
