@@ -6,10 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: maringa.jpeg
+  image_fullwidth: maringa2.jpg
 
-#header_unsplash_12.jpg
-#logo_uem.png
+#maringa.jpeg
 
 
 widget1:
