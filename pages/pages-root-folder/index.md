@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: fachada_uem.jpg
+  image_fullwidth: fachada_uem3.jpg
 #maringa.jpeg
 
 
