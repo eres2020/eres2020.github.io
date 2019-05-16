@@ -23,11 +23,8 @@
   url: "/programacao/"
   side: left
 
-- title: "Inscriçõess"
+- title: "Inscrições"
   url: "/inscricoes/"
-
-- title: "Organização"
-  url: "/organizacao/"
   side: left
 
 - title: "Comitês"
