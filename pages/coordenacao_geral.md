@@ -23,7 +23,7 @@ header:
     </div><!-- /.medium-4.columns -->
 	
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}donizete.gif" alt=""><br>
+        <img src="{{ site.urlimg }}marcello.gif" alt=""><br>
         <b>Prof. Dr. Donizete Carlos Bruzarosco</b><br>
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/1291677369114388" target="_blank">Currículo Lattes</a>    
