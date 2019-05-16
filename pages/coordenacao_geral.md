@@ -9,9 +9,9 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.jpg" alt="">
-        Prof. Dr. Edson Oliveira Junior (DIN/UEM)<br>
-		<a href="http://lattes.cnpq.br/8717980588591239">Currículo Lattes</a></p>
+        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
+        <b>Prof. Dr. Edson Oliveira Junior (DIN/UEM)</b><br>
+		<a href="http://lattes.cnpq.br/8717980588591239">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
