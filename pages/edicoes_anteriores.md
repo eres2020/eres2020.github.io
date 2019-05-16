@@ -13,7 +13,7 @@ header:
 <div class="row t60">
 	<div>
 <div class="row">
-    <div class="medium-8 columns t30">
+    <div class="medium-4 columns t30">
 	<b>Alegrete-RS</b>
 	<a href="https://eventos.unipampa.edu.br/eres" target="_blank">  	
 		<img src="{{ site.urlimg }}eres2017.png" alt="">
@@ -22,7 +22,7 @@ header:
 
 <br>
 
-<div class="medium-8 columns t30">
+<div class="medium-4 columns t30">
       <b>Dois Vizinhos-PR</b>	
 	<a href="https://coens.dv.utfpr.edu.br/eres" target="_blank">
 		<img src="{{ site.urlimg }}eres2018.png" alt=""></a> 
@@ -30,7 +30,7 @@ header:
 
 <br>
 
-<div class="medium-8 columns t30">      
+<div class="medium-4 columns t30">      
 	<b>Alto Vale do Itajai-SC</b>
 	
 	<a href="http://www2.sbc.org.br/eres2019" target="_blank">
