@@ -1,12 +1,12 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/eres2020
   class: icon-github
-  title: Website ERES 2020
+  title: Github de ERES 2020
 
-#- name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: "ERES 2020"
+- name: Facebook
+   url: http://www.facebook.com/
+   class: icon-facebook
+   title: "ERES 2020 no Facebook"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
