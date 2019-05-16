@@ -1,4 +1,4 @@
-- title: Inicio
+- title: Início
   url: "/"
   side: left
 
@@ -6,9 +6,9 @@
   url: ""
   side: left
   dropdown:
-  - title: "Forum de Graduacao"
+  - title: "Fórum de Graduação"
     url: "/forum_graduacao/"
-  - title: "Forum de Pos-Graduacao"
+  - title: "Fórum de Pós-Graduação"
     url: "/fposgrad/"
   - title: "Oficina Engenheiras de Software"
     url: "/oficina/"
@@ -19,28 +19,28 @@
 
 
 
-- title: "Programacao"
+- title: "Programação"
   url: "/programacao/"
   side: left
 
-- title: "Inscricoes"
+- title: "Inscrições"
   url: "/inscricoes/"
 
-- title: "Organizacao"
+- title: "Organização"
   url: "/organizacao/"
   side: left
 
-- title: "Comites"
+- title: "Comitês"
   url: "/comites/"
   side: left
   dropdown:
-  - title: "Coordenacao Geral"
+  - title: "Coordenação Geral"
     url: "/coordenacao_geral/"
   - title: "Coordenadores de Eventos"
     url: "/coordenacao_eventos/"
-  - title: "Comite Cientifico"
+  - title: "Comitê Científico"
     url: "/comite_cientifico/"
-  - title: "Comite Diretivo"
+  - title: "Comitê Diretivo"
     url: "/comite_diretivo/"
 
 
@@ -54,9 +54,9 @@
     url: "/como_chegar/"
   - title: "Hospedagem"
     url: "/hospedagem/"
-  - title: "Refeicoes"
+  - title: "Refeições"
     url: "/refeicoes/"
-  - title: "Sobre Maringa"
+  - title: "Sobre Maringá"
     url: "/maringa/"
 
 
@@ -64,7 +64,7 @@
   url: "/contato/"
   side: right
 
-- title: "Edicoes Anteriores"
+- title: "Edições Anteriores"
   url: "/edicoes_anteriores/"
   side: right
 
