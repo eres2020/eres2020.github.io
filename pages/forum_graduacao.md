@@ -6,7 +6,7 @@ subheadline: ""
 teaser: "Entre em contato conosco pelo e-mail eres2020.uem@gmail.com"
 permalink: "/forum_graduacao/"
 header:
-   image_fullwidth: fachada_uem.jgg
+   image_fullwidth: fachada_uem.jpg
 
 ---
 <div class="row">
