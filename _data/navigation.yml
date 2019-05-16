@@ -2,14 +2,14 @@
   url: "/"
   side: left
 
-- title: Chamada de Trabalhos
+- title: Eventos
   url: ""
   side: left
   dropdown:
   - title: "Forum de Graduacao"
-    url: "/cfp_fgd/"
+    url: "/forum_graduacao/"
   - title: "Forum de Pos-Graduacao"
-    url: "/cfp_fpg/"
+    url: "/forum_pos_graduacao/"
 
 
 - title: "Programacao"
