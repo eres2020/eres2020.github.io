@@ -20,7 +20,7 @@ header:
       <a href="https://coens.dv.utfpr.edu.br/eres" target="_blank">ERES 2018</a> - Dois Vizinhos-PR - 22 a 24 de Outubro de 2018
 	<img src="{{ site.urlimg }}eres2018.png" alt="">
     </div><!-- /.medium-8.columns -->
-
+<br>
     <div class="medium-8 columns t30">      
 	<a href="http://www2.sbc.org.br/eres2019" target="_blank">ERES 2019</a> - Alto Vale do Itajai-SC - 07 a 09 de Outubro de 2019
 	<img src="{{ site.urlimg }}eres2019.png" alt="">
