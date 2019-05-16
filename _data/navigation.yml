@@ -34,6 +34,17 @@
 - title: "Contato"
   url: "/contato/"
   side: right
+  dropdown:
+  - title: "UEM"
+    url: "/uem/"
+  - title: "Como Chegar"
+    url: "/como_chegar/"
+  - title: "Hospedagem"
+    url: "/hospedagem/"
+  - title: "Refeicoes"
+    url: "/refeicoes/"
+  - title: "Sobre Maringa"
+    url: "/maringa/"
 
 - title: "Edicoes Anteriores"
   url: "/edicoes_anteriores/"

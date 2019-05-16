@@ -1,14 +1,16 @@
 ---
 layout: page-fullwidth
-title: "Contato"
-meta_title: "Duvidas? Entre em contato conosco"
+title: "Forum de Graduacao"
+#meta_title: "Duvidas? Entre em contato conosco"
 subheadline: ""
-teaser: "Entre em contato conosco pelo e-mail eres2020.uem@gmail.com"
+#teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/forum_graduacao/"
 header:
    image_fullwidth: fachada_uem.jpg
-
 ---
+
+
+
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
