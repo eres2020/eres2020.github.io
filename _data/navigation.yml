@@ -30,10 +30,6 @@
 - title: "Local do Evento"
   url: "/local_evento/"
   side: left
-
-- title: "Contato"
-  url: "/contato/"
-  side: right
   dropdown:
   - title: "UEM"
     url: "/uem/"
@@ -45,6 +41,11 @@
     url: "/refeicoes/"
   - title: "Sobre Maringa"
     url: "/maringa/"
+
+
+- title: "Contato"
+  url: "/contato/"
+  side: right
 
 - title: "Edicoes Anteriores"
   url: "/edicoes_anteriores/"
