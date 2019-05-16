@@ -1,6 +1,6 @@
----
+﻿---
 layout: page-fullwidth
-title: "Edicoes Anteriores da ERES"
+title: "Edições Anteriores da ERES"
 #meta_title: "Duvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -12,7 +12,7 @@ header:
 
 
 <div class="medium-8 columns t30">
-	<b>Alegrete-RS</b>
+	<b>Alegrete-RS 2017</b>
 	<a href="https://eventos.unipampa.edu.br/eres" target="_blank">  	
 		<img src="{{ site.urlimg }}eres2017.png" alt="">
 	</a>
@@ -21,7 +21,7 @@ header:
 <br> 
 
 <div class="medium-8 columns t30">
-      <b>Dois Vizinhos-PR</b>	
+      <b>Dois Vizinhos-PR 2018</b>	
 	<a href="https://coens.dv.utfpr.edu.br/eres" target="_blank">
 		<img src="{{ site.urlimg }}eres2018.png" alt=""></a> 
 </div><!-- /.medium-8.columns -->
@@ -29,7 +29,7 @@ header:
 <br> 
 
 <div class="medium-8 columns t30">      
-	<b>Alto Vale do Itajai-SC</b>
+	<b>Alto Vale do Itajai-SC 2019</b>
 	
 	<a href="http://www2.sbc.org.br/eres2019" target="_blank">
 		<img src="{{ site.urlimg }}eres2019.png" alt="">
