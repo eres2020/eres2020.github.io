@@ -27,8 +27,8 @@
   url: "/inscricoes/"
   side: left
 
-- title: "Comitês"
-  url: "/comites/"
+- title: "Organização"
+  url: ""
   side: left
   dropdown:
   - title: "Coordenação Geral"
