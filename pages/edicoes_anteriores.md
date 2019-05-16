@@ -39,10 +39,9 @@ header:
 </div><!-- /.medium-8.columns -->
 </div>
 
-    <div class="medium-8 columns b30">
-        <img src="{{ site.urlimg }}mapa_edicoes_eres.png" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
+	<div class="medium-8 columns b30">
+        <img src="{{ site.urlimg }}mapa_edicoes_eres.png" alt="">        
+    	</div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
 
