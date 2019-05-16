@@ -10,6 +10,13 @@
     url: "/forum_graduacao/"
   - title: "Forum de Pos-Graduacao"
     url: "/fposgrad/"
+  - title: "Oficina Engenheiras de Software"
+    url: "/oficina/"
+  - title: "Minicursos"
+    url: "/minicursos/"
+  - title: "Palestras"
+    url: "/palestras/"
+
 
 
 - title: "Programacao"
@@ -26,6 +33,16 @@
 - title: "Comites"
   url: "/comites/"
   side: left
+  dropdown:
+  - title: "Coordenacao Geral"
+    url: "/coordenacao_geral/"
+  - title: "Coordenadores de Eventos"
+    url: "/coordenacao_eventos/"
+  - title: "Comite Cientifico"
+    url: "/comite_cientifico/"
+  - title: "Comite Diretivo"
+    url: "/comite_diretivo/"
+
 
 - title: "Local do Evento"
   url: "/local_evento/"
@@ -50,3 +67,4 @@
 - title: "Edicoes Anteriores"
   url: "/edicoes_anteriores/"
   side: right
+
