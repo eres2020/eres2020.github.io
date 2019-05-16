@@ -21,9 +21,9 @@ header:
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
-	
-	<br>
-	
+	</div><!-- /.row -->
+
+<div class="row t30">		
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}marcello.gif" alt=""><br>
         <b>Prof. Dr. Donizete Carlos Bruzarosco</b><br>
