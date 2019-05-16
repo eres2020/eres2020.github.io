@@ -1,21 +1,21 @@
-- menu_name: "Dankeschön"
+- menu_name: "Agradecimentos"
 
-- name: "Icons by Daniel Bruce"
+- name: "Icones by Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Icones de Daniel Bruce"
 
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Desenvolvido com Foundation"
 
 - name: "Images by Unsplash"
   url: "http://unsplash.com/"
   class: "rss-link"
-  title: "Images by Unsplash"
+  title: "Imagens de Unsplash"
 
 - name: "Using Backstretch by Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Desenvolvido com Backstretch de Scott Robbin"
