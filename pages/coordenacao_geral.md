@@ -7,23 +7,11 @@ header:
    image_fullwidth: fachada_uem.jpg
 ---
 
-<div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
-        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p>Website: <a href="http://stilwandel-koeln.de">Stilwandel-Koeln.de</a></p>
+        <img src="{{ site.urlimg }}edson.jpg" alt="">
+        Prof. Dr. Edson Oliveira Junior (DIN/UEM)<br>
+		<a href="http://lattes.cnpq.br/8717980588591239">Currículo Lattes</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
