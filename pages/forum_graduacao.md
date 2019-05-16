@@ -1,7 +1,7 @@
----
+﻿---
 layout: page-fullwidth
 title: "Forum de Graduacao"
-#meta_title: "Duvidas? Entre em contato conosco"
+#meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/forum_graduacao/"
