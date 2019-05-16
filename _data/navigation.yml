@@ -6,7 +6,7 @@
   url: ""
   side: left
   dropdown:
-  - title: "Fórum de Graduação"
+  - title: "Forum de Graduação"
     url: "/forum_graduacao/"
   - title: "Fórum de Pós-Graduação"
     url: "/fposgrad/"
