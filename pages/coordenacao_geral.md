@@ -33,7 +33,7 @@ header:
 	
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}marcello.gif" alt=""><br>
-        <b>Prof. Ms. Marcello Erick Bonfim</b><br>
+        <b>Prof. Me. Marcello Erick Bonfim</b><br>
 		<b>UniCesumar</b><br>
 		<a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
