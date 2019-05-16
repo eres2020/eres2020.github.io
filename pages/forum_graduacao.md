@@ -13,9 +13,9 @@ O Fórum de Graduação da ERES 2020 apresentará os trabalhos de pesquisa ou re
 
 Submissões serão avaliadas pelo Comitê Científico da ERES com base na clareza da proposta, relevância do tema e qualidade da apresentação. Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento. Os autores de artigos de pesquisas em estágios iniciais que não forem aceitos para publicação nos anais do evento, poderão ser convidados para apresentação na Sessão de Pôsteres. Os melhores trabalhos de cada categoria e a melhor apresentação de pôster receberão certificado de menção honrosa.
 
-<b>Submissão de Artigos:</b> xx/xx/2020 às 23:59 (dia-da-semana)
-<b>Notificação dos Autores:</b> xx/xx/2020 (dia-da-semana)
-<b>Entrega da Versão Final:</b> xx/xx/2020 (dia-da-semana)
+<b>Submissão de Artigos:</b> xx/xx/2020 às 23:59 (dia-da-semana)<br>
+<b>Notificação dos Autores:</b> xx/xx/2020 (dia-da-semana)<br>
+<b>Entrega da Versão Final:</b> xx/xx/2020 (dia-da-semana)<br>
 
 <h1>Tópicos de Interesse:</h1>
 
@@ -51,13 +51,13 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 <li>Educação e Treinamento em Engenharia de Software</li>
 </ul>
  
-<h1>Formato e Página de submissão:</h1>
+<h1>Formato e Página de Submissão:</h1>
 
 Os artigos devem ser escritos em português ou inglês e submetidos exclusivamente no formato PDF por meio da Plataforma JEMS – ERES graduação 2020. A formatação do texto deve seguir o Modelo para Publicação de Artigos da SBC. Os artigos que não seguirem o estilo não serão avaliados pelos revisores.
 
-link para o template de artigos da SBC: http://www.sbc.org.br/documentos-da-sbc/send/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos
+link para o template de artigos da SBC: <a href="http://www.sbc.org.br/documentos-da-sbc/send/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos" target="_blank">Template</a>
 
-link para submissão: https://jems.sbc.org.br/home.cgi?c=3178
+link para submissão: <a href="" target="_blank">Submissão</a>
 
 
 
