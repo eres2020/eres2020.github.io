@@ -3,6 +3,11 @@
   class: icon-github
   title: Website ERES 2020
 
+#- name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: "ERES 2020"
+
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
@@ -22,11 +27,6 @@
 #  url: https://plus.google.com/u/0/+Phlow
 #  class: icon-googleplus
 #  title: "YouTube Google+"
-
- - name: Facebook
-   url: http://www.facebook.com/eres2020
-   class: icon-facebook
-   title: "ERES 2020"
 
 #- name: Soundcloud
 #  url: http://soundcloud.com/
