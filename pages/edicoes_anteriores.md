@@ -20,7 +20,6 @@ header:
 	</a>
 </div><!-- /.medium-8.columns -->
 
-<br>
 
 <div class="medium-4 columns t30">
       <b>Dois Vizinhos-PR</b>	
@@ -28,7 +27,6 @@ header:
 		<img src="{{ site.urlimg }}eres2018.png" alt=""></a> 
 </div><!-- /.medium-8.columns -->
 
-<br>
 
 <div class="medium-4 columns t30">      
 	<b>Alto Vale do Itajai-SC</b>
