@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Forum de Graduacao"
-    url: "/forum_graduacao/"
+    url: "/forum-graduacao/"
   - title: "Forum de Pos-Graduacao"
     url: "/forum_pos_graduacao/"
 
