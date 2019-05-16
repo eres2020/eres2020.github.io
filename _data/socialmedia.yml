@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/phlow
   class: icon-github
-  title: "Website ERES 2020"
+  title: Website ERES 2020
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
@@ -28,22 +28,22 @@
    class: icon-facebook
    title: "ERES 2020"
 
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
+#- name: Soundcloud
+#  url: http://soundcloud.com/
+#  class: icon-soundcloud
+#  title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+#- name: Instagram
+#  url: http://instagram.com/
+#  class: icon-instagram
+#  title: ""
 
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
+#- name: Pinterest
+#  url: http://www.pinterest.com/
+#  class: icon-pinterest
+#  title: ""
 
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+#- name: Xing
+#  url: https://www.xing.com/profile/
+#  class: icon-xing
+#  title: Xing Profil
