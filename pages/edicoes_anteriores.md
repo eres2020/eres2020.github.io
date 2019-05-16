@@ -20,7 +20,8 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+	<a href="https://eventos.unipampa.edu.br/eres" target="_blank">ERES 2017</a> - Alegrete-RS - 18 a 20 de Outubro de 2017
+    	<img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
