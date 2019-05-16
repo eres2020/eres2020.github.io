@@ -1,16 +1,14 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
-categories:
-    - design
+title: "Contato"
+meta_title: "Duvidas? Entre em contato conosco"
+subheadline: ""
+teaser: "Entre em contato conosco pelo e-mail eres2020.uem@gmail.com"
+permalink: "/forum_graduacao/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
----
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
-<!--more-->
+   image_fullwidth: fachada_uem.jgg
 
+---
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
@@ -41,4 +39,3 @@ header:
 
 
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
