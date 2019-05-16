@@ -1,7 +1,7 @@
-- name: GitHub
-  url: http://github.com/eres2020
-  class: icon-github
-  title: Github de ERES 2020
+#- name: GitHub
+#  url: http://github.com/eres2020
+#  class: icon-github
+#  title: Github de ERES 2020
 
 - name: Facebook
   url: http://www.facebook.com/eres2020
