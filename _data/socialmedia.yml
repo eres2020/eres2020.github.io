@@ -6,17 +6,17 @@
 - name: Facebook
   url: http://www.facebook.com/eres2020
   class: icon-facebook
-  title: "ERES 2020 no Facebook"
+  title: "Siga a ERES 2020 no Facebook"
+
+- name: Twitter
+  url: http://twitter.com/2020Eres
+  class: icon-twitter
+  title: "Siga a ERES 2020 no Twitter"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf #YouTube"
-
-#- name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 #- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
