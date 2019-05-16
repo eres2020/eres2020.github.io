@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Forum de Graduacao"
-    url: "/fgrad"
+    url: "/fgrad/"
   - title: "Forum de Pos-Graduacao"
     url: "/fposgrad/"
 
@@ -32,7 +32,7 @@
   side: left
 
 - title: "Contato"
-  url: "/contato/"
+  url: "/contact/"
   side: right
 
 - title: "Edicoes Anteriores"
