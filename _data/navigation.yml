@@ -1,4 +1,4 @@
-- title: Início
+ï»¿- title: InÃ­cio
   url: "/"
   side: left
 
@@ -6,9 +6,9 @@
   url: ""
   side: left
   dropdown:
-  - title: "Fórum de Graduação"
+  - title: "FÃ³rum de GraduaÃ§Ã£o"
     url: "/forum_graduacao/"
-  - title: "Fórum de Pós-Graduação"
+  - title: "FÃ³rum de PÃ³s-GraduaÃ§Ã£o"
     url: "/fposgrad/"
   - title: "Oficina Engenheiras de Software"
     url: "/oficina/"
@@ -19,28 +19,28 @@
 
 
 
-- title: "Programação"
+- title: "ProgramaÃ§Ã£o"
   url: "/programacao/"
   side: left
 
-- title: "Inscrições"
+- title: "InscriÃ§Ãµess"
   url: "/inscricoes/"
 
-- title: "Organização"
+- title: "OrganizaÃ§Ã£o"
   url: "/organizacao/"
   side: left
 
-- title: "Comitês"
+- title: "ComitÃªs"
   url: "/comites/"
   side: left
   dropdown:
-  - title: "Coordenação Geral"
+  - title: "CoordenaÃ§Ã£o Geral"
     url: "/coordenacao_geral/"
   - title: "Coordenadores de Eventos"
     url: "/coordenacao_eventos/"
-  - title: "Comitê Científico"
+  - title: "ComitÃª CientÃ­fico"
     url: "/comite_cientifico/"
-  - title: "Comitê Diretivo"
+  - title: "ComitÃª Diretivo"
     url: "/comite_diretivo/"
 
 
@@ -54,9 +54,9 @@
     url: "/como_chegar/"
   - title: "Hospedagem"
     url: "/hospedagem/"
-  - title: "Refeições"
+  - title: "RefeiÃ§Ãµes"
     url: "/refeicoes/"
-  - title: "Sobre Maringá"
+  - title: "Sobre MaringÃ¡
     url: "/maringa/"
 
 
@@ -64,7 +64,7 @@
   url: "/contato/"
   side: right
 
-- title: "Edições Anteriores"
+- title: "EdiÃ§Ãµes Anteriores"
   url: "/edicoes_anteriores/"
   side: right
 
