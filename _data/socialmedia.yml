@@ -4,9 +4,9 @@
   title: Github de ERES 2020
 
 - name: Facebook
-   url: http://www.facebook.com/
-   class: icon-facebook
-   title: "ERES 2020 no Facebook"
+  url: http://www.facebook.com/eres2020
+  class: icon-facebook
+  title: "ERES 2020 no Facebook"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
