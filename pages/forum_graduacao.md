@@ -9,7 +9,7 @@ header:
    image_fullwidth: fachada_uem.jpg
 ---
 
-O Fórum de Graduação da ERES 2020 apresentará os trabalhos de pesquisa ou relatos de experiência em engenharia de software, desenvolvidos por acadêmicos de graduação, principalmente, das IES paranaenses, gaúchas e catarinenses. Os artigos devem possuir no mínimo 6 páginas e no máximo 8 páginas em língua portuguesa ou inglesa (incluindo as respectivas referências). <b>Os artigos aceitos deverão obritariamente setem apresentados em Sessão de forma Oral.</b>
+O Fórum de Graduação da ERES 2020 apresentará os trabalhos de pesquisa ou relatos de experiência em engenharia de software, desenvolvidos por acadêmicos de graduação, principalmente, das IES paranaenses, gaúchas e catarinenses. Os artigos devem possuir no mínimo 6 páginas e no máximo 8 páginas em língua portuguesa ou inglesa (incluindo as respectivas referências). <b>Os artigos aceitos deverão obrigatoriamente setem apresentados em Sessão de forma Oral.</b>
 
 Submissões serão avaliadas pelo Comitê Científico da ERES com base na clareza da proposta, relevância do tema e qualidade da apresentação. Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento. Os autores de artigos de pesquisas em estágios iniciais que não forem aceitos para publicação nos anais do evento, poderão ser convidados para apresentação na Sessão de Pôsteres. Os melhores trabalhos de cada categoria e a melhor apresentação de pôster receberão certificado de menção honrosa.
 
