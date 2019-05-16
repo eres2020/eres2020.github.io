@@ -1,21 +1,21 @@
 - menu_name: "Agradecimentos"
 
-- name: "Icones by Daniel Bruce"
+- name: "Icones de Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
   title: "Icones de Daniel Bruce"
 
-- name: "Built on Foundation"
+- name: "Desenvolvido com Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
   title: "Desenvolvido com Foundation"
 
-- name: "Images by Unsplash"
+- name: "Imagens de Unsplash"
   url: "http://unsplash.com/"
   class: "rss-link"
   title: "Imagens de Unsplash"
 
-- name: "Using Backstretch by Scott Robbin"
+- name: "Desenvolvido com Backstretch de Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Desenvolvido com Backstretch de Scott Robbin"
