@@ -1,8 +1,8 @@
 ﻿---
 layout: page-fullwidth
-title: "Anais da ERES"
+title: "Clique na figura para fazer download dos anais."
 #meta_title: "Duvidas? Entre em contato conosco"
-subheadline: "Clique na figura para fazer download dos anais."
+subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/anais/"
 header:
