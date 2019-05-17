@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Coordenadores de Eventos"
 subheadline: ""
-permalink: "/coordenacao_geral/"
+permalink: "/coordenacao_eventos/"
 header:
    image_fullwidth: banner_eres2020.png
 ---
