@@ -46,7 +46,26 @@ header:
 </div><!-- /.row -->
 
 <br><br>
+
 <h2>Palestars</h2>
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}bonifacio.gif" alt=""><br>
+        <b>Prof. Dr. Adilson Luiz Bonifácio</b><br>
+		<b>UEL</b><br>
+		<a href="http://lattes.cnpq.br/7813535932920546" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}reinehr.gif" alt=""><br>
+        <b>Profa. Dra. Sheila dos Santos Reinehr</b><br>
+		<b>PUCPR - Curitiba</b><br>
+		<a href="http://lattes.cnpq.br/8130292521370915" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<br><br>
 
 <h2>Minicursos</h2>
 
