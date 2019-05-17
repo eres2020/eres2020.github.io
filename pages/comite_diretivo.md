@@ -87,21 +87,16 @@ header:
 
 <br><br>
 
-<h2>Secretaria Regional da SBC - Santa Catarina (2019)</h2>
+<h2>Secretário Regional da SBC - Santa Catarina (2019)</h2>
 
 <div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
-        <b>Prof. Dr. Edson Oliveira Junior</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
 
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}grahl.gif" alt=""><br>
+        <b>Prof. Ms. Everaldo Artur Grahl</b><br>
+		<b>FURB</b><br>
+		<a href="http://lattes.cnpq.br/7343454860362043" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
+	
 </div><!-- /.row -->
 
