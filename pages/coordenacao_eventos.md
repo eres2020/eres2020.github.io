@@ -7,7 +7,7 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h1>Fórum de Graduação</h1>
+<h2>Fórum de Graduação</h2>
 
 <div class="row t30">
     <div class="medium-4 columns">
