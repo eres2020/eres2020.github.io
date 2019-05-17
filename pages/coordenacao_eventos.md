@@ -32,23 +32,3 @@ header:
 <h1>Minicursos</h1>
 
 <h1>Oficina Engenheiras de Software</h1>
-
-
-
-<div class="row t30">		
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}marcello.gif" alt=""><br>
-        <b>Prof. Dr. Donizete Carlos Bruzarosco</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/1291677369114388" target="_blank">Currículo Lattes</a>    
-	</div><!-- /.medium-4.columns -->
-	
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}marcello.gif" alt=""><br>
-        <b>Prof. Me. Marcello Erick Bonfim</b><br>
-		<b>UniCesumar</b><br>
-		<a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
