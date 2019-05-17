@@ -47,7 +47,7 @@ header:
 
 <br><br>
 
-<h2>Palestars</h2>
+<h2>Palestras</h2>
 
 <div class="row t30">
     <div class="medium-4 columns">
