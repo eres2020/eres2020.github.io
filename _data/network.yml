@@ -1,5 +1,10 @@
 ﻿- menu_name: "Agradecimentos"
 
+- name: "ERES 2020 Banner"
+  url: "http://ricardogeraldi.com.br"
+  class: "network-entypo"
+  title: "Banner da ERES 2020 por Prof. Ricardo Geraldi"
+
 - name: "Ícones de Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"

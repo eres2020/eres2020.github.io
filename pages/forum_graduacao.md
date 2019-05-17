@@ -53,7 +53,7 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
  
 <h1>Formato e Página de Submissão:</h1>
 
-Os artigos devem ser escritos em português ou inglês e submetidos exclusivamente no formato PDF por meio da Plataforma JEMS – ERES pós-graduação 2020. A formatação do texto deve seguir o Modelo para Publicação de Artigos da SBC. Os artigos que não seguirem o estilo não serão avaliados pelos revisores.
+Os artigos devem ser escritos em português ou inglês e submetidos exclusivamente no formato PDF por meio da Plataforma JEMS – ERES graduação 2020. A formatação do texto deve seguir o Modelo para Publicação de Artigos da SBC. Os artigos que não seguirem o estilo não serão avaliados pelos revisores.
 
 link para o template de artigos da SBC: <a href="http://www.sbc.org.br/documentos-da-sbc/send/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos" target="_blank">Template</a>
 
