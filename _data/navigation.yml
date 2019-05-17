@@ -62,3 +62,7 @@
   url: "/edicoes_anteriores/"
   side: right
 
+- title: "Anais"
+  url: "/anais/"
+  side: right
+
