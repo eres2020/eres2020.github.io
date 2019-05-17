@@ -4,7 +4,7 @@ title: "Coordenação Geral"
 subheadline: ""
 permalink: "/coordenacao_geral/"
 header:
-   image_fullwidth: fachada_uem.jpg
+   image_fullwidth: banner_eres2020.png
 ---
 
 <div class="row t30">

@@ -1,9 +1,9 @@
 ﻿- menu_name: "Agradecimentos"
 
-- name: "ERES 2020 Banner"
+- name: "Banner ERES por Ricardo Geraldi"
   url: "http://ricardogeraldi.com.br"
   class: "network-entypo"
-  title: "Banner da ERES 2020 por Prof. Ricardo Geraldi"
+  title: "Banner ERES por Ricardo Geraldi"
 
 - name: "Ícones de Daniel Bruce"
   url: "http://entypo.com/"
@@ -20,7 +20,7 @@
   class: "rss-link"
   title: "Imagens de Unsplash"
 
-- name: "Desenvolvido com Backstretch de Scott Robbin"
+- name: "Backstretch de Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
-  title: "Desenvolvido com Backstretch de Scott Robbin"
+  title: "Backstretch de Scott Robbin"

@@ -6,7 +6,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/edicoes_anteriores/"
 header:
-   image_fullwidth: fachada_uem.jpg
+   image_fullwidth: banner_eres2020.png
 ---
 
 

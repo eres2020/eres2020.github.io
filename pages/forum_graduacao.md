@@ -6,7 +6,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/forum_graduacao/"
 header:
-   image_fullwidth: fachada_uem.jpg
+   image_fullwidth: banner_eres2020.png
 ---
 
 O Fórum de Graduação da ERES 2020 apresentará os trabalhos de pesquisa ou relatos de experiência em engenharia de software, desenvolvidos por acadêmicos de graduação, principalmente, das IES paranaenses, gaúchas e catarinenses. Os artigos devem possuir no mínimo <b>6 páginas e no máximo 10 páginas</b> em língua portuguesa ou inglesa (incluindo as respectivas referências). <b>Os artigos aceitos deverão obrigatoriamente setem apresentados em Sessão de forma Oral.</b>
