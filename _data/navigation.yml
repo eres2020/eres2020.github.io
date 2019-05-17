@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Eventos
+- title: Chamada de Trabalhos
   url: ""
   side: left
   dropdown:
@@ -10,12 +10,9 @@
     url: "/forum_graduacao/"
   - title: "Fórum de Pós-Graduação"
     url: "/forum_pos_graduacao/"
-  - title: "Oficina Engenheiras de Software"
-    url: "/oficina/"
-  - title: "Minicursos"
-    url: "/minicursos/"
-  - title: "Palestras"
-    url: "/palestras/"
+  - title: "Trilha da Indústria"
+    url: "/trilha_industria/"
+  
 
 
 
