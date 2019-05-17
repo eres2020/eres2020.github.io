@@ -1,4 +1,4 @@
----
+﻿---
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: fachada_uem.jpg
+  image_fullwidth: banner_eres2020.png
 #maringa.jpeg
 
 
