@@ -31,7 +31,7 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}oliveira.jpg" alt=""><br>
+        <img src="{{ site.urlimg }}oliveira.gif" alt=""><br>
         <b>Prof. Dr. Rafael Alves Paes de Oliveira</b><br>
 		<b>UTFPR - Dois Vizinhos</b><br>
 		<a href="http://lattes.cnpq.br/0793753941171478" target="_blank">Currículo Lattes</a>
@@ -51,7 +51,7 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}santos.jpg" alt=""><br>
+        <img src="{{ site.urlimg }}santos.gif" alt=""><br>
         <b>Prof. Dr. Fernando dos Santos</b><br>
 		<b>UDESC</b><br>
 		<a href="http://lattes.cnpq.br/9532186865794326" target="_blank">Currículo Lattes</a>
