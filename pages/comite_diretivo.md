@@ -15,8 +15,7 @@ O comitê diretivo da ERES é composto: dos coordenadores gerais das últimas du
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}oliveira.gif" alt=""><br>
         <b>Prof. Dr. Rafael Alves Paes de Oliveira</b><br>
-		<b>UTFPR - Dois Vizinhos</b><br>
-		<i><b>Presidente do Comitê Diretivo</b></i><br>
+		<b>UTFPR - Dois Vizinhos</b><br>		
 		<a href="http://lattes.cnpq.br/0793753941171478" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
@@ -37,6 +36,7 @@ O comitê diretivo da ERES é composto: dos coordenadores gerais das últimas du
         <img src="{{ site.urlimg }}santos.gif" alt=""><br>
         <b>Prof. Dr. Fernando dos Santos</b><br>
 		<b>UDESC</b><br>
+		<i><b>Presidente do Comitê Diretivo</b></i><br>
 		<a href="http://lattes.cnpq.br/9532186865794326" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
