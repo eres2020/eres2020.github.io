@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: "Clique na figura para fazer download dos anais."
+title: ""
 #meta_title: "Duvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -9,6 +9,7 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
+<h2>Clique na figura para fazer download dos anais.</h2>
 
 <div class="medium-8 columns t30">
 	<b>Alegrete-RS 2017</b>
