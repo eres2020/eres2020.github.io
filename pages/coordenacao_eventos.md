@@ -25,7 +25,7 @@ header:
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-<br>
+<br><br>
 
 <h1>Fórum de Pós-Graduação</h1>
 
