@@ -41,10 +41,10 @@ O comitê diretivo da ERES é composto: dos coordenadores gerais das últimas du
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}heck.gif" alt=""><br>
+        <b>Prof. Me. Cristhian Heck</b><br>
+		<b>IFC</b><br>
+		<a href="http://lattes.cnpq.br/4257719910378614" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
