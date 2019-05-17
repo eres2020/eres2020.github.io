@@ -7,25 +7,7 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Coordenadores ERES 2017</h2>
-
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}rodrigues.gif" alt=""><br>
-        <b>Prof. Dr. Elder de Macedo Rodrigues</b><br>
-		<b>Unipampa</b><br>
-		<a href="http://lattes.cnpq.br/5733269259864085" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
-
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}silveira.gif" alt=""><br>
-        <b>Prof. Dr. Maicon Bernardino da Silveira</b><br>
-		<b>Unipampa</b><br>
-		<a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<br><br>
+O comitê diretivo da ERES é composto: dos coordenadores gerais das últimas duas edições (2018 e 2019), dos coordenadores gerais da edição atual (2020), dos coordenadores gerais da próxima edição (2021) e do secretário regional do estado em que ocorre a edição atual (Paraná, 2020).
 
 <h2>Coordenadores ERES 2018</h2>
 
@@ -87,15 +69,37 @@ header:
 
 <br><br>
 
-<h2>Secretário Regional da SBC - Santa Catarina (2019)</h2>
+
+<h2>Coordenadores ERES 2021</h2>
+<!--
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
+        <b>Prof. Dr. Edson Oliveira Junior</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
+    </div>
+
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
+        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+    </div>
+</div>
+
+<br><br>
+-->
+
+<h2>Secretária Regional da SBC - Paraná (2020)</h2>
 
 <div class="row t30">
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}grahl.gif" alt=""><br>
-        <b>Prof. Ms. Everaldo Artur Grahl</b><br>
-		<b>FURB</b><br>
-		<a href="http://lattes.cnpq.br/7343454860362043" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}bim.gif" alt=""><br>
+        <b>Profa. Dra. Silvia Amélia Bim</b><br>
+		<b>UTFPR - Curitiba</b><br>
+		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 	
 </div><!-- /.row -->
