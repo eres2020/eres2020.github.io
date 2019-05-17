@@ -13,6 +13,8 @@ A trilha de indústria da ERES 2020 é um espaço para apresentação de trabalh
 
 Submissões  serão avaliadas pelo Comitê Científico da ERES com base na clareza da proposta, relevância do tema e qualidade da apresentação. Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento. Os autores de artigos de pesquisas em estágios iniciais que não forem aceitos para publicação nos anais do evento, poderão ser convidados para apresentação na Sessão de Pôsteres. Os melhores trabalhos de cada categoria e a melhor apresentação de pôster receberão certificado de menção honrosa.
 
+<h1>Datas Importantes:</h1>
+
 <b>Submissão de Artigos:</b> xx/xx/2020 às 23:59 (dia-da-semana)<br>
 <b>Notificação dos Autores:</b> xx/xx/2020 (dia-da-semana)<br>
 <b>Entrega da Versão Final:</b> xx/xx/2020 (dia-da-semana)<br>
