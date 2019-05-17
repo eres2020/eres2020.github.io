@@ -27,7 +27,7 @@ header:
 
 <br><br>
 
-<h1>Fórum de Pós-Graduação</h1>
+<h2>Fórum de Pós-Graduação</h2>
 
 <div class="row t30">
     <div class="medium-4 columns">
@@ -46,8 +46,8 @@ header:
 </div><!-- /.row -->
 
 <br><br>
-<h1>Palestars</h1>
+<h2>Palestars</h2>
 
-<h1>Minicursos</h1>
+<h2>Minicursos</h2>
 
-<h1>Oficina Engenheiras de Software</h1>
+<h2>Oficina Engenheiras de Software</h2>
