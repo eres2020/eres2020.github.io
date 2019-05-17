@@ -29,6 +29,23 @@ header:
 
 <h1>Fórum de Pós-Graduação</h1>
 
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}felizardo.gif" alt=""><br>
+        <b>Profa. Dra. Katia Romero Felizardo</b><br>
+		<b>UTFPR - Cornélio Procópio</b><br>
+		<a href="http://lattes.cnpq.br/3546986594133608" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}malucelli.gif" alt=""><br>
+        <b>Profa. Dra. Andreia Malucelli</b><br>
+		<b>PUCPR - Curitiba</b><br>
+		<a href="http://lattes.cnpq.br/4366799353224249" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<br><br>
 <h1>Palestars</h1>
 
 <h1>Minicursos</h1>
