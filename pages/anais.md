@@ -11,6 +11,26 @@ header:
 
 <h2>Clique na figura para fazer download dos anais.</h2>
 
+<div class="medium-8 columns t30">      
+	<b>Maringá-PR 2019</b>
+	
+	<a href="" target="_blank">
+		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
+	</a>
+</div><!-- /.medium-8.columns -->
+
+<br> 
+
+<div class="medium-8 columns t30">      
+	<b>Alto Vale do Itajai-SC 2019</b>
+	
+	<a href="" target="_blank">
+		<img src="{{ site.urlimg }}eres2019.png" alt="">
+	</a>
+</div><!-- /.medium-8.columns -->
+
+<br> 
+
 <div class="medium-8 columns t30">
 	<b>Alegrete-RS 2017</b>
 	<a href="https://eventos.unipampa.edu.br/eres/files/2018/03/anais_eres_2017.pdf" target="_blank">  	
@@ -26,15 +46,8 @@ header:
 		<img src="{{ site.urlimg }}eres2018.png" alt=""></a> 
 </div><!-- /.medium-8.columns -->
 
-<br> 
 
-<div class="medium-8 columns t30">      
-	<b>Alto Vale do Itajai-SC 2019</b>
-	
-	<a href="" target="_blank">
-		<img src="{{ site.urlimg }}eres2019.png" alt="">
-	</a>
-</div><!-- /.medium-8.columns -->
+
 
 
 
