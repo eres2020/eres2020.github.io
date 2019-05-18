@@ -12,7 +12,7 @@ header:
 <h2>Clique na figura para fazer download dos anais.</h2>
 
 <div class="medium-8 columns t30">      
-	<b>Maringá-PR 2019</b>
+	<b>Maringá-PR 2020</b>
 	
 	<a href="" target="_blank">
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
