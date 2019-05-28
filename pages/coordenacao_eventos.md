@@ -51,17 +51,17 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}felizardo.gif" alt=""><br>
-        <b>Profa. Dra. Katia Romero Felizardo</b><br>
-		<b>UTFPR - Cornélio Procópio</b><br>
-		<a href="http://lattes.cnpq.br/3546986594133608" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}zorzo.gif" alt=""><br>
+        <b>Prof. Dr. Avelino F. Zorzo</b><br>
+		<b>PUCRS - Porto Alegre</b><br>
+		<a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}malucelli.gif" alt=""><br>
-        <b>Profa. Dra. Andreia Malucelli</b><br>
-		<b>PUCPR - Curitiba</b><br>
-		<a href="http://lattes.cnpq.br/4366799353224249" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}leal.gif" alt=""><br>
+        <b>Profa. Dra. Gislaine Camila L. Leal</b><br>
+		<b>DEP/UEM</b><br>
+		<a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
