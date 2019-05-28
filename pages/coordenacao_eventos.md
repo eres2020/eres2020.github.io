@@ -107,22 +107,36 @@ header:
 
 <br><br>
 
-<!--<h2>Oficina Engenheiras de Software</h2>
+<h2>Oficina Engenheiras de Software</h2>
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}balancieri.gif" alt=""><br>
-        <b>Prof. Dr. Renato Balancieri</b><br>
-		<b>UNESPAR - Apucarana</b><br>
-		<a href="http://lattes.cnpq.br/7536192699862782" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}bim.gif" alt=""><br>
+        <b>Profa. Dra. Silvia Amélia Bim</b><br>
+		<b>UTFPR - Curitiba</b><br>
+		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
     </div>
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}menolli.gif" alt=""><br>
-        <b>Prof. Dr. André Luís Andrade Menolli</b><br>
-		<b>UENP - Campus Luiz Meneghel</b><br>
-		<a href="http://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}martimiano.gif" alt=""><br>
+        <b>Profa. Dra. Luciana A. F. Martimiano</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/9451394084361809" target="_blank">Currículo Lattes</a>
     </div>
+	
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}feltrim.gif" alt=""><br>
+        <b>Profa. Dra. Valéria D. Feltrim</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/4222504207805706" target="_blank">Currículo Lattes</a>
+    </div>
+
+<!--	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}menolli.gif" alt=""><br>
+        <b>Profa. Dra. Luciana A. F. Martimiano</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/9451394084361809" target="_blank">Currículo Lattes</a>
+    </div>	-->
 </div>
 
--->
