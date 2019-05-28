@@ -13,8 +13,14 @@
   - title: "Trilha da Indústria"
     url: "/trilha_industria/"
   
-
-
+- title: "Palestras e Minicursos"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Palestras"
+    url: ""
+  - title: "Minicursos"
+    url: ""
 
 - title: "Programação"
   url: "/programacao/"
