@@ -13,7 +13,7 @@
   - title: "Trilha da Indústria"
     url: "/trilha_industria/"
   
-- title: "Palestras, Minicursos e Oficina"
+- title: "Palestras e Minicursos"
   url: ""
   side: left
   dropdown:
@@ -21,9 +21,16 @@
     url: ""
   - title: "Minicursos"
     url: ""
-  - title: "Oficina Engenheiras de Software"
-    url: ""
 
+- title: "Oficina e Painel"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Oficina: Engenheiras de Software"
+    url: ""
+  - title: "Painel: Ensino de Engenharia de Software"
+    url: ""
+  
 
 - title: "Programação"
   url: "/programacao/"
