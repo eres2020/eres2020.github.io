@@ -116,15 +116,23 @@ header:
 		<b>UTFPR - Curitiba</b><br>
 		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
     </div>
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}gimenes.gif" alt=""><br>
+        <b>Profa. Dra. Itana M. S. Gimenes</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/9398810362952245" target="_blank">Currículo Lattes</a>
+    </div>
 
+</div>
+	
+<div class="row t30">
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}martimiano.gif" alt=""><br>
         <b>Profa. Dra. Luciana A. F. Martimiano</b><br>
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/9451394084361809" target="_blank">Currículo Lattes</a>
     </div>
-	
-<div class="row t30">
+
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}feltrim.gif" alt=""><br>
         <b>Profa. Dra. Valéria D. Feltrim</b><br>
@@ -132,11 +140,5 @@ header:
 		<a href="http://lattes.cnpq.br/4222504207805706" target="_blank">Currículo Lattes</a>
     </div>
 
-<!--	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}menolli.gif" alt=""><br>
-        <b>Profa. Dra. Luciana A. F. Martimiano</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/9451394084361809" target="_blank">Currículo Lattes</a>
-    </div>	-->
 </div>
 
