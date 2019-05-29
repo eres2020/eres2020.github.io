@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Programação Preliminar"
+permalink: "/programacao/"
 header:
    image_fullwidth: banner_eres2020.png
-permalink: "/programacao/"
 ---
 
-<h1>Programação Preliminar/>
-
-<img src="{{ site.urlimg }}programacao.png" alt="">
+<div class="medium-8 columns">
+	<img src="{{ site.urlimg }}programacao.png" alt="">
+</div>
