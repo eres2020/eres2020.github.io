@@ -22,12 +22,14 @@
   - title: "Minicursos"
     url: ""
 
-- title: "Oficina e Painel"
+- title: "Oficinas e Painel"
   url: ""
   side: left
   dropdown:
-  - title: "Oficina: Engenheiras de Software"
+  - title: "Oficina Engenheiras de Software"
     url: ""
+  - title: "Oficina Pedagógica em Ensino de Engenharia de Software"
+    url: ""    
   - title: "Painel: Ensino de Engenharia de Software"
     url: ""
   
