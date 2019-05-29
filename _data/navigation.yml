@@ -52,6 +52,8 @@
     url: "/comite_cientifico/"
   - title: "Comitê Diretivo"
     url: "/comite_diretivo/"
+  - title: "Apoio Técnico"
+    url: "/apoio_tecnico/"
 
 
 - title: "Local do Evento"
