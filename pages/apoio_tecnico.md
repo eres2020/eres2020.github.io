@@ -8,6 +8,24 @@ header:
 ---
 
 <div class="row t30">
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}cordeiro.gif" alt=""><br>
+        <b>Prof. Me. André F. R. Cordeiro</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>
+    </div>
+
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}cordeiro.gif" alt=""><br>
+        <b>Profa. Me. Juliana K. Yamaguchi</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/9037635618936747" target="_blank">Currículo Lattes</a>
+    </div>	
+
+</div>
+
+
+<div class="row t30">
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
