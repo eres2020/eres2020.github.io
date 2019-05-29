@@ -144,3 +144,14 @@ header:
 
 </div>
 
+<h2>Painel Ensino de Engenharia de Software</h2>
+
+<div class="row t30">
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}gimenes.gif" alt=""><br>
+        <b>Profa. Dra. Itana M. S. Gimenes</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/9398810362952245" target="_blank">Currículo Lattes</a>
+    </div>
+
+</div>
