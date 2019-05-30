@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "A Universidade Estadual de Maringá (UEM)"
 subheadline: ""
-permalink: "/coordenacao_geral/"
+permalink: "/uem/"
 header:
    image_fullwidth: banner_eres2020.png
 ---
