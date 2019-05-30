@@ -7,7 +7,32 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Visão Geral da UEM</h2>
+Os pontos em amarelo representam:
+<ul>
+	<li><b>Bloco C56 - Departamento de Informática</b></li>
+		<ul>
+			<li>Sala 002 - Credenciamento (Térreo)</li>
+			<li>Sala 010 - Minicursos - Laboratório LIN2 (Térreo)</li>
+			<li>Sala 012 - Minicursos - Laboratório LIN1 (Térreo)</li>
+			<li>Sala xxx - Minicursos - Laboratório LIN4 (Térreo)</li>
+			<li>Sala 102 - Auditório do DIN (2o. Pavimento)</li>
+			<li>Sala 101 - Sessões Técnicas (2o. Pavimento)</li>
+		</ul>
+		
+	<li><b>Bloco C34 - Departamento de Economia - Auditório (Sala 013??? - Térreo)</b></li>
+	
+	<li><b>Bloco C67 - Centro de Tecnologia - Auditório (Sala xxx - Térreo)</b></li>
+	
+	<li><b>Bloco B33 - Auditório do PDE (Térreo)</b></li>
+	
+	<li><b>P01 - <a href="http://www.ru.uem.br" target="_blank">Restaurante Universitário (RU)</a> - Almoço e Jantar</b></li>
+	
+	<li><b>E - Estacionamentos</b></li>
+	
+	<li><b>F05 - Cantina - Café</b></li>
+</ul>
+
+<h2>Mapa Geral da UEM</h2>
 
 <div class="medium-32 columns">
 	<img src="{{ site.urlimg }}mapa_uem_eres.png" alt="">
@@ -17,7 +42,7 @@ header:
 <br>
 
 
-<h2>Visão Geral do Local da ERES 2020</h2>
+<h2>Mapa do Local da ERES 2020</h2>
 
 <div class="medium-32 columns">
 	<img src="{{ site.urlimg }}mapa_UEM_eres_corte.png" alt="">
