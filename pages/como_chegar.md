@@ -35,7 +35,7 @@ Os pontos em amarelo representam:
 	<li><b>Bloco 1 - Ambulatório Médico</b></li>
 </ul>
 
-<b><i>Sugerimos o acesso pelos portões 1, 9 ou 2. O portão 1 é o mais distante do local da ERES.</i></b>
+<b><i>Sugerimos o acesso pelos portões 2 (~300m), 9 (~425m) ou 1 (~600m).</i></b>
 
 Na rua Prof. Lauro Werneck tem vários locais para refeição e café, além de papelarias. Há uma agência da Caixa Econômica Federal também nessa rua, dentro da UEM (Bloco 42).
 
