@@ -5,8 +5,11 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+permalink: /index.html
+homepage: true
 header:
   image_fullwidth: banner_eres2020.png
+---
 
 
 <h1>Início</h1>
@@ -23,7 +26,7 @@ A Programação do ERES está sendo elaborada com palestras de profissionais da 
 
 
 
-
+<!--
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -67,4 +70,4 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
+-->
