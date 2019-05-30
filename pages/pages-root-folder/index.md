@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page-fullwidth
+layout: frontpage
 header:
   image_fullwidth: banner_eres2020.png
 
@@ -23,7 +23,7 @@ A Programação do ERES está sendo elaborada com palestras de profissionais da 
 
 
 
-<!--
+
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -37,7 +37,7 @@ widget2:
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 
 
-
+<!--
 
 #
 # Use the call for action to show a button on the frontpage
