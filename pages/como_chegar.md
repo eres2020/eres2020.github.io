@@ -31,9 +31,13 @@ Os pontos em amarelo representam:
 	<li><b>E - Estacionamentos</b></li>
 	
 	<li><b>F05 - Cantina - Café</b></li>
+	
+	<li><b>Bloco 1 - Ambulatório Médico</b></li>
 </ul>
 
 <b><i>Sugerimos o acesso pelos portões 1, 9 ou 2.</i></b>
+
+Na rua Prof. Lauro Werneck tem vários locais para refeição e café, além de papelarias. Há uma agência da Caixa Econômica Federal também nessa rua, dentro da UEM (Bloco 42).
 
 <div class="medium-32 columns">
 	<img src="{{ site.urlimg }}mapa_UEM_eres_corte.png" alt="">
