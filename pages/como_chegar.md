@@ -33,7 +33,7 @@ Os pontos em amarelo representam:
 	<li><b>F05 - Cantina - Café</b></li>
 </ul>
 
-<b><i>Sugerimos o acesso pelos portões 1, 9 ou 2.<i></b>
+<b><i>Sugerimos o acesso pelos portões 1, 9 ou 2.</i></b>
 
 <div class="medium-32 columns">
 	<img src="{{ site.urlimg }}mapa_UEM_eres_corte.png" alt="">
