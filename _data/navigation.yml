@@ -3,7 +3,7 @@
   side: left
 
 - title: Chamada de Trabalhos
-  url: "\chamada"
+  url: "/chamada/"
   side: left  
   
 - title: "Palestras e Minicursos"
