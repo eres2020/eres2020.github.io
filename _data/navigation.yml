@@ -3,15 +3,8 @@
   side: left
 
 - title: Chamada de Trabalhos
-  url: ""
-  side: left
-  dropdown:
-  - title: "Fórum de Graduação"
-    url: "/forum_graduacao/"
-  - title: "Fórum de Pós-Graduação"
-    url: "/forum_pos_graduacao/"
-  - title: "Trilha da Indústria"
-    url: "/trilha_industria/"
+  url: "\chamada"
+  side: left  
   
 - title: "Palestras e Minicursos"
   url: ""
