@@ -79,7 +79,7 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
      Prof. Dr. Edson Oliveira Junior - DIN/UEM
      Profa. Dra. Aline M. M. M. Amaral - DIN/UEM
      Prof. Dr. Donizete Carlos Bruzarosco - DIN/UEM
-     Prof. Me. Marcelo Erick Bonfim - UniCesumar
+     Prof. Me. Marcello Erick Bonfim - UniCesumar
 
 <h2>Coordenação do Fórum de Graduação:</h2>
      Prof. Dr. André Takeshi Endo - UTFPR - Cornélio Procópio
