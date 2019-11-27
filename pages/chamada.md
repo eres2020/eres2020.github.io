@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: "Chamada de Trabalhos: Fóruns de Graduação e Pos-Graduação / Trilha da Indústria"
+title: "Fóruns de Graduação e Pos-Graduação / Trilha da Indústria"
 #meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
