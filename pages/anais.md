@@ -9,7 +9,7 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Clique na figura para fazer download dos anais.</h2>
+<h2>Clique na figura para fazer download ou acessar os anais da ERES.</h2>
 
 <!--<div class="medium-8 columns t30">      
 	<b>Maringá-PR 2020</b>
