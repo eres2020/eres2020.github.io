@@ -76,9 +76,9 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 </ul>
  
 <h2>Coordenação Geral da ERES 2020:</h2>
-     Prof. Dr. Edson Oliveira Junior - UEM
-     Profa. Dra. Aline M. M. M. Amaral - UEM
-     Prof. Dr. Donizete Carlos Bruzarosco - UEM
+     Prof. Dr. Edson Oliveira Junior - DIN/UEM
+     Profa. Dra. Aline M. M. M. Amaral - DIN/UEM
+     Prof. Dr. Donizete Carlos Bruzarosco - DIN/UEM
      Prof. Me. Marcelo Erick Bonfim - UniCesumar
 
 <h2>Coordenação do Fórum de Graduação:</h2>
