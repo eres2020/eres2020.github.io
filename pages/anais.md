@@ -18,7 +18,6 @@ header:
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
 	</a>
 </div><!-- /.medium-8.columns -->
--->
 <!--<br> -->
 
 <div class="medium-8 columns t30">      
