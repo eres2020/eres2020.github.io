@@ -31,7 +31,7 @@ header:
 <div class="medium-8 columns t30">      
 	<b>Alto Vale do Itajai-SC 2019</b>
 	
-	<a href="http://www2.sbc.org.br/eres2019" target="_blank">
+	<a href="http://eres.sbc.org.br/2019" target="_blank">
 		<img src="{{ site.urlimg }}eres2019.png" alt="">
 	</a>
 </div><!-- /.medium-8.columns -->
