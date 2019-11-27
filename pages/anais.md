@@ -11,20 +11,20 @@ header:
 
 <h2>Clique na figura para fazer download dos anais.</h2>
 
-<div class="medium-8 columns t30">      
+<!--<div class="medium-8 columns t30">      
 	<b>Maringá-PR 2020</b>
 	
 	<a href="" target="_blank">
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
 	</a>
 </div><!-- /.medium-8.columns -->
-
-<br> 
+-->
+<!--<br> -->
 
 <div class="medium-8 columns t30">      
 	<b>Alto Vale do Itajai-SC 2019</b>
 	
-	<a href="" target="_blank">
+	<a href="https://sol.sbc.org.br/index.php/eres/issue/view/474" target="_blank">
 		<img src="{{ site.urlimg }}eres2019.png" alt="">
 	</a>
 </div><!-- /.medium-8.columns -->
