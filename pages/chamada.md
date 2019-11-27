@@ -29,7 +29,7 @@ autores de artigos da Trilha da Indústria devem estar filiados à uma empresa o
  
 <h1>Link para submissão:</h1>
 
-https://jems.sbc.org.br/home.cgi?c=3493 
+<a href="https://jems.sbc.org.br/home.cgi?c=3493" target="_blank">https://jems.sbc.org.br/home.cgi?c=3493<\a>
  
  
 <h1>Datas Importantes:</h1>
