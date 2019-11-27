@@ -75,9 +75,6 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 <li>Educação e Treinamento em Engenharia de Software</li>
 </ul>
  
- 
-<h1>Organização</h1>
- 
 <h2>Coordenação Geral da ERES 2020:</h2>
      Prof. Dr. Edson Oliveira Junior - UEM
      Profa. Dra. Aline M. M. M. Amaral - UEM
