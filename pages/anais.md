@@ -11,6 +11,7 @@ header:
 
 <h2>Clique na figura para fazer download ou acessar os anais da ERES.</h2>
 
+
 <div class="medium-8 columns t30">      
 	<b>Alto Vale do Itajai-SC 2019</b>
 	
