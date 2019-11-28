@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Código de Ética
+  url: "/etica/"
+  side: left  
+
 - title: Chamada de Trabalhos
   url: "/chamada/"
   side: left  
