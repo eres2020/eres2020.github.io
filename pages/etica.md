@@ -13,7 +13,7 @@ header:
 
 <br>
 
-<h3>Todo participante, inscrito ou convidado, concorda com os termos do <a href="https://www.acm.org/code-of-ethics" target="_blank">Código de Ética e Conduta Profissional da ACM</a>.</h3>
+Todo participante, inscrito ou convidado, concorda com os termos do <a href="https://www.acm.org/code-of-ethics" target="_blank">Código de Ética e Conduta Profissional da ACM</a>.
 
 
 
