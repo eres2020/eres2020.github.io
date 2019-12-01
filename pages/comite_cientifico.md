@@ -13,6 +13,7 @@ header:
 
 <h1>Comitê Científico:</h1>
  
+<ul> 
 <li> Adenilso Simão - ICMC/USP</li>
 <li> Adilson Luiz Bonifácio - Universidade Estadual de Londrina (UEL) </li>
 <li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
@@ -32,7 +33,7 @@ header:
 <li> Daniel Gomes Soares - Instituto Federal Catarinense (IFC) </li>
 <li> Eduardo Kroth - UNISC </li>
 <li> Elder de Macedo Rodrigues - Universidade Federal do Pampa (UNIPAMPA) </li>
-<li> Elisa Nakagawa - </li>
+<li> Elisa Nakagawa - ICMC/USP</li>
 <li> Ellen Francine Barbosa - </li>
 <li> Everaldo Artur Grahl - Fundação Universidade Regional de Blumenau (FURB) </li>
 <li> Ewerson Carvalho - Universidade Federal do Pampa (UNIPAMPA) </li>
