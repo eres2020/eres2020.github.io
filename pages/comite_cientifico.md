@@ -42,11 +42,11 @@ header:
 <li> Gilleanes Thorwald Araujo Guedes - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Gislaine Camila L. Leal - DEP/Universidade Estadual de Maringá (UEM) </li>
 <li> Igor Scaliante Wiese - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
-<li> Igor Steinmacher - </li>
+<li> Igor Steinmacher - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Ingrid Nunes - UFRGS </li>
 <li> Itana M. S. Gimenes - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Jean Felipe Patikowski Cheiran - Universidade Federal do Pampa (UNIPAMPA) </li>
-<li> Jose C. Maldonado - </li>
+<li> Jose C. Maldonado - ICMC/USP</li>
 <li> Juliana Herbert - UFCSPA </li>
 <li> Juliano Varella De Carvalho - FEEVALE </li>
 <li> Katia Romero Felizardo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
@@ -73,7 +73,7 @@ header:
 <li> Sabrina Marczak - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
 <li> Sheila Reinehr - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
 <li> Silvia Regina Vergilio - Universidade Federal do Paraná (UFPR) </li>
-<li> Simone do Rocio Senger de Souza - ICMC </li>
+<li> Simone do Rocio Senger de Souza - ICMC/USP </li>
 <li> Thais Christina Webber dos Santos - UNISC </li>
 <li> Thelma Elita Colanzi - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Vanessa Gindri Vieira - Colégio Politécnico da UFSM </li>
