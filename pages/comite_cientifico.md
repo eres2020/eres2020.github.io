@@ -12,15 +12,38 @@ header:
 <hr>
 
 <h1>Comitê Científico:</h1>
- 
+
+<h3>Rio Grande do Sul:<h3>
+
 <ul> 
-<li> Adenilso Simão - ICMC/USP</li>
+
+</ul> 
+
+<h3>Santa Catarina:<h3>
+
+<ul> 
+
+</ul>
+
+
+<h3>Paraná:<h3>
+
+<ul> 
 <li> Adilson Luiz Bonifácio - Universidade Estadual de Londrina (UEL) </li>
-<li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Anderson da Silva Marcolino - Universidade Federal do Paraná (UFPR) </li>
 <li> André Felipe Ribeiro Cordeiro - Universidade Estadual de Maringá (UEM) </li>
 <li> André Luís Andrade Menolli - UENP - Campus Luiz Meneghel </li>
 <li> André Takeshi Endo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
+</ul>
+
+
+<h3>Demais Estados:<h3>
+
+<ul> 
+<li> Adenilso Simão - ICMC/USP</li>
+
+<li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
+
 <li> Andréa Sabedra Bordin - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Andreia Malucelli - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
 <li> Andreia Sabedra Bordin - Universidade Federal do Pampa (UNIPAMPA) </li>
