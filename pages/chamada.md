@@ -9,9 +9,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 <hr>
-<a href="..\CfP_ERES_2020_Maringa.pdf" target="_blank">Download da chamada em A4 (pdf)</a>
-
-<hr>
 
 <h1>Submissão de Trabalhos:</h1>
  
