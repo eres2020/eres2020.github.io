@@ -99,4 +99,5 @@ header:
 <li> Simone do Rocio Senger de Souza - ICMC/USP </li>
 <li> Bruno Barbieri de Pontes Cafeo - Universidade Federal do Matro Grosso do Sul </li>
 <li> Fabiano Ferrari - Universidade Federal de São Carlos (UFSCar) </li>
+<li> Rodrigo Pereira dos Santos (Uniriotec) </li>
 </ul> 
