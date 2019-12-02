@@ -71,7 +71,7 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 <li>Arquitetura de software</li>
 <li>Engenharia de Software Baseada em Busca</li>
 <li>Mineração de repositório de software</li>
-<li>Software Ecossistemas e Sistemas de Sistemas</li>
+<li>Ecossistemas de Software e Sistemas-de-Sistemas</li>
 <li>Educação e Treinamento em Engenharia de Software</li>
 </ul>
  
