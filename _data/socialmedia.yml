@@ -1,37 +1,17 @@
-﻿#- name: GitHub
-#  url: http://github.com/eres2020
-#  class: icon-github
-#  title: Github de ERES 2020
-
-- name: Facebook
-  url: http://www.facebook.com/eres2020
+﻿- name: Facebook
+  url: https://www.facebook.com/eres.sbc
   class: icon-facebook
-  title: "Siga a ERES 2020 no Facebook"
+  title: "Siga a ERES no Facebook"
 
 - name: Twitter
   url: http://twitter.com/2020Eres
   class: icon-twitter
-  title: "Siga a ERES 2020 no Twitter"
-
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf #YouTube"
-
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
-
-#- name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
-
-#- name: Soundcloud
-#  url: http://soundcloud.com/
-#  class: icon-soundcloud
-#  title: ""
+  title: "Siga a ERES no Twitter"
+  
+ - name: Linkedin
+  url: 
+  class: icon-linkedin
+  title: "Siga a ERES Linkedin"
 
 #- name: Instagram
 #  url: http://instagram.com/
