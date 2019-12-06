@@ -30,13 +30,13 @@ autores de artigos da Trilha da Indústria devem estar filiados à uma empresa o
 <a href="https://jems.sbc.org.br/home.cgi?c=3493" target="_blank">Sistema JEMS - https://jems.sbc.org.br/home.cgi?c=3493</a> a partir de 02/Dez/2019.
  
  
-<h1>Datas Importantes:</h1>
+<h1><font color="red">Datas Importantes:</font></h1>
  
 <ul>
-<li>Submissão de artigos:     01/Mar/2020 até as 23h:55m horário de Brasília</li>
-<li>Período de rebuttal:      23/Mar a 29/Mar/2020</li>
-<li>Notificação aos autores:  06/Abr/2020</li>
-<li>Envio da versão final:    13/Abr/2020</li>
+<li><font color="red">Submissão de artigos:     01/Mar/2020 até as 23h:55m horário de Brasília</font></h1>
+<li><font color="red">Período de rebuttal:      23/Mar a 29/Mar/2020</font></h1>
+<li><font color="red">Notificação aos autores:  06/Abr/2020</font></h1>
+<li><font color="red">Envio da versão final:    13/Abr/2020</font></h1>
 </ul> 
  
 <h1>Tópicos de Pesquisa:</h1>
