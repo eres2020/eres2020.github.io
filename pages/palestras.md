@@ -17,10 +17,11 @@ header:
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}edson.jpg" alt="" align="middle"><br>
+        <b>Profa. Dra. Ana Cavlcanti da Regina Rocha (UFRJ)</b><br>		
+		<a href="CV: http://lattes.cnpq.br/6344175997146758" target="_blank">Currículo Lattes</a><br>
+		<h3>Compreendendo as novas perspectivas da melhoria de processos: as novas versões do CMMI e do MPS-SW</h3>
+		A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real.
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
