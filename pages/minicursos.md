@@ -11,12 +11,10 @@ header:
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
         <b></b><br>		
-		<h4>Título: </h4>
-		<br>
-		<b>Data:</b> 
-		<b>Local:</b> 
-		<b>Resumo:</b> 
-		<br><br>
+		<h4>Título: </h4><br>		
+		<b>Data:</b> <br>
+		<b>Local:</b> <br><br>
+		<b>Resumo:</b> <br><br>
 		<b>Bio:</b>
     </div><!-- /.medium-4.columns -->
 
