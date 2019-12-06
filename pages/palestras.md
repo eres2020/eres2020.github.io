@@ -12,7 +12,8 @@ header:
         <img src="{{ site.urlimg }}edson.jpg" alt="" align="middle"><br>
         <b>Profa. Dra. Ellen Francine Barbosa(ICMC/USP)</b><br>		
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br><br>
-		<b></b><br>
+		<h3>Engenharia de Software Aplicada à Educação</h3>
+		A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real.
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
