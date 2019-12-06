@@ -144,6 +144,19 @@ header:
 
 </div>
 
+<h2>Oficina de Ensino e Aprendizagem de Engenharia de Software</h2>
+
+<div class="row t30">
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}barbosa.gif" alt=""><br>
+        <b>Profa. Dra. Ellen Francine Barbosa</b><br>
+		<b>ICMC/USP</b><br>
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a>
+    </div>
+
+</div>
+
+
 <h2>Painel Currículo de Engenharia de Software</h2>
 
 <div class="row t30">
