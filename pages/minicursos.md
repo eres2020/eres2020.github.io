@@ -11,7 +11,7 @@ header:
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
         <b></b><br>		
-		<h4></h4>
+		<h4>Título</h4>
 		<br>
 		<b>Resumo:</b> 
 		<br><br>
