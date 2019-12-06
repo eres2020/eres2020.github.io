@@ -7,101 +7,77 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-O comitê diretivo da ERES é composto: dos coordenadores gerais das últimas duas edições (2018 e 2019), dos coordenadores gerais da edição atual (2020), dos coordenadores gerais da próxima edição (2021) e do secretário regional do estado em que ocorre a edição atual (Paraná, 2020).
-
-<h2>Coordenadores ERES 2018</h2>
-
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}oliveira.gif" alt=""><br>
-        <b>Prof. Dr. Rafael Alves Paes de Oliveira</b><br>
-		<b>UTFPR - Dois Vizinhos</b><br>		
-		<a href="http://lattes.cnpq.br/0793753941171478" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
+        <b>Prof. Dr. Edson Oliveira Junior</b><br>
+		<b>UEM</b><br>		
+		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}oliveira.gif" alt=""><br>
-        <b>Prof. Dr. ????</b><br>
-		<b>???</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}rodrigues.gif" alt=""><br>
+        <b>Prof. Dr. Elder de Macedo Rodrigues</b><br>
+		<b>UNIPAMPA</b><br>
+		<a href="http://lattes.cnpq.br/5733269259864085" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-<br><br>
-
-<h2>Coordenadores ERES 2019</h2>
 
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}santos.gif" alt=""><br>
         <b>Prof. Dr. Fernando dos Santos</b><br>
-		<b>UDESC</b><br>
-		<i><b>Presidente do Comitê Diretivo</b></i><br>
+		<b>UDESC</b><br>		
 		<a href="http://lattes.cnpq.br/9532186865794326" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}heck.gif" alt=""><br>
-        <b>Prof. Me. Cristhian Heck</b><br>
-		<b>IFC</b><br>
-		<a href="http://lattes.cnpq.br/4257719910378614" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}nunes.gif" alt=""><br>
+        <b>Profa. Dra. Ingrid Nunes</b><br>
+		<b>UFRGS</b><br>
+		<a href="http://lattes.cnpq.br/1272997735344283" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 <br><br>
 
-<h2>Coordenadores ERES 2020</h2>
-
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
-        <b>Prof. Dr. Edson Oliveira Junior</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}silveira.gif" alt=""><br>
+        <b>Prof. Dr. Maicon Bernardino da Silveira</b><br>
+		<b>UNIPAMPA</b><br>		
+		<a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}yamaguti.gif" alt=""><br>
+        <b>Prof. Dr. Marcelo Hideki Yamaguti</b><br>
+		<b>PUCRS</b><br>
+		<a href="http://lattes.cnpq.br/1026529199377793" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 <br><br>
 
-
-<h2>Coordenadores ERES 2021</h2>
-<!--
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
-        <b>Prof. Dr. Edson Oliveira Junior</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
-    </div>
-
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
-    </div>
-</div>
-
-<br><br>
--->
-
-<h2>Secretária Regional da SBC - Paraná (2020)</h2>
-
-<div class="row t30">
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}bim.gif" alt=""><br>
-        <b>Profa. Dra. Silvia Amélia Bim</b><br>
-		<b>UTFPR - Curitiba</b><br>
-		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
+        <img src="{{ site.urlimg }}oliveira.gif" alt=""><br>
+        <b>Prof. Dr. Rafael Alves Paes de Oliveira</b><br>
+		<b>UTFPR-DV</b><br>		
+		<a href="http://lattes.cnpq.br/0793753941171478" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
+
 	
 </div><!-- /.row -->
+
+
+
+
+
+
+
+
+
+
 
