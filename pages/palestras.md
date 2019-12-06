@@ -17,7 +17,7 @@ header:
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}rocha.jpg" alt="" align="middle"><br>
+        <img src="{{ site.urlimg }}rocha.gif" alt="" align="middle"><br>
         <b>Profa. Dra. Ana Regina Cavalcanti da Rocha (UFRJ)</b><br>		
 		<a href="http://lattes.cnpq.br/6344175997146758" target="_blank">Currículo Lattes</a><br>
 		<h3>Compreendendo as novas perspectivas da melhoria de processos: as novas versões do CMMI e do MPS-SW</h3>
