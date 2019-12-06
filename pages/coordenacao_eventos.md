@@ -144,7 +144,7 @@ header:
 
 </div>
 
-<h2>Painel Ensino de Engenharia de Software</h2>
+<h2>Painel Currículo de Engenharia de Software</h2>
 
 <div class="row t30">
 	<div class="medium-4 columns">
