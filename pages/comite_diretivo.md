@@ -9,7 +9,7 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.gif" alt=""><br>
+        <img src="{{ site.urlimg }}edson.jpg" alt=""><br>
         <b>Prof. Dr. Edson Oliveira Junior</b><br>
 		<b>UEM</b><br>		
 		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
