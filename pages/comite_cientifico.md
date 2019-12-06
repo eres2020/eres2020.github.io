@@ -83,6 +83,7 @@ header:
 <li> Renato Balancieri - UNESPAR </li>
 <li> Sheila Reinehr - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
 <li> Silvia Regina Vergilio - Universidade Federal do Paraná (UFPR) </li>
+<li> Silvia Amélia Bim - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Thelma Elita Colanzi - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Wesley Klewerton Guêz Assunção - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Willian Watanabe - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
