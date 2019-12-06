@@ -9,7 +9,7 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}edson.jpg" alt="" align="middle"><br>
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
         <b>Profa. Dra. Ellen Francine Barbosa (ICMC/USP)</b><br>		
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>
 		<h3>Engenharia de Software Aplicada à Educação</h3>
@@ -17,7 +17,11 @@ header:
     </div><!-- /.medium-4.columns -->
 
 	<div class="medium-4 columns">
+<<<<<<< HEAD
         <img src="{{ site.urlimg }}rocha.jpg" alt="" align="middle"><br>
+=======
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+>>>>>>> fd201eff0959de2e9d7ff0e61041cb1dfb032f92
         <b>Profa. Dra. Ana Regina Cavalcanti da Rocha (UFRJ)</b><br>		
 		<a href="http://lattes.cnpq.br/6344175997146758" target="_blank">Currículo Lattes</a><br>
 		<h3>Compreendendo as novas perspectivas da melhoria de processos: as novas versões do CMMI e do MPS-SW</h3>
