@@ -53,7 +53,7 @@ header:
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}yamaguchi.gif" alt=""><br>
         <b>Profa. Me. Juliana Keiko Yamaguchi</b><br>
-		<b>UniCesumar</b><br>
+		<b>DIN/UEM</b><br>
 		<a href="" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
