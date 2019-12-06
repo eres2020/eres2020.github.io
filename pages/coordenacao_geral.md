@@ -21,7 +21,7 @@ header:
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
-	</div><!-- /.row -->
+</div><!-- /.row -->
 
 <div class="row t30">		
 	<div class="medium-4 columns">
@@ -36,6 +36,25 @@ header:
         <b>Prof. Me. Marcello Erick Bonfim</b><br>
 		<b>UniCesumar</b><br>
 		<a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+<h1>Apoio Local</h1>
+
+<div class="row t30">		
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}cordeiro.jpg" alt=""><br>
+        <b>Prof. Me. André F. R. Cordeiro</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="" target="_blank">Currículo Lattes</a>    
+	</div><!-- /.medium-4.columns -->
+	
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}yamaguchi.gif" alt=""><br>
+        <b>Profa. Me. Juliana Keiko Yamaguchi</b><br>
+		<b>UniCesumar</b><br>
+		<a href="" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
