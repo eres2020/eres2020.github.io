@@ -119,10 +119,10 @@ header:
 		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
     </div>
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}gimenes.gif" alt=""><br>
-        <b>Profa. Dra. Itana M. S. Gimenes</b><br>
+        <img src="{{ site.urlimg }}thelma.gif" alt=""><br>
+        <b>Profa. Dra. Thelma Elita Colanzi</b><br>
 		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/9398810362952245" target="_blank">Currículo Lattes</a>
+		<a href="http://lattes.cnpq.br/3603496659156120" target="_blank">Currículo Lattes</a>
     </div>
 
 </div>
