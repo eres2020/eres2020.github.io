@@ -15,7 +15,7 @@ header:
 
 Todo participante, inscrito ou convidado, concorda com os termos do <a href="https://www.acm.org/code-of-ethics" target="_blank">Código de Ética e Conduta Profissional da ACM</a>.
 
-<div><iframe name="interno" width="800" height="400" src="https://www.acm.org/code-of-ethics"></iframe></div>
+<iframe name="interno" width="800" height="400" src="https://www.acm.org/code-of-ethics" />
 
 
 
