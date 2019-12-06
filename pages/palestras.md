@@ -1,7 +1,7 @@
 ﻿---
 layout: page-fullwidth
-title: ""
-subheadline: "Palestrantes da ERES 2020"
+title: "Palestrantes da ERES 2020"
+subheadline: ""
 permalink: "/palestras/"
 header:
    image_fullwidth: banner_eres2020.png
