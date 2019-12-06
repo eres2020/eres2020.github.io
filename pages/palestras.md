@@ -1,0 +1,27 @@
+﻿---
+layout: page-fullwidth
+title: "Palestrantes ERES 2020"
+subheadline: ""
+permalink: "/palestras/"
+header:
+   image_fullwidth: banner_eres2020.png
+---
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}edson.jpg" alt="" align="middle"><br>
+        <b>Profa. Dra. Ellen Francine Barbosa(ICMC/USP)</b><br>		
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br><br>
+		<b></b><br>
+    </div><!-- /.medium-4.columns -->
+
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}aline.gif" alt=""><br>
+        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>
+    </div><!-- /.medium-4.columns -->
+	</div><!-- /.row -->
+
+</div><!-- /.row -->
+

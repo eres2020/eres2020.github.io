@@ -15,7 +15,7 @@
   side: left
   dropdown:
   - title: "Palestras"
-    url: ""
+    url: "/palestras/"
   - title: "Minicursos"
     url: ""
 
