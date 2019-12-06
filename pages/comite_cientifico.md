@@ -94,11 +94,11 @@ header:
 
 <ul> 
 <li> Adenilso Simão - ICMC/USP</li>
-<li> Elisa Nakagawa - ICMC/USP</li>
-<li> Ellen Francine Barbosa - ICMC/USP</li>
-<li> Jose C. Maldonado - ICMC/USP</li>
-<li> Simone do Rocio Senger de Souza - ICMC/USP </li>
 <li> Bruno Barbieri de Pontes Cafeo - Universidade Federal do Matro Grosso do Sul </li>
 <li> Fabiano Ferrari - Universidade Federal de São Carlos (UFSCar) </li>
+<li> Elisa Nakagawa - ICMC/USP</li>
+<li> Ellen Francine Barbosa - ICMC/USP</li>
+<li> José C. Maldonado - ICMC/USP</li>
 <li> Rodrigo Pereira dos Santos (UNIRIO) </li>
+<li> Simone do Rocio Senger de Souza - ICMC/USP </li>
 </ul> 
