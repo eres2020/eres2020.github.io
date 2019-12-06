@@ -119,7 +119,7 @@ header:
 		<a href="http://lattes.cnpq.br/1808731785135915" target="_blank">Currículo Lattes</a>
     </div>
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}thelma.gif" alt=""><br>
+        <img src="{{ site.urlimg }}colanzi.gif" alt=""><br>
         <b>Profa. Dra. Thelma Elita Colanzi</b><br>
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/3603496659156120" target="_blank">Currículo Lattes</a>
