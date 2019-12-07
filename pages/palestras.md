@@ -8,17 +8,6 @@ header:
 ---
 
 <div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <b>Profa. Dra. Ellen Francine Barbosa (ICMC/USP)</b><br>		
-		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>
-		<h4>Engenharia de Software Aplicada à Educação</h4>
-		<br>
-		<b>Resumo:</b> 
-		<br><br>
-		<b>Bio:</b> 		
-    </div><!-- /.medium-4.columns -->
-
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}rocha.jpeg" alt="" align="center"><br>
         <b>Profa. Dra. Ana Regina Cavalcanti da Rocha (COPPE/UFRJ)</b><br>		
@@ -29,6 +18,17 @@ header:
 		<br><br>
 		<b>Bio:</b> Professora titular da COPPE/UFRJ, pesquisadora na área de Engenharia de Software, orientou mais de 100 teses e dissertações na área de Qualidade de Software. Formada em Matemática pela UFRJ, com mestrado e doutorado pela PUC-RIO. Em 2010, recebeu o Prêmio Internacional Anita Borg de Agentes de Mudança (EUA), por sua atuação como desenvolvedora do potencial das mulheres na área de tecnologia. Foi responsável pela definição do modelo de melhoria de processos MR-MPS-SW, atualmente com mais de 700 empresas avaliadas. Trabalha com melhoria de processos baseada em multi-modelos, tendo sido a criadora do modelo QPS para Qualidade de Produto de Software.		
     </div><!-- /.medium-4.columns -->
+	
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <b>Profa. Dra. Ellen Francine Barbosa (ICMC/USP)</b><br>		
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>
+		<h4>Engenharia de Software Aplicada à Educação</h4>
+		<br>
+		<b>Resumo:</b> 
+		<br><br>
+		<b>Bio:</b> 		
+    </div><!-- /.medium-4.columns -->	
 </div><!-- /.row -->
 
 
