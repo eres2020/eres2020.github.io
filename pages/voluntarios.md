@@ -13,7 +13,4 @@ header:
 
 <h1>Voluntários:</h1>
 
-<ul> 
-<li> xxxxxxxxxxxxxxxxxxxxxxxx - DIN/UEM </li>
-</ul> 
-
+<h2>Em definição...</h2>
