@@ -8,3 +8,5 @@ header:
 ---
 
 <h2>Em definição...</h4>
+
+<img src="{{ site.urlimg }}margaret.jpeg" alt="Margaret Hamilton" align="center">
