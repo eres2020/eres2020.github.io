@@ -11,5 +11,6 @@ header:
 <br>
 
 <div class="row t30">
+	Margaret Hamilton<br>
 	<img src="{{ site.urlimg }}margaret.jpg" alt="Margaret Hamilton" align="center">
 </div><!-- /.row -->
