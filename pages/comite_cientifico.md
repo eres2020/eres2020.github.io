@@ -44,6 +44,7 @@ header:
 <h3>Santa Catarina:</h3>
 
 <ul> 
+<li> Adilson Vahldick - UDESC</li>
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Daniel Gomes Soares - Instituto Federal Catarinense (IFC) </li>
 <li> Eduardo Kroth - UNISC </li>
@@ -54,6 +55,7 @@ header:
 <li> Marcela Leite - Instituto Federal Catarinense (IFC) </li>
 <li> Marilia Guterres Ferreira - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Maurício F. Galimberti - UFSC </li>
+<li> Pablo Schoeffel - UDESC</li>
 <li> Patrícia Vilain - UFSC </li>
 <li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Ricardo Pereira e Silva - UFSC </li>
