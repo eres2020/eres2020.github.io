@@ -11,5 +11,5 @@ header:
 <br>
 
 <div class="row t30">
-	<img src="{{ site.urlimg }}margaret.jpeg" alt="Margaret Hamilton" align="center">
+	<img src="{{ site.urlimg }}margaret.jpg" alt="Margaret Hamilton" align="center">
 </div><!-- /.row -->
