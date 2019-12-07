@@ -7,6 +7,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Em definição...</h4>
+<h2>Em definição...</h2>
 
 <img src="{{ site.urlimg }}margaret.jpeg" alt="Margaret Hamilton" align="center">
