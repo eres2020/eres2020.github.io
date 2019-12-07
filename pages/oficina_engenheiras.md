@@ -8,5 +8,8 @@ header:
 ---
 
 <h2>Em definição...</h2>
+<br>
 
-<img src="{{ site.urlimg }}margaret.jpeg" alt="Margaret Hamilton" align="center">
+<div class="row t30">
+	<img src="{{ site.urlimg }}margaret.jpeg" alt="Margaret Hamilton" align="center">
+</div><!-- /.row -->
