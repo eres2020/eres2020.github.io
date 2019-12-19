@@ -7,6 +7,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<div class="medium-64 columns">
+<!--<div class="medium-64 columns"> -->
 	<img src="{{ site.urlimg }}programacao.png" alt="">
-</div>
+<!--</div> -->
