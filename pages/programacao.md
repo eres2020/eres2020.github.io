@@ -7,5 +7,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-
+<div >
 	<img src="{{ site.urlimg }}programacao.png" alt="" height="100%" width="100%" />
+</div>
