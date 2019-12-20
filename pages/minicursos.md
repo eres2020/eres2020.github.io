@@ -18,15 +18,6 @@ header:
 		<b>Bio:</b> Atualmente é desenvolvedor Java no iFood. É certificado pela Oracle e AWS com 9 anos de experiência em desenvolvimento desktop, aplicações web, e desenvolvimento para dispositivos móveis na plataforma Android. É graduado em Sistemas de Informação na UENP, Campus Luiz Meneguel. É apaixonado por empreendedorismo, resolução de problemas e música.
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-8 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <b></b><br>		
-		<h4>Título: </h4><br>		
-		<b>Data:</b> <br>
-		<b>Local:</b> <br><br>
-		<b>Resumo:</b> <br><br>
-		<b>Bio:</b>
-    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 
