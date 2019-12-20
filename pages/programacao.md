@@ -9,6 +9,6 @@ header:
 
 <div class="row t60">
 	<div class="medium-32 columns">
-		<img src="{{ site.urlimg }}programacao.png" alt="" height="100%" width="100%" />
+		<img src="{{ site.urlimg }}programacao.png"/>
 	</div>
 </div>
