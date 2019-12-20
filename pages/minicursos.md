@@ -10,7 +10,7 @@ header:
 <div class="row t30">
     <div class="medium-8 columns">
         <img src="{{ site.urlimg }}roberto_elero.png" alt="" align="middle"><br>
-        <h4>Roberto Elero Junior - iFood</h4><br>		
+        <h3>Roberto Elero Junior (iFood)</h3>
 		<h4>Título: Arquitetura Hexagonal </h4><br>		
 		<b>Data:</b> <br>
 		<b>Local:</b> <br><br>
