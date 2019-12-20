@@ -21,3 +21,16 @@ header:
 
 </div><!-- /.row -->
 
+<div class="row t30">
+    <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <h3>Fernando Godói (PagSeguro)</h3>
+		<h4>Título: Microsserviços (MC 2) </h4><br>		
+		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
+		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
+		<b>Bio:</b> ...
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
