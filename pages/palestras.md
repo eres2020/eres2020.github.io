@@ -23,16 +23,19 @@ header:
     </div><!-- /.medium-4.columns -->
 </div><!-- /.medium-4.columns -->
 
-<div class="row t30">	
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+<div class="row t30">
+	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="center"><br>
         <b>Profa. Dra. Ellen Francine Barbosa (ICMC/USP)</b><br>		
-		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>
-		<h4>Engenharia de Software Aplicada à Educação</h4>
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
+		<h4>Título: Engenharia de Software Aplicada à Educação (Palestra B) </h4><br>		
+		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
+		<b>Hora:</b> 13h:30m - 15h:00m (1,5 horas) <br>
+		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
 		<br>
-		<b>Resumo:</b> 
+		<p class="text-justify"><b>Resumo:</b>.</p>
 		<br><br>
-		<b>Bio:</b> 		
-    </div><!-- /.medium-4.columns -->	
-</div><!-- /.row -->
+		<p class="text-justify"><b>Bio:</b>.</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns -->
 
