@@ -12,7 +12,11 @@ header:
         <img src="{{ site.urlimg }}rocha.jpeg" alt="" align="center"><br>
         <b>Profa. Dra. Ana Regina Cavalcanti da Rocha (COPPE/UFRJ)</b><br>		
 		<a href="http://lattes.cnpq.br/6344175997146758" target="_blank">Currículo Lattes</a><br>
-		<h4>Compreendendo as novas perspectivas da melhoria de processos: as novas versões do CMMI e do MPS-SW</h4>
+		
+		<h4>Título: Compreendendo as novas perspectivas da melhoria de processos: as novas versões do CMMI e do MPS-SW (Palestra A) </h4><br>		
+		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
+		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
+		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
 		<br>
 		<p class="text-justify"><b>Resumo:</b> Esta palestra mostrará a importância da melhoria de processos e os benefícios que traz às empresas. Apresentará os novos modelos CMMI-DEV v 2.0 e MPS-SW:2020 e as novas perspectivas para a melhoria de processos e produtividade nas empresas. Será também apresentado como dar início à melhoria de processos com o MPS e sua compatibilidade com os métodos ágeis. Por fim, será  mostrada a compatibilidade entre os modelos CMMI e MPS-SW.</p>
 		<br><br>
