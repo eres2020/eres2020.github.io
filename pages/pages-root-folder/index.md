@@ -27,7 +27,7 @@ A Programação do ERES está sendo elaborada com palestras de profissionais da 
 
 
 <div class="row t30">	
-	<img src="{{ site.urlimg }}painel.jpg" alt="" align="center">
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->
 
 
