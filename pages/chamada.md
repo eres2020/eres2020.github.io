@@ -95,4 +95,6 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 
 
 
-
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

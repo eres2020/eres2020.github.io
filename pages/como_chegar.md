@@ -43,3 +43,7 @@ Na rua Prof. Lauro Werneck tem vários locais para refeição e café, além de 
 	<img src="{{ site.urlimg }}mapa_UEM_eres_corte.png" alt="">
 </div>
 
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

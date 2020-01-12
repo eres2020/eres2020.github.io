@@ -13,3 +13,7 @@ header:
 <div class="row t30">	
 	<img src="{{ site.urlimg }}painel.jpg" alt="" align="center">
 </div><!-- /.row -->
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

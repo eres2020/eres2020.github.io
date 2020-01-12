@@ -62,3 +62,7 @@ header:
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->
