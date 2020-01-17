@@ -39,6 +39,24 @@ header:
     </div><!-- /.medium-4.columns -->
 </div><!-- /.medium-4.columns -->
 
+<div class="row t30">
+	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="center"><br>
+        <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>		
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
+		<h4>Título: Lei Geral de Proteção dos Dados (LGPD) (Palestra E) </h4><br>		
+		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
+		<b>Hora:</b> 13h:30m - 15h:00m (1,5 horas) <br>
+		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
+		<br>
+		<p class="text-justify"><b>Resumo:</b>.</p>
+		<br><br>
+		<p class="text-justify"><b>Bio:</b>.</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns -->
+
+
+
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->

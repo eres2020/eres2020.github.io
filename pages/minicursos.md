@@ -49,19 +49,7 @@ header:
 
 </div><!-- /.row -->
 
-<div class="row t30">
-    <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Profa. Dra. Michelle Silva Wangham (UNIVALI)</h3>
-		<h4>Título: Lei Geral de Proteção dos Dados (LGPD) (MC 8) </h4><br>		
-		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
-		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
-		<b>Local:</b> a definir<br><br>
-		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
-		<b>Bio:</b> ...
-    </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
