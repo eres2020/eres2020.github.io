@@ -15,7 +15,7 @@ header:
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) e 21/05/2020 (Quinta-Feira)<br>
 		<b>Hora:</b> 10h:30m - 12h:00m (3,0 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
-		<p class="text-justify"><b>Resumo:</b> Entenda a importância de testar seu código com código utilizando o JUnit, com uma metodologia mão na massa. Aprenda também a automatizar esses testes e outros processos necessários para a entrega do seu código adotando a Integração Contínua (CI) com o Jenkins.</p><br><br>
+		<p class="text-justify"><b>Resumo:</b> Entenda a importância de testar seu código utilizando o JUnit, com uma metodologia mão na massa. Aprenda também a automatizar esses testes e outros processos necessários para a entrega do seu código adotando a Integração Contínua (CI) com o Jenkins.</p><br><br>
 		<b>Bio:</b> ...
     </div><!-- /.medium-4.columns -->
 
