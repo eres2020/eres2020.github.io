@@ -23,6 +23,20 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}silva.jpg" alt="" align="middle"><br>
+        <h3>Prof. Dr. Gabriel Costa Silva (UTFPR - Cornélio Procópio)</h3>
+		<h4>Título: Desenvolvimento Rápido de Aplicações Usando Ferramentas "Low Code" (MC 5) </h4><br>		
+		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN2 sala 10 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> Ferramentas 'Low Code' permitem criar uma variedade de aplicações usando pouco código. O resultado prático é que mesmo profissionais com pouco ou nenhum conhecimento de engenharia de software são capazes de criar aplicações profissionais com poucos cliques. Outra vantagem dessas ferramentas é a agilidade. Mesmo profissionais experientes podem usar essas ferramentas para desenvolver rapidamente protótipos ou partes repetitivas em aplicações, como CRUDs, por exemplo. Neste curso, vamos apresentar algumas ferramentas 'Low Code' gratuitas que podem ser usadas para o desenvolvimento rápido de aplicações Web responsivas. </p><br><br>
+		<b>Bio:</b> Doutor pela University of York (2017), possui 3 certificações Java além da OMG Certified UML Professional. Atuou na indústria por 11 anos em uma distribuidora da ABInBev. Na academia, atua como professor do magistério superior desde 2008, ministrando disciplinas na área de Engenharia de Software. Atua como pesquisador desde 2004, desenvolvendo pesquisa nas áreas de Orientação a Aspectos, Serviços Web e Computação em Nuvem/Cloudware. Atualmente é professor na UTFPR - campus Cornélio Procópio, onde trabalha em parceria com o IAPAR-EMATER, SENAR e EMBRAPA Soja no desenvolvimento de aplicações para o aumento da eficiência na coleta e análise de dados do Manejo Integrado de Pragas e Doenças da Soja.
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-16 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
         <h3>Fernando Godói (PagSeguro)</h3>
 		<h4>Título: Microsserviços (MC 2) </h4><br>		
@@ -35,16 +49,8 @@ header:
 
 </div><!-- /.row -->
 
-<div class="row t30">
-    <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Profa. Dra. Michelle Silva Wangham (UNIVALI)</h3>
-		<h4>Título: Lei Geral de Proteção dos Dados (LGPD) (MC 8) </h4><br>		
-		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
-		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
-		<b>Local:</b> a definir<br><br>
-		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
-		<b>Bio:</b> ...
-    </div><!-- /.medium-4.columns -->
 
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->

@@ -9,8 +9,12 @@ header:
 
 <div class="row t30">
 	<div class="medium-32 columns">
-		<a href="{{ site.urlimg }}programacao.pdf" target="_blank">Clique aqui para programação em PDF</a><br>
+		<a href="{{ site.urlimg }}programacao.pdf" target="_blank">Clique aqui para programação em PDF</a><br><br>
 		<img src="{{ site.urlimg }}programacao.png"/><br>		
 	</div>
 </div>
 
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

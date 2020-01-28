@@ -16,7 +16,7 @@ A ERES 2020 incentiva a apresentação de trabalhos de pesquisa ou relatos de ex
  
 Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas para o Fórum de Graduação ou o Fórum de Pós-Graduação, e mínimo de 3 páginas e máximo de 6 páginas para a Trilha da Indústria (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2020. Os anais da ERES 2020 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL).
  
-Todos os artigos devem ser submetidos respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos. 
+Todos os artigos devem ser submetidos <b>SEM A IDENTIFICAÇÃO DOS AUTORES E DE SUAS INSTITUIÇÕES (BLIND)</b>, respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos. 
  
 Submissões serão avaliadas pelos respectivos Comitês de Programa com base na clareza da proposta, relevância do tema e qualidade da apresentação. Pelo menos 1 (um) dos autores de cada artigo aceito deve se inscrever e apresentar o trabalho no evento de forma presencial. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha. Os autores de artigos em estágios iniciais que não forem aceitos para publicação nos anais do evento, poderão ser convidados para apresentação na Sessão de Pôsteres. Os melhores trabalhos de cada categoria e a melhor apresentação de pôster receberão certificado de menção honrosa.
  
@@ -95,4 +95,6 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 
 
 
-
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

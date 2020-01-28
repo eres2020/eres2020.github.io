@@ -15,7 +15,9 @@ header:
 
 Todo participante, inscrito ou convidado, concorda com os termos do <a href="https://www.acm.org/code-of-ethics" target="_blank">Código de Ética e Conduta Profissional da ACM</a>.
 
-
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->
 
 
 

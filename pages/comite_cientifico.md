@@ -104,3 +104,8 @@ header:
 <li> Rodrigo Pereira dos Santos (UNIRIO) </li>
 <li> Simone do Rocio Senger de Souza - ICMC/USP </li>
 </ul> 
+
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->

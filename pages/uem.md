@@ -107,3 +107,8 @@ O Centro de Ciências da Saúde (CCS) é unidade universitária de integração 
 O Centro de Ciências Sociais Aplicadas (CSA) é unidade universitária de integração dos departamentos do sistema de ensino, de pesquisa e de extensão, bem como dos órgãos da área das ciências sociais.
 
 O Centro de Tecnologia (CTC) é a unidade de integração dos departamentos do sistema de ensino, de pesquisa e de extensão da área de tecnologia.
+
+
+<div class="row t30">	
+	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
+</div><!-- /.row -->
