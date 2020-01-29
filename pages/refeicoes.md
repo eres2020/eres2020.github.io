@@ -25,6 +25,8 @@ Mais informações sobre o RU a seguir:
 	<li><a href="http://www.ru.uem.br" target="_blank">Valores e Formas de Pagamento</a></li>
 </ul>
 
+<hr>
+
 <b>Outros locais para refeições serão disponibilizados nesta página em breve.</b>
 
 <div class="row t30">	
