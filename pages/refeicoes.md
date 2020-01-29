@@ -24,7 +24,7 @@ Mais informações sobre o RU a seguir:
 
 <hr>
 
-<b>Outros locais para refeições serão disponibilizados nesta página em breve.</b>
+<h1>Outros locais para refeições serão disponibilizados nesta página em breve.</h1>
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
