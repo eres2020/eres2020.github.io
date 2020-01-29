@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: ""
+title: "Locais de Refeição"
 #meta_title: "Duvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -9,9 +9,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Locais de Refeição</h2>
-
-<br>
 
 A UEM possui um <a href="http://www.ru.uem.br" target="_blank">Restaurante Universitário (RU)</a> que serve almoço e jantar aos alunos da UEM, aos funcionários e professores da UEM e à comunidade externa. Os valores variam de acordo com cada categoria, sendo mais barato para alunos da UEM e mais caro para a comunidade externa.
 
