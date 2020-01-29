@@ -22,6 +22,8 @@ O município mantém índices de qualidade de vida elevados preservando no perí
 	<img src="{{ site.urlimg }}maringa.jpg" alt="" align="center">
 </div><!-- /.row -->
 
+<br>
+
 Além da qualidade de vida de seus habitantes e da arborização de seus espaços públicos, Maringá se destaca por sua localização estratégica.
 
 A cidade de Maringá e região (Campo Mourão, Cianorte, Umuarama, Paranavaí e Sarandi) estão diretamente relacionadas com o teor da ERES 2020 no que tange ao desenvolvimento de software. Maringá já é considerada um polo de desenvolvimento de TI e conta com um arranjo produtivo local de software com mais de 20 empresas participantes e atuantes. Dentre elas, 7 empresas estão entre as 100 melhores para se trabalhar no setor de TI do Brasil, segundo ranking do Great Place to Work (GPTW) de 2019, tendo também 70 empresas homenageadas pelo GPTW.
