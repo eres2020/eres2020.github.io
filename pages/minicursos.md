@@ -9,6 +9,35 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <h3>()</h3>
+		<h4>Título: Testes automatizados e Integração Contínua na Prática (MC 1) </h4><br>		
+		<b>Data:</b> 20/05/2020 (Quarta-Feira) e 21/05/2020 (Quinta-Feira)<br>
+		<b>Hora:</b> 10h:30m - 12h:00m (3,0 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> Entenda a importância de testar seu código utilizando o JUnit, com uma metodologia mão na massa. Aprenda também a automatizar esses testes e outros processos necessários para a entrega do seu código adotando a Integração Contínua (CI) com o Jenkins.</p><br><br>
+		<b>Bio:</b> ...
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+
+<div class="row t30">
+    <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <h3>Fernando Godói (PagSeguro)</h3>
+		<h4>Título: Microsserviços (MC 2) </h4><br>		
+		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
+		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
+		<b>Bio:</b> ...
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-16 columns">
         <img src="{{ site.urlimg }}roberto_elero.png" alt="" align="middle"><br>
         <h3>Roberto Elero Junior (iFood)</h3>
 		<h4>Título: Arquitetura Hexagonal (MC 4) </h4><br>		
@@ -35,19 +64,7 @@ header:
 
 </div><!-- /.row -->
 
-<div class="row t30">
-    <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Fernando Godói (PagSeguro)</h3>
-		<h4>Título: Microsserviços (MC 2) </h4><br>		
-		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
-		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
-		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
-		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
-		<b>Bio:</b> ...
-    </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
 
 
 
