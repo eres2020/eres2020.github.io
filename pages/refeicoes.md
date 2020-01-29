@@ -15,7 +15,7 @@ header:
 
 A UEM possui um <a href="http://www.ru.uem.br" target="_blank">Restaurante Universitário (RU)</a> que serve almoço e jantar aos alunos da UEM, aos funcionários e professores da UEM e à comunidade externa. Os preçoes variam de acordo com cada categoria, sendo mais barato para alunos da UEM e mais caro para a comunidade externa.
 
-Todos os participantes da ERES 2020 poderão usufruir do restaurante pelo preço de alunos de graduação para almoço e jantar, nos dias 20, 21 e 22 de maio de 2020.
+Todos os participantes da ERES 2020 poderão usufruir do restaurante pelo valor de alunos de graduação para almoço e jantar (atualmente R$ 4,00 cada refeição), nos dias 20, 21 e 22 de maio de 2020.
 
 Mais informações abaixo:
 
