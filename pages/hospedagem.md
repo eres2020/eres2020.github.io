@@ -32,6 +32,17 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <h3>Hotel Metrópole ****</h3>
 
+<ul>	
+	<li><b><a href="https://www.hotelmetropolemaringa.com.br" target="_blank"> Website</a></b></li>	
+	<li><b>Tipos de Quarto:</b> Apartamento superior individual R$ 200,00 + 3% ISS, Apartamento superior duplo R$ 220,00 + 3% ISS - <a href="https://www.hotelmetropolemaringa.com.br/acomodacoes" target="_blank">Fotos</a></li>
+	<li><b>Café da Manhã:</b> Cortesia</li>
+	<li><b>Estacionamento:</b> R$25,00 a diária por veículo</li>
+	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Paulo Martins - reservas@hotelmetropolemaringa.com.br. Mencionar que é para o evento "ERES 2020 - UEM".
+	<li><b>Endereço:</b> Av. XV de Novembro, 470 - <b><a href="https://goo.gl/maps/2bpV4Ypb1qwdChMr6" target="_blank">Google Maps</a></b></li>
+	<li><b>Telefone:</b> (44) 3221-8100</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,6 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 8,00 a R$ 11,00</li>
+</ul>
 
 
 <hr>
