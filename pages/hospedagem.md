@@ -16,6 +16,8 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 <h2>Ibis Budget<h2>
 
 <ul>
+	<li><b>Endereço:</b>Avenida Advogado Horácio Raccanello Filho, 5105 - Zona 7, Maringá - PR, 87020-035</li>
+	<li><b>Telefone:</b> (44) 3302-2400</li>
 	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros</li>
 	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
