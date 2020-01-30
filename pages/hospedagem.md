@@ -18,7 +18,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 <ul>	
 	<li><b><a href="https://all.accor.com/hotel/8998/index.en.shtml" target="_blank"> Website</a></b></li>	
 	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros</li>
-	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento</li>
+	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento (até 3 pessoas por apartamento)</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
 	<li><b>Estacionamento:</b> R$ 15,00 a diária por veículo</li>
 	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Renata Angeli - h8998-re2@accor.com. Mencionar que é para o evento "ERES 2020 - UEM".
