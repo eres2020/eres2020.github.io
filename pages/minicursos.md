@@ -64,6 +64,35 @@ header:
 
 </div><!-- /.row -->
 
+<div class="row t30">
+    <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <h3>Henrique Vignando (MentorsTec)</h3>
+		<h4>Título: Data Science na Prática (MC 7) </h4><br>		
+		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 19h:30m - 22h:30m (2,5 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> A "buzzword" do momento é Data Science. Mas a realidade é que o trabalho de ciência de dados já acontece há um bom tempo. Porém atualmente com o grande volume de dados e com surgimento de novas ferramentas e maior poder computacional é possível aplicar ciência de dados quem quase tudo que vemos, e além disso sistematizar todo este processo por meio da Engenharia de Dados. Neste curso vamos apresentar como é trabalhar com ciência de dados nos dias atuais, permeando entre conceitos, ferramentas e processos por trás de um projeto de Data Science. </p><br><br>
+		<b>Bio:</b> Mestre em Ciência da Computação pela UEM. Líder técnico e engenheiro de dados e software na Mentorstec com 9 anos de experiência em desenvolvimento de software, 2 anos com enenharia de dados e 1 ano com liderança técnica. Palestrante no Pentaho Day 2019. Professor de curso técnico em desenvolvimento de sistema. Entusiasta cultural das rotinas e pipelines de dados, arquitetura de software, boas práticas e padronizações.
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <h3>Neimar Chagas (MentorsTec)</h3>
+		<h4>Título: Arquitetura de Linha de Produto de Software para Projetos de Business Intelligence (MC 8) </h4><br>		
+		<b>Data:</b> 22/05/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 15h:30m - 18:00m (2,5 horas) <br>
+		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
+		<p class="text-justify"><b>Resumo:</b> Em projetos de Business Intelligence (BI), sempre se fala em um modelo de dados dimensional, também conhecido como DW (Data Wharehouse), com a finalidade de modelar os dados para ganhar agilidade em consultas OLAP e também independência dos sistemas transacionais, de onde são as fonte de dados. Para responder as questões e preocupações de negócios em um projeto de BI é preciso modelar data marts para cada setor produtivo, seja ele, uma empresa, industria ou comercio. Construir pipelines de ETL robustas para povoar o DW. E criar dashboards e relatórios que responda às necessidades de BI. Uma LPS para BI vem atender esta necessidade em nível escalar, de tal forma que é possível implantar de modo relativamente barato em vários setores da economia um projeto de BI com um core asset que responda pelo menos 70% das necessidades. Neste minicurso será apresentado técnicas de construção de data marts para DW, pipeline de ETL e dashboards que servirão como core asset para uma LPS de BI. </p><br><br>
+		<b>Bio:</b> Neimar Chagas possui graduação e pós-graduação na área de TI, com ênfase em gestão estratégia de empresas. Possui mais de 18 Anos de experiência em projetos de software, atuando no desenvolvimento, implantação e gerência de projetos. Deste tempo, 9 anos foram dedicados em projetos de 
+Business Intelligence e Data Warehouse com Pentaho e outras tecnologias. Atualmente atua como Consultor de BI e CEO da Mentors Tecnologia (www.mentorstec.com.br).
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
 
 
 
