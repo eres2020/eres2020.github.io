@@ -30,8 +30,15 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
+<h3>Alojamentos, Pensões, etc<h3>
 
-<h1>Outros locais para hospedagem serão disponibilizados nesta página em breve.</h1>
+A <a href="http://www.dct.uem.br" target=_"blank">Diretoria de Assuntos Comunitários (DCT)</a> da UEM mantém uma lista de alojamentos e pensões que recebem pessoas por preços mais em conta do que hotéis.
+
+Verifique a lista a seguir: <a href="http://www.dct.uem.br/alojamento.htm" target="_blank">Lista de Alojamentos</a>
+
+<hr>
+
+<h2>Outros locais para hospedagem serão disponibilizados nesta página em breve.</h2>
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
