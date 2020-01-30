@@ -19,7 +19,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
 	<li><b>Estacionamento:</b> R$ 15,00 a diária por veículo</li>
-	<li>Reservas:</li> para este preço, somente por e-mail com Renata Angeli - h8998-re2@accor.com
+	<li>Reservas:</li> para este valor, somente por e-mail com Renata Angeli - h8998-re2@accor.com
 </ul>
 
 
