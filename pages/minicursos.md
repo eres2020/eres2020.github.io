@@ -9,14 +9,14 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>()</h3>
+        <img src="{{ site.urlimg }}antoniassi.jpeg" alt="" align="middle"><br>
+        <h3>Gustavo Sabior Antoniassi (Mandic)</h3>
 		<h4>Título: Testes automatizados e Integração Contínua na Prática (MC 1) </h4><br>		
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) e 21/05/2020 (Quinta-Feira)<br>
 		<b>Hora:</b> 10h:30m - 12h:00m (3,0 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
 		<p class="text-justify"><b>Resumo:</b> Entenda a importância de testar seu código utilizando o JUnit, com uma metodologia mão na massa. Aprenda também a automatizar esses testes e outros processos necessários para a entrega do seu código adotando a Integração Contínua (CI) com o Jenkins.</p><br><br>
-		<b>Bio:</b> ...
+		<b>Bio:</b> Bacharel em Sistemas de Informação pela UNIPAR de Umuarama, apaixonado por Cloud, arquitetura e Linux. Atua como DevOps no time de engenharia da Mandic Cloud Solutions, auxiliando clientes em sua jornada para a nuvem.
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
