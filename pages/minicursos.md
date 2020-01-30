@@ -66,9 +66,9 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <img src="{{ site.urlimg }}vignando.jpeg" alt="" align="middle"><br>
         <h3>Ms. Henrique Vignando (MentorsTec)</h3>
-		<h4>Título: Data Science na Prática (MC 7) </h4><br>		
+		<h4>Título: Aplicando Data Science em Problemas de Negócio Reais (MC 7) </h4><br>		
 		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
 		<b>Hora:</b> 19h:30m - 22h:30m (2,5 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
@@ -80,7 +80,7 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
+        <img src="{{ site.urlimg }}chagas.jpeg" alt="" align="middle"><br>
         <h3>Esp. Neimar Chagas (MentorsTec)</h3>
 		<h4>Título: Arquitetura de Linha de Produto de Software para Projetos de Business Intelligence (MC 8) </h4><br>		
 		<b>Data:</b> 22/05/2020 (Quinta-Feira) <br>
