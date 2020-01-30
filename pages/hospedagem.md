@@ -17,7 +17,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <ul>	
 	<li><b><a href="https://all.accor.com/hotel/8998/index.en.shtml" target="_blank"> Website</a></b></li>	
-	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros</li>
+	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros - <a href="https://all.accor.com/hotel/8998/index.en.shtml#section-rooms" target="_blank">Fotos</a></li>
 	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento (até 3 pessoas por apartamento)</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
 	<li><b>Estacionamento:</b> R$ 15,00 a diária por veículo</li>
@@ -30,7 +30,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
-<h3>Alojamentos, Pensões, etc<h3>
+<h3>Alojamentos, Pensões, etc</h3>
 
 A <a href="http://www.dct.uem.br" target="_blank">Diretoria de Assuntos Comunitários (DCT)</a> da UEM mantém uma lista de alojamentos e pensões que recebem pessoas por preços mais em conta do que hotéis.
 
