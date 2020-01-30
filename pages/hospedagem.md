@@ -13,7 +13,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
-<h2>Ibis Budget<h2>
+<h3>Ibis Budget<h3>
 
 <ul>	
 	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros</li>
