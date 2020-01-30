@@ -30,6 +30,24 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
+<h3>Hotel King Konfort ****</h3>
+
+<ul>	
+	<li><b><a href="http://www.kingkonforthotel.com.br/" target="_blank"> Website</a></b></li>	
+	<li><b>Tipos de Quarto:</b> Single R$ 149,00, Duplo R$ 189,00, Triplo R$ 209,00, Quádruplo R$ 259,00, Quíntuplo R$ 309,00. 3% ISS + R$ 1,70 de taxa de hospedagem não incluídos - <a href="http://www.kingkonforthotel.com.br/acomodacao/" target="_blank">Fotos</a></li>
+	<li><b>Café da Manhã:</b> Cortesia</li>
+	<li><b>Estacionamento:</b> R$ 18,00 a diária por veículo</li>
+	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Therius Ferreiro - reserva@kingkonforthotel.com.br. Mencionar que é para o evento "ERES 2020 - UEM".
+	<li><b>Endereço:</b> Rua Campos Sales, 326 - Esquina com Avenida Paraná - Maringá-PR, Zona 07 - CEP: 87020-080 - <b><a href="https://g.page/kingkonforthotel?share" target="_blank">Google Maps</a></b></li>
+	<li><b>Telefone:</b> (44) 4009-7000</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,9 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 6,00 a R$ 8,00</li>
+</ul>
+
+
+<hr>
+
+
 <h3>Hotel Metrópole ****</h3>
 
 <ul>	
@@ -47,22 +65,6 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
-<h3>Hotel King Konfort ****</h3>
-
-<ul>	
-	<li><b><a href="http://www.kingkonforthotel.com.br/" target="_blank"> Website</a></b></li>	
-	<li><b>Tipos de Quarto:</b> Single R$ 149,00, Duplo R$ 189,00, Triplo R$ 209,00, Quádruplo R$ 259,00, Quíntuplo R$ 309,00. 3% ISS + R$ 1,70 de taxa de hospedagem não incluídos - <a href="http://www.kingkonforthotel.com.br/acomodacao/" target="_blank">Fotos</a></li>
-	<li><b>Café da Manhã:</b> Cortesia</li>
-	<li><b>Estacionamento:</b> R$ 18,00 a diária por veículo</li>
-	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Therius Ferreiro - reserva@kingkonforthotel.com.br. Mencionar que é para o evento "ERES 2020 - UEM".
-	<li><b>Endereço:</b> Rua Campos Sales, 326 - Esquina com Avenida Paraná - Maringá-PR, Zona 07 - CEP: 87020-080 - <b><a href="https://g.page/kingkonforthotel?share" target="_blank">Google Maps</a></b></li>
-	<li><b>Telefone:</b> (44) 4009-7000</li>	
-	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,9 km</li>
-	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 6,00 a R$ 8,00</li>
-</ul>
-
-
-<hr>
 
 <h3>Alojamentos, Pensões, etc</h3>
 
