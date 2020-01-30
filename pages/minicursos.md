@@ -11,7 +11,7 @@ header:
     <div class="medium-16 columns">
         <img src="{{ site.urlimg }}antoniassi.jpeg" alt="" align="middle"><br>
         <h3>Gustavo Sabior Antoniassi (Mandic)</h3>
-		<h4>Título: Testes automatizados e Integração Contínua na Prática (MC 1) </h4><br>		
+		<h4>Título: Testes Automatizados e Integração Contínua na Prática (MC 1) </h4><br>		
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) e 21/05/2020 (Quinta-Feira)<br>
 		<b>Hora:</b> 10h:30m - 12h:00m (3,0 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
