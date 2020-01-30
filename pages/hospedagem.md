@@ -11,6 +11,8 @@ header:
 
 Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
+<hr>
+
 <h2>Ibis Budget<h2>
 
 <ul>
@@ -20,6 +22,8 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 	<li><b>Estacionamento:</b> R$ 15,00 a diária por veículo</li>
 	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Renata Angeli - h8998-re2@accor.com. Mencionar que é para o evento "ERES 2020- UEM".
 </ul>
+
+<hr>
 
 
 <h1>Outros locais para hospedagem serão disponibilizados nesta página em breve.</h1>
