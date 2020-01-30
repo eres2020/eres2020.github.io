@@ -16,7 +16,7 @@ header:
 		<b>Hora:</b> 10h:30m - 12h:00m (3,0 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
 		<p class="text-justify"><b>Resumo:</b> Entenda a importância de testar seu código utilizando o JUnit, com uma metodologia mão na massa. Aprenda também a automatizar esses testes e outros processos necessários para a entrega do seu código adotando a Integração Contínua (CI) com o Jenkins.</p><br><br>
-		<b>Bio:</b> Bacharel em Sistemas de Informação pela UNIPAR de Umuarama, apaixonado por Cloud, arquitetura e Linux. Atua como DevOps no time de engenharia da Mandic Cloud Solutions, auxiliando clientes em sua jornada para a nuvem.
+		<b>Bio:</b> Bacharel em Sistemas de Informação pela UNIPAR de Umuarama, Certified Solutions Architect pela AWS, apaixonado por Cloud, arquitetura e Linux. Atua como DevOps no time de engenharia da Mandic Cloud Solutions, auxiliando clientes em sua jornada para a nuvem.
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
