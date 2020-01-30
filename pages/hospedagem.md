@@ -16,6 +16,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 <h3>Ibis Budget<h3>
 
 <ul>	
+	<li><b><a href="https://all.accor.com/hotel/8998/index.en.shtml" target="_blank"> Website</a></b></li>	
 	<li><b>Tipos de Quarto:</b> Cama casal, cama casal + 1 cama de solteiro (beliche), 3 camas de solteiros</li>
 	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
