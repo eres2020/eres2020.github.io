@@ -25,7 +25,7 @@ header:
 <div class="row t30">
     <div class="medium-16 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Fernando Godói (PagSeguro)</h3>
+        <h3>Ms. Fernando Godói (PagSeguro)</h3>
 		<h4>Título: Microsserviços (MC 2) </h4><br>		
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
 		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
@@ -67,7 +67,7 @@ header:
 <div class="row t30">
     <div class="medium-16 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Henrique Vignando (MentorsTec)</h3>
+        <h3>Ms. Henrique Vignando (MentorsTec)</h3>
 		<h4>Título: Data Science na Prática (MC 7) </h4><br>		
 		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
 		<b>Hora:</b> 19h:30m - 22h:30m (2,5 horas) <br>
@@ -81,7 +81,7 @@ header:
 <div class="row t30">
     <div class="medium-16 columns">
         <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Neimar Chagas (MentorsTec)</h3>
+        <h3>Esp. Neimar Chagas (MentorsTec)</h3>
 		<h4>Título: Arquitetura de Linha de Produto de Software para Projetos de Business Intelligence (MC 8) </h4><br>		
 		<b>Data:</b> 22/05/2020 (Quinta-Feira) <br>
 		<b>Hora:</b> 15h:30m - 18:00m (2,5 horas) <br>
