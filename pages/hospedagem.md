@@ -13,7 +13,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 
 <hr>
 
-<h3>Ibis Budget<h3>
+<h3>Ibis Budget **</h3>
 
 <ul>	
 	<li><b><a href="https://all.accor.com/hotel/8998/index.en.shtml" target="_blank"> Website</a></b></li>	
@@ -27,6 +27,12 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,5 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 7,00 a R$ 9,00</li>
 </ul>
+
+<hr>
+
+<h3>Hotel Metrópole ****</h3>
+
+
 
 <hr>
 
