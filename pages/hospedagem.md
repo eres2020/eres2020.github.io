@@ -20,7 +20,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 	<li><b>Tarifa:</b> R$ 127,00 + 3% ISS diária por apartamento</li>
 	<li><b>Café da Manhã:</b> R$ 19,00 por pessoa</li>
 	<li><b>Estacionamento:</b> R$ 15,00 a diária por veículo</li>
-	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Renata Angeli - h8998-re2@accor.com. Mencionar que é para o evento "ERES 2020- UEM".
+	<li><b>Reservas:</b></li> para este valor, somente por e-mail com Renata Angeli - h8998-re2@accor.com. Mencionar que é para o evento "ERES 2020 - UEM".
 	<li><b>Endereço:</b> Avenida Advogado Horácio Raccanello Filho, 5105 - Zona 7, Maringá - PR, 87020-035</li>
 	<li><b>Telefone:</b> (44) 3302-2400</li>
 	<li><b>Google Maps:</b> https://goo.gl/maps/Pvg6mz4RfS1moz2i9</li>	
