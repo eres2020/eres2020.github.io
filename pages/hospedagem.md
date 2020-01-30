@@ -25,6 +25,7 @@ Os hotéis a seguir possuem tarifas especiais para a ERES 2020
 	<li><b>Telefone:</b> (44) 3302-2400</li>
 	<li><b>Google Maps:</b> https://goo.gl/maps/Pvg6mz4RfS1moz2i9</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,5 km</li>
+	<li><b>Uber (estimativa):</b> R$ 7,00 a R$ 9,00</li>
 </ul>
 
 <hr>
