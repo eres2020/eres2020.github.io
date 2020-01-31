@@ -36,6 +36,7 @@ O mapa abaixo mostras os principais locais para refeições próximos à ERES 20
 </div><!-- /.row -->
 
 
+<hr>
 
 <h1>Outros locais para refeições serão disponibilizados nesta página em breve.</h1>
 
