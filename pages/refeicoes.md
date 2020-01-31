@@ -30,7 +30,7 @@ Mais informações sobre o RU a seguir:
 
 O mapa abaixo mostras os principais locais para refeições próximos à ERES 2020 (PIN na cor vermelha com garfo e faca).
 
-<a href="https://www.google.com/maps/search/Restaurantes/@-23.4111414,-51.9402199,16.08z/data=!4m8!2m7!3m6!1sRestaurantes!2sBloco+C56+-+Vila+Esperanca,+Maring%C3%A1+-+PR,+87035-510!3s0x94ecd132a8d9ea27:0x8a04c17be315d09d!4m2!1d-51.9363427!2d-23.405659" target="_blank">Clique aqui</a> para interagir com o mapa no Google Maps. DICA: aumente o Zoom no mapa para identificar outros locais próximos à UEM.
+<a href="https://www.google.com/maps/search/Restaurantes/@-23.4111414,-51.9402199,16.08z/data=!4m8!2m7!3m6!1sRestaurantes!2sBloco+C56+-+Vila+Esperanca,+Maring%C3%A1+-+PR,+87035-510!3s0x94ecd132a8d9ea27:0x8a04c17be315d09d!4m2!1d-51.9363427!2d-23.405659" target="_blank">Clique aqui</a> para interagir com o mapa no Google Maps. DICA: ao integaragir aumente o zoom no mapa para identificar outros locais próximos à UEM.
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}mapa_restaurantes.png" alt="" align="center">
