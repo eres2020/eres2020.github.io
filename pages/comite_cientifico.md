@@ -30,6 +30,7 @@ header:
 <li> Juliana Herbert - UFCSPA </li>
 <li> Juliano Varella De Carvalho - FEEVALE </li>
 <li> Kleinner Silva Farias - UNISINOS </li>
+<li> Kurt Werner Molz - UNISC </li>
 <li> Lisandra Manzoni Fontoura  - UFSM </li>
 <li> Lisane Brisolara de Brisolara - UFPEL </li>
 <li> Maicon Bernardino da Silveira - Universidade Federal do Pampa (UNIPAMPA) </li>
@@ -47,11 +48,9 @@ header:
 <li> Adilson Vahldick - UDESC</li>
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Daniel Gomes Soares - Instituto Federal Catarinense (IFC) </li>
-<li> Eduardo Kroth - UNISC </li>
 <li> Everaldo Artur Grahl - Fundação Universidade Regional de Blumenau (FURB) </li>
 <li> Fabiane Benitti - UFSC </li>
 <li> Fernando dos Santos - Universidade do Estado de Santa Catarina (UDESC) </li>
-<li> Kurt Werner Molz - UNISC </li>
 <li> Marcela Leite - Instituto Federal Catarinense (IFC) </li>
 <li> Marilia Guterres Ferreira - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Maurício F. Galimberti - UFSC </li>
@@ -60,7 +59,6 @@ header:
 <li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Ricardo Pereira e Silva - UFSC </li>
 <li> Rodrigo Curvêllo - Instituto Federal Catarinense (IFC) </li>
-<li> Thais Christina Webber dos Santos - UNISC </li>
 </ul>
 
 
@@ -92,7 +90,7 @@ header:
 </ul>
 
 
-<h3>Demais Estados:</h3>
+<h3>Demais Estados/Países:</h3>
 
 <ul> 
 <li> Adenilso Simão - ICMC/USP</li>
@@ -103,6 +101,7 @@ header:
 <li> José C. Maldonado - ICMC/USP</li>
 <li> Rodrigo Pereira dos Santos (UNIRIO) </li>
 <li> Simone do Rocio Senger de Souza - ICMC/USP </li>
+<li> Thais Christina Webber dos Santos - University of St Andrews, UK </li>
 </ul> 
 
 
