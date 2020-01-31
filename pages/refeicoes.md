@@ -9,6 +9,7 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
+<h2>Restaurante Universitário (RU)</h2>
 
 A UEM possui um <a href="http://www.ru.uem.br" target="_blank">Restaurante Universitário (RU)</a> que serve almoço e jantar aos alunos da UEM, aos funcionários e professores da UEM e à comunidade externa (veja localização <a href="https://eres2020.github.io/como_chegar" target="_blank">AQUI</a>). Os valores variam de acordo com cada categoria, sendo mais barato para alunos da UEM e mais caro para a comunidade externa.
 
@@ -23,6 +24,8 @@ Mais informações sobre o RU a seguir:
 </ul>
 
 <hr>
+
+<h2>Demais Locais para Refeições</h2>
 
 O mapa abaixo mostras os principais locais para refeições próximos à ERES 2020. 
 
