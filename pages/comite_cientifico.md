@@ -36,7 +36,6 @@ header:
 <li> Maicon Bernardino da Silveira - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Marcelo Hideki Yamaguti - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
 <li> Marta Rosecler Bez - FEEVALE </li>
-<li> Odorico Machado Mendizabal - FURG </li>
 <li> Sabrina Marczak - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
 <li> Vanessa Gindri Vieira - Colégio Politécnico da UFSM </li>
 <li> Raquel Aparecida Pegoraro - UFFS </li>
@@ -49,15 +48,16 @@ header:
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Daniel Gomes Soares - Instituto Federal Catarinense (IFC) </li>
 <li> Everaldo Artur Grahl - Fundação Universidade Regional de Blumenau (FURB) </li>
-<li> Fabiane Benitti - UFSC </li>
+<li> Fabiane Benitti - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Fernando dos Santos - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Marcela Leite - Instituto Federal Catarinense (IFC) </li>
 <li> Marilia Guterres Ferreira - Universidade do Estado de Santa Catarina (UDESC) </li>
-<li> Maurício F. Galimberti - UFSC </li>
+<li> Maurício F. Galimberti - Universidade Federal de Santa Catarina (UFSC) </li>
+<li> Odorico Machado Mendizabal - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Pablo Schoeffel - UDESC</li>
-<li> Patrícia Vilain - UFSC </li>
+<li> Patrícia Vilain - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Ricardo Pereira e Silva - UFSC </li>
+<li> Ricardo Pereira e Silva - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Rodrigo Curvêllo - Instituto Federal Catarinense (IFC) </li>
 </ul>
 
