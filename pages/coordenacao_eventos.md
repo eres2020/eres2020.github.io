@@ -169,6 +169,18 @@ header:
 
 </div>
 
+<h2>Proceedings Chair</h2>
+
+<div class="row t30">
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}graciotto.jpeg" alt=""><br>
+        <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>
+		<b>UTFPR - Campo Mourão</b><br>
+		<a href="http://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a>
+    </div>
+
+</div>
+
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->
