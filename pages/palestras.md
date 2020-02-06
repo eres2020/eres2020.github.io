@@ -25,7 +25,7 @@ header:
 
 <div class="row t30">
 	<div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="center"><br>
+        <img src="{{ site.urlimg }}barbosa.jpg" alt="" align="center"><br>
         <b>Profa. Dra. Ellen Francine Barbosa (ICMC/USP)</b><br>		
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
 		<h4>Título: Engenharia de Software Aplicada à Educação (Palestra B) </h4><br>		
