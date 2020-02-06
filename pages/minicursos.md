@@ -24,14 +24,14 @@ header:
 
 <div class="row t30">
     <div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="middle"><br>
-        <h3>Ms. Fernando Godói (PagSeguro)</h3>
-		<h4>Título: Microsserviços (MC 2) </h4><br>		
+        <img src="{{ site.urlimg }}godoi.jpeg" alt="" align="middle"><br>
+        <h3>Esp. Fernando Godói (PagSeguro)</h3>
+		<h4>Título: Migrando Monolitos para Microsserviços (MC 2) </h4><br>		
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
 		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
-		<p class="text-justify"><b>Resumo:</b> ... </p><br><br>
-		<b>Bio:</b> ...
+		<p class="text-justify"><b>Resumo:</b> O perfil dos usuários de software mudou com passar dos anos e o surgimento das StartUps fez com que empresas atuantes a muitos anos buscassem alternativas para que seus produtos pudessem acompanhar a evolução do mercado respondendo rapidamente a mudanças de comportamento de seus usuários e, desta forma, fazendo com que seus produtos não caíssem em desuso. O termo microsserviços passou de Hype para padrão de arquitetura fortemente recomendado para que empresas ganhasse a capacidade de responder cada vez mais rápido a mudanças e pudessem entregar soluções em curtos espaços de tempo. Mais como fazer isso se sua empresa possui um software de grande porte funcionando a muitos anos sem parar toda a operação gerando um prejuízo financeiro e ainda assim, seguir entregando novas soluções para não ficar para trás na corrida para adquirir novos usuário e realizar parcerias? Neste curso, iremos abordar uma forma de migração de monolito para microsserviços utilizando Change Data Capture. </p><br><br>
+		<b>Bio:</b> Atualmente é Especialista em Desenvolvimento Software e Líder Técnico no PagSeguro. Também é professor nos cursos de Pós-Graduação em educação a distância da Uniara. Possui 10 anos de experiência no desenvolvimento de aplicações web dos quais 8 são focados em soluções para o mercado financeiro. Graduado pela Universidade Paranaense - Unipar campus Paranavaí e MBA na Faculdade Cidade Verde FCV - Maringá.
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
