@@ -166,6 +166,13 @@ header:
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/9398810362952245" target="_blank">Currículo Lattes</a>
     </div>
+	
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}zorzo.gif" alt=""><br>
+        <b>Prof. Dr. Avelino Francisco Zorzo</b><br>
+		<b>PUCRS</b><br>
+		<a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a>
+    </div>
 
 </div>
 
