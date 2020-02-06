@@ -17,7 +17,6 @@ header:
 
 <ul> 
 <li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
-<li> Andréa Sabedra Bordin - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Andreia Sabedra Bordin - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Avelino F. Zorzo - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
 <li> Carlos Emilio Padilla Severo - IFSul RS </li>
