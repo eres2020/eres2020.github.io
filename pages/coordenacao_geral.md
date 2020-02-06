@@ -45,17 +45,17 @@ header:
 
 <div class="row t30">		
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}cordeiro.jpg" alt=""><br>
+        <img src="{{ site.urlimg }}cordeiro.gif" alt=""><br>
         <b>Prof. Me. André F. R. Cordeiro</b><br>
 		<b>DIN/UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>    
 	</div><!-- /.medium-4.columns -->
 	
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yamaguchi.gif" alt=""><br>
+        <img src="{{ site.urlimg }}yamaguchi.jpg" alt=""><br>
         <b>Profa. Me. Juliana Keiko Yamaguchi</b><br>
 		<b>DIN/UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>
+		<a href="http://lattes.cnpq.br/9037635618936747" target="_blank">Currículo Lattes</a>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
