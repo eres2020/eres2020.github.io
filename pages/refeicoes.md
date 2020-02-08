@@ -157,6 +157,29 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <hr>
 
 
+<h2>Shopping Centers</h2>
+<hr>
+
+<h3>Avenida Center</h3>
+
+<ul>		
+	<li><b>Endereço:</b> AV. SÃO PAULO, 743 CEP: 87030-040</li>
+	<li><b>Telefone:</b> (44) 3033-7000</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,2 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 6,00 a 9,00</li>
+</ul>
+
+<hr>
+
+<h3>Maringá Park</h3>
+
+<ul>		
+	<li><b>Endereço:</b> Avenida São Paulo, 1099 Centro - Cep 87013.931</li>
+	<li><b>Telefone:</b> (44) 3366-2000</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,7 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 7,00 a 9,00</li>
+</ul>
+
 
 
 <div class="row t30">	
