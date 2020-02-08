@@ -41,7 +41,7 @@ O mapa abaixo mostras os principais locais para refeições próximos à ERES 20
 
 <br>
 
-A seguir é apresentada uma lista dos principais restaurante próximos à ERES2020 (ordenados por distância). Outros locais para refeições de Maringá pode ser encontrados <a href="http://www.maringa.com/gastronomia" target="_blank">clicando aqui</a>
+A seguir é apresentada uma lista dos principais restaurante próximos à ERES2020 (ordenados por distância). Outros locais para refeições de Maringá pode ser encontrados <a href="http://www.maringa.com/gastronomia" target="_blank">clicando aqui</a>.
 
 <hr>
 
