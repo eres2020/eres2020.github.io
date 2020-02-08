@@ -40,6 +40,22 @@ O mapa abaixo mostras os principais locais para refeições próximos à ERES 20
 </div><!-- /.row -->
 
 
+A seguir é apresentada uma lista dos principais restaurante próximos à ERES2020.
+
+<hr>
+
+<h3>Restaurante Ginga e Sabor</h3>
+
+<ul>	
+	<li><b><a href="https://www.hotelmetropolemaringa.com.br" target="_blank"> Website</a></b></li>	
+	<li><b>Endereço:</b> R. Prof. Itamar Orlando Soares, 331 - Zona 7, Maringá - PR, 87020-270</b></li>
+	<li><b>Telefone:</b> (44) 3262-4416</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,2 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
+</ul>
+
+<hr>
+
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
