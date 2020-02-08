@@ -67,6 +67,17 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 
 <hr>
 
+<h3>Nossa Cozinha</h3>
+
+<ul>		
+	<li><b>Endereço:</b> R. Paranaguá, 186 - Zona 7, Maringá - PR, 87020-190</b></li>
+	<li><b>Telefone:</b> (44) 3034-9111</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,3 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 8,00</li>
+</ul>
+
+<hr>
+ 
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
