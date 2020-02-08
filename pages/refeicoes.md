@@ -41,7 +41,7 @@ O mapa abaixo mostras os principais locais para refeições próximos à ERES 20
 
 <br>
 
-A seguir é apresentada uma lista dos principais restaurante próximos à ERES2020.
+A seguir é apresentada uma lista dos principais restaurante próximos à ERES2020. Outros locais para refeições de Maringá pode ser encontrados <a href="http://www.maringa.com/gastronomia" target="_blank"clicando aqui</a>
 
 <hr>
 
@@ -131,6 +131,31 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 	<li><b>Telefone:</b> (44) 3224-9056</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,2 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
+</ul>
+
+<hr>
+
+
+<h3>Restaurante Hora Boa</h3>
+
+<ul>		
+	<li><b>Endereço:</b> Av. Morangueira, 249 - Zona 11, Maringá - PR, 87035-060</b></li>
+	<li><b>Telefone:</b> (44) 3268-8813</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,4 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 6,00</li>
+</ul>
+
+
+<hr>
+
+
+<h3>Churrascaria Galpão Tropeiro - Buffet e Espeto Corrido</h3>
+
+<ul>		
+	<li><b>Endereço:</b> Praça Júlio Jerônimo dos Santos, 58 - Zona 7, Maringá - PR, 87030-510</b></li>
+	<li><b>Telefone:</b> (44) 3269-7951</li>	
+	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,3 km</li>
+	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 8,00</li>
 </ul>
 
 <hr>
