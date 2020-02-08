@@ -48,7 +48,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Casa do Japoneis Restaurante</h3>
 
 <ul>		
-	<li><b>Endereço:</b> R. Prof. Itamar Orlando Soares, 181 - Zona 7, Maringá - PR, 87020-270 </b></li>
+	<li><b>Endereço:</b> R. Prof. Itamar Orlando Soares, 181 - Zona 7, Maringá - PR, 87020-270</li>
 	<li><b>Telefone:</b> (44) 3024-5558</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,0 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
@@ -59,7 +59,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Restaurante Ginga e Sabor</h3>
 
 <ul>		
-	<li><b>Endereço:</b> R. Prof. Itamar Orlando Soares, 331 - Zona 7, Maringá - PR, 87020-270</b></li>
+	<li><b>Endereço:</b> R. Prof. Itamar Orlando Soares, 331 - Zona 7, Maringá - PR, 87020-270</li>
 	<li><b>Telefone:</b> (44) 3262-4416</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,2 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
@@ -70,7 +70,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>FazBem Restaurante Vegano</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Av. Colombo, 5592 - Zona 7, Maringá - PR, 87030-121</b></li>
+	<li><b>Endereço:</b> Av. Colombo, 5592 - Zona 7, Maringá - PR, 87030-121</li>
 	<li><b>Telefone:</b> (44) 3023-6112</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,2 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
@@ -81,7 +81,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Ká Entre Nós</h3>
 
 <ul>		
-	<li><b>Endereço:</b> R. Prof. Lauro Eduardo Werneck, 603, Maringá - PR </b></li>
+	<li><b>Endereço:</b> R. Prof. Lauro Eduardo Werneck, 603, Maringá - PR</li>
 	<li><b>Telefone:</b> (44) 3224-9056</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,2 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 5,00</li>
@@ -92,7 +92,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Restaurante Hora Boa</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Av. Morangueira, 249 - Zona 11, Maringá - PR, 87035-060</b></li>
+	<li><b>Endereço:</b> Av. Morangueira, 249 - Zona 11, Maringá - PR, 87035-060</li>
 	<li><b>Telefone:</b> (44) 3268-8813</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,4 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 6,00</li>
@@ -104,7 +104,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Restaurante Caseirinho</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Av. Duque de Caxias, 1375 - Zona 7, Maringá - PR, 87020-000 </b></li>
+	<li><b>Endereço:</b> Av. Duque de Caxias, 1375 - Zona 7, Maringá - PR, 87020-000</li>
 	<li><b>Telefone:</b> (44) 3262-5583</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 1,9 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 7,00</li>
@@ -115,7 +115,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Kyoto Restaurante</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Av. Colombo, 6377 - JARDIM UNIVERSITÁRIO, Maringá - PR, 87020-000</b></li>
+	<li><b>Endereço:</b> Av. Colombo, 6377 - JARDIM UNIVERSITÁRIO, Maringá - PR, 87020-000</li>
 	<li><b>Telefone:</b> (44) 3026-1950</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,0 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 7,00</li>
@@ -126,7 +126,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Nossa Cozinha</h3>
 
 <ul>		
-	<li><b>Endereço:</b> R. Paranaguá, 186 - Zona 7, Maringá - PR, 87020-190</b></li>
+	<li><b>Endereço:</b> R. Paranaguá, 186 - Zona 7, Maringá - PR, 87020-190</li>
 	<li><b>Telefone:</b> (44) 3034-9111</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,3 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 8,00</li>
@@ -137,7 +137,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Churrascaria Galpão Tropeiro - Buffet e Espeto Corrido</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Praça Júlio Jerônimo dos Santos, 58 - Zona 7, Maringá - PR, 87030-510</b></li>
+	<li><b>Endereço:</b> Praça Júlio Jerônimo dos Santos, 58 - Zona 7, Maringá - PR, 87030-510</li>
 	<li><b>Telefone:</b> (44) 3269-7951</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,3 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 8,00</li>
@@ -148,7 +148,7 @@ A seguir é apresentada uma lista dos principais restaurante próximos à ERES20
 <h3>Tanabe's Restaurante</h3>
 
 <ul>		
-	<li><b>Endereço:</b> Av. Paraná, 1237 - Zona 7, Maringá - PR, 87020-085</b></li>
+	<li><b>Endereço:</b> Av. Paraná, 1237 - Zona 7, Maringá - PR, 87020-085</li>
 	<li><b>Telefone:</b> (44) 3023-4310</li>	
 	<li><b>Distância até o Bloco C56 (DIN/UEM):</b> 2,8 km</li>
 	<li><b>Uber até o Bloco C56 (DIN/UEM) (estimativa):</b> R$ 10,00</li>
