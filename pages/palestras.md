@@ -56,6 +56,22 @@ header:
 </div><!-- /.medium-4.columns -->
 
 
+<div class="row t30">
+	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="center"><br>
+        <b>Prof. Leandro Bento Pompermaier (Tecnopuc/PUCRS)</b><br>		
+		<a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
+		<h4>Título: 1000 em 10: A Experiência do Tecnopuc na Geração de Startups (Palestra F) </h4><br>
+		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
+		<b>Hora:</b> 19h:30m - 21h:00m (1,5 horas) <br>
+		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
+		<br>
+		<p class="text-justify"><b>Resumo:</b>.</p>
+		<br><br>
+		<p class="text-justify"><b>Bio:</b> Michelle S. Wangham é professora na Universidade do Vale do Itajaí (UNIVALI). Possui doutorado em Engenharia Elétrica na Universidade Federal de Santa Catarina (UFSC). Atualmente,  é membro do Laboratório de Sistemas Embarcados e Distribuídos  (LSED) da Univali, coordena o Comitê Técnico de Gestão de Identidade da RNP e o serviço para experimentação em gestão de identidade - GIdLab da RNP. Seus principais tópicos de interesse são segurança e privacidade em sistemas distribuídos e gestão de identidades.</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns -->
+
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
