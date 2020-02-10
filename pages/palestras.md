@@ -68,7 +68,7 @@ header:
 		<br>
 		<p class="text-justify"><b>Resumo:</b>.</p>
 		<br><br>
-		<p class="text-justify"><b>Bio:</b> Michelle S. Wangham é professora na Universidade do Vale do Itajaí (UNIVALI). Possui doutorado em Engenharia Elétrica na Universidade Federal de Santa Catarina (UFSC). Atualmente,  é membro do Laboratório de Sistemas Embarcados e Distribuídos  (LSED) da Univali, coordena o Comitê Técnico de Gestão de Identidade da RNP e o serviço para experimentação em gestão de identidade - GIdLab da RNP. Seus principais tópicos de interesse são segurança e privacidade em sistemas distribuídos e gestão de identidades.</p>
+		<p class="text-justify"><b>Bio:</b> Leandro é co-fundador da e-Core, empresa de software que atua globalmente, com escritórios no Brasil, México e EUA. Co-fundador da Adoy Invest, startup que mescla Inteligência Artificial e lógica de fundos de investimentos no mundo das criptomoedas. Professor da PUCRS com mais de 20 anos de experiência e líder da área de Startups do Tecnopuc, referência mundial em parque tecnológico. Investidor anjo de Startups, líder do chapter RS da Anjos do Brasil. </p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.medium-4.columns -->
 
