@@ -49,14 +49,8 @@ header:
         <b>Prof. Me. André F. R. Cordeiro</b><br>
 		<b>DIN/UEM</b><br>
 		<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>    
-	</div><!-- /.medium-4.columns -->
+	</div><!-- /.medium-4.columns -->	
 	
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yamaguchi.jpg" alt=""><br>
-        <b>Profa. Me. Juliana Keiko Yamaguchi</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/9037635618936747" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
 
