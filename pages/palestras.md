@@ -58,7 +58,7 @@ header:
 
 <div class="row t30">
 	<div class="medium-16 columns">
-        <img src="{{ site.urlimg }}semfoto.jpg" alt="" align="center"><br>
+        <img src="{{ site.urlimg }}pompermaier.gif" alt="" align="center"><br>
         <b>Prof. Leandro Bento Pompermaier (Tecnopuc/PUCRS)</b><br>		
 		<a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
 		<h4>Título: 1000 em 10: A Experiência do Tecnopuc na Geração de Startups (Palestra F) </h4><br>
