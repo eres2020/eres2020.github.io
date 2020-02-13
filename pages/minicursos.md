@@ -83,7 +83,7 @@ header:
         <img src="{{ site.urlimg }}chagas.jpeg" alt="" align="middle"><br>
         <h3>Esp. Neimar Chagas (MentorsTec)</h3>
 		<h4>Título: Arquitetura de Linha de Produto de Software para Projetos de Business Intelligence (MC 8) </h4><br>		
-		<b>Data:</b> 22/05/2020 (Quinta-Feira) <br>
+		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
 		<b>Hora:</b> 15h:30m - 18:00m (2,5 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN1 sala 12 (Térreo)<br><br>
 		<p class="text-justify"><b>Resumo:</b> Em projetos de Business Intelligence (BI), sempre se fala em um modelo de dados dimensional, também conhecido como DW (Data Wharehouse), com a finalidade de modelar os dados para ganhar agilidade em consultas OLAP e também independência dos sistemas transacionais, de onde são as fonte de dados. Para responder as questões e preocupações de negócios em um projeto de BI é preciso modelar data marts para cada setor produtivo, seja ele, uma empresa, industria ou comercio. Construir pipelines de ETL robustas para povoar o DW. E criar dashboards e relatórios que responda às necessidades de BI. Uma LPS para BI vem atender esta necessidade em nível escalar, de tal forma que é possível implantar de modo relativamente barato em vários setores da economia um projeto de BI com um core asset que responda pelo menos 70% das necessidades. Neste minicurso será apresentado técnicas de construção de data marts para DW, pipeline de ETL e dashboards que servirão como core asset para uma LPS de BI. </p><br><br>
