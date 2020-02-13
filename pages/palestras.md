@@ -44,7 +44,7 @@ header:
         <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
         <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>		
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
-		<h4>Título: Desafios e Oportunidades Decorrentes da LGPD para a Área de Engenharia de Software (Palestra E) </h4><br>
+		<h4>Título: Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software (Palestra E) </h4><br>
 		<b>Data:</b> 22/05/2020 (Sexta-Feira) <br>
 		<b>Hora:</b> 13h:30m - 15h:00m (1,5 horas) <br>
 		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
