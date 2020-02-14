@@ -7,9 +7,6 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Em definição...</h2>
-<br>
-
 	<h2>Sobre o Painel:</h2>
 	<br><br>
 
