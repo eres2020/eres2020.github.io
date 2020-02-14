@@ -42,7 +42,7 @@ header:
 	<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
 	<br>
 	
-	<br><br>
+	<br>
 	
 </div><!-- /.medium-4.columns -->
 
