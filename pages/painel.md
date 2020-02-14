@@ -23,7 +23,7 @@ header:
 			<li>Prof. Dr. Adilson Luiz Bonifácio (DC-UEL) - <a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Dr. Fernando Marques Federson (INF-UFG) - <a href="http://lattes.cnpq.br/0513724372523279" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Me. Marcello Erick Bonfim (UniCesumar) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
-			<li>Márcio Germano Perissati (CooperTEC - Diretor de Tecnologia) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
+			<li>Me. Márcio Germano Perissati (CooperTEC - Diretor de Tecnologia) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
 		
 		</ul>
 			
