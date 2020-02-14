@@ -46,34 +46,35 @@ autores de artigos da Trilha da Indústria devem estar filiados à uma empresa o
 Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de engenharia de software, incluindo mas não se restringindo aos seguintes:
 
 <ul>
-<li>Aplicações industriais da Engenharia de Software</li>
+<li>Aplicações Industriais da Engenharia de Software</li>
+<li>Arquitetura de Software</li>
 <li>Aspectos Sociais da Engenharia de Software</li>
 <li>Confiabilidade de Software</li>
 <li>CSCW e Engenharia de Software</li>
 <li>Desenvolvimento de Software Orientado a Modelos</li>
-<li>Engenharia de Requisitos</li>
-<li>Engenharia de Software Aplicada à Educação</li>
-<li>Engenharia de Software Experimental</li>
-<li>Engenharia de Software Orientada a Agentes</li>
-<li>Modularidade de Software</li>
-<li>Engenharia de Software para a World Wide Web</li>
-<li>Fundamentos teóricos e métodos formais</li>
-<li>Linhas de Produtos de Software</li>
-<li>Linguagem Específica de Domínio</li>
-<li>Manutenção e evolução do software</li>
-<li>Métricas e medidas de software</li>
-<li>Processos de software</li>
 <li>DevOps</li>
-<li>Métodos Ágeis</li>
-<li>Qualidade de software e modelos de qualidade</li>
-<li>Reengenharia de software</li>
-<li>Reutilização de software</li>
-<li>Verificação e Validação de Software</li>
-<li>Arquitetura de software</li>
-<li>Engenharia de Software Baseada em Busca</li>
-<li>Mineração de repositório de software</li>
 <li>Ecossistemas de Software e Sistemas-de-Sistemas</li>
 <li>Educação e Treinamento em Engenharia de Software</li>
+<li>Engenharia de Requisitos</li>
+<li>Engenharia de Software Aplicada à Educação</li>
+<li>Engenharia de Software Baseada em Busca</li>
+<li>Engenharia de Software Experimental</li>
+<li>Engenharia de Software Orientada a Agentes</li>
+<li>Engenharia de Software para a World Wide Web</li>
+<li>Fundamentos Teóricos e Métodos Formais</li>
+<li>Linguagem Específica de Domínio</li>
+<li>Linhas de Processo de Software</li>
+<li>Linhas de Produto de Software</li>
+<li>Manutenção e Evolução do Software</li>
+<li>Métodos Ágeis</li>
+<li>Métricas e Medidas de Software</li>
+<li>Mineração de Repositório de Software</li>
+<li>Modularidade de Software</li>
+<li>Processos de Software</li>
+<li>Qualidade de Software e Modelos de Qualidade</li>
+<li>Reengenharia de Software</li>
+<li>Reutilização de Software</li>
+<li>Verificação e Validação de Software</li>
 </ul>
  
 <h2>Coordenação Geral da ERES 2020:</h2>
