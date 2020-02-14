@@ -9,7 +9,7 @@ header:
 
 <div class="medium-16 columns">
 
-	<h2>Sobre o Painel:</h2>
+	<h3>Sobre o Painel:</h3>
 	<br><br>
 
 	<b>Coordenadora do Painel:</b> Profa. Dra. Itana M. S. Gimenes (DIN/UEM)
