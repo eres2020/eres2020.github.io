@@ -10,6 +10,36 @@ header:
 <h2>Em definição...</h2>
 <br>
 
+<div class="medium-16 columns">
+
+	<b>Sobre o Painel:</b>
+
+	<b>Coordenadora: Profa. Dra. Itana M. S. Gimenes (DIN/UEM)</b> - Diretora de Educação da SBC (2019-2021) - <a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
+
+	<b>Mediador: Prof. Dr. Avelino F. Zorzo (PUCRS)</b> - Coordenador Adjunto de Programas Profissionais da CAPES e ex-Diretor de Educação da SBC (2015-2017) - <a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a><br>			
+
+	<b>Debatedores: 
+	
+		<ul>
+			<li>Prof. Dr. Adilson Luiz Bonifácio (DC-UEL) - <a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a></li>
+			<li>Prof. Dr. Fernando Marques Federson (INF-UFG) - <a href="http://lattes.cnpq.br/0513724372523279" target="_blank">Currículo Lattes</a></li>
+			<li>Prof. Me. Marcello Erick Bonfim (UniCesumar) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
+		
+		</ul>
+			
+	<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
+	<b>Hora:</b> 13h:30m - 15h:00m (1,5 horas) <br>
+	<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
+	<br>
+	
+	<br><br>
+	
+</div><!-- /.medium-4.columns -->
+
+
+
+
+
 <div class="row t30">	
 	<img src="{{ site.urlimg }}painel.jpg" alt="" align="center">
 </div><!-- /.row -->
