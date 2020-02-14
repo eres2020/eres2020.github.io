@@ -12,7 +12,8 @@ header:
 
 <div class="medium-16 columns">
 
-	<b>Sobre o Painel:</b>
+	<h2>Sobre o Painel:</h2>
+	<br><br>
 
 	<b>Coordenadora: Profa. Dra. Itana M. S. Gimenes (DIN/UEM)</b> - Diretora de Educação da SBC (2019-2021) - <a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
 
