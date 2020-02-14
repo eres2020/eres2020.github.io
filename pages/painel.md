@@ -7,6 +7,8 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
+<div class="medium-16 columns">
+
 	<h2>Sobre o Painel:</h2>
 	<br><br>
 
@@ -31,6 +33,9 @@ header:
 	
 	<br><br>
 	
+</div><!-- /.medium-4.columns -->
+
+
 
 
 
