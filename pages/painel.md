@@ -15,7 +15,7 @@ header:
 	<b>Coordenadora do Painel:</b> Profa. Dra. Itana M. S. Gimenes (DIN/UEM)
 		<ul>
 			<li>Diretora de Educação da SBC (2019-2021)</li>
-			<li><a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a></li>		
+			<li><a href="http://lattes.cnpq.br/9398810362952245" target="_blank">Currículo Lattes</a></li>		
 		</ul>
 
  
@@ -30,10 +30,10 @@ header:
 	<b>Debatedores: </b>
 	
 		<ul>
-			<li>Prof. Dr. Adilson Luiz Bonifácio (DC-UEL) - <a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a></li>
+			<li>Prof. Dr. Adilson Luiz Bonifácio (DC-UEL) - <a href="http://lattes.cnpq.br/7813535932920546" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Dr. Fernando Marques Federson (INF-UFG) - <a href="http://lattes.cnpq.br/0513724372523279" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Me. Marcello Erick Bonfim (UniCesumar) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
-			<li>Me. Márcio Germano Perissati (CooperTEC - Diretor de Tecnologia) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
+			<li>Me. Márcio Germano Perissati (CooperTEC - Diretor de Tecnologia)</li>
 		
 		</ul>
 			
