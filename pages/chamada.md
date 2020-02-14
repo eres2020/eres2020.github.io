@@ -52,6 +52,7 @@ Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de 
 <li>CSCW e Engenharia de Software</li>
 <li>Desenvolvimento de Software Orientado a Modelos</li>
 <li>Engenharia de Requisitos</li>
+<li>Engenharia de Software Aplicada à Educação</li>
 <li>Engenharia de Software Experimental</li>
 <li>Engenharia de Software Orientada a Agentes</li>
 <li>Modularidade de Software</li>
