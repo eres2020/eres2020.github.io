@@ -19,8 +19,14 @@ header:
 		</ul>
 
  
-	<b>Mediador do Painel: Prof. Dr. Avelino F. Zorzo (PUCRS)</b> - Coordenador Adjunto de Programas Profissionais da CAPES e ex-Diretor de Educação da SBC (2015-2017) - <a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a><br>			
+	<b>Mediador do Painel:</b> Prof. Dr. Avelino F. Zorzo (PUCRS)
+			<ul>
+			<li>Coordenador Adjunto de Programas Profissionais da CAPES</li>
+			<li>Diretor de Educação da SBC (2015-2017)</li>
+			<li><a href="http://lattes.cnpq.br/4315350764773182" target="_blank">Currículo Lattes</a></li>
+		</ul>
 
+  	
 	<b>Debatedores: </b>
 	
 		<ul>
