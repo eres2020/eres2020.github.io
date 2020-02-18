@@ -148,7 +148,7 @@ header:
 
 <div class="row t30">
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}barbosa.gif" alt=""><br>
+        <img src="{{ site.urlimg }}barbosa.jpg" alt=""><br>
         <b>Profa. Dra. Ellen Francine Barbosa</b><br>
 		<b>ICMC/USP</b><br>
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a>
