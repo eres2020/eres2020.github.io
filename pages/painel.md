@@ -30,6 +30,7 @@ header:
 	<b>Debatedores: </b>
 	
 		<ul>
+		
 			<li>Profa. Dra. Ellen Francine Barbosa (ICMC-USP) - <a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Dr. Adilson Luiz Bonifácio (DC-UEL) - <a href="http://lattes.cnpq.br/7813535932920546" target="_blank">Currículo Lattes</a></li>
 			<li>Prof. Me. Marcello Erick Bonfim (UniCesumar) - <a href="http://lattes.cnpq.br/0506836290053803" target="_blank">Currículo Lattes</a></li>
