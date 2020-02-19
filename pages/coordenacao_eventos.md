@@ -148,7 +148,7 @@ header:
 
 <div class="row t30">
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}barbosa.gif" alt=""><br>
+        <img src="{{ site.urlimg }}barbosa.jpg" alt=""><br>
         <b>Profa. Dra. Ellen Francine Barbosa</b><br>
 		<b>ICMC/USP</b><br>
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a>
@@ -187,6 +187,20 @@ header:
     </div>
 
 </div>
+
+<h2>Publicity Chair</h2>
+
+<div class="row t30">		
+	<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}cordeiro.gif" alt=""><br>
+        <b>Prof. Me. André F. R. Cordeiro</b><br>
+		<b>DIN/UEM</b><br>
+		<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>    
+	</div><!-- /.medium-4.columns -->	
+	
+
+</div><!-- /.row -->
+
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">

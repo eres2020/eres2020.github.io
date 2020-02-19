@@ -66,7 +66,7 @@ header:
 		<b>Hora:</b> 19h:30m - 21h:00m (1,5 horas) <br>
 		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
 		<br>
-		<p class="text-justify"><b>Resumo:</b>.</p>
+		<p class="text-justify"><b>Resumo:</b> A palestra mostrará como a intenção estratégica do Tecnopuc (1000 negócios inovadores em 10 anos) impacta nas ações de empreendedorismo na universidade (PUCRS). Será apresentada a mudança organizacional do Tecnopuc para englobar tal estratégia e, dentro deste contexto, os programas de desenvolvimento de startups, direcionados para toda a jornada do empreendedor, serão apresentados e detalhados.</p>
 		<br><br>
 		<p class="text-justify"><b>Bio:</b> Leandro é co-fundador da e-Core, empresa de software que atua globalmente, com escritórios no Brasil, México e EUA. Co-fundador da Adoy Invest, startup que mescla Inteligência Artificial e lógica de fundos de investimentos no mundo das criptomoedas. Professor da PUCRS com mais de 20 anos de experiência e líder da área de Startups do Tecnopuc, referência mundial em parque tecnológico. Investidor anjo de Startups, líder do chapter RS da Anjos do Brasil. </p>
     </div><!-- /.medium-4.columns -->

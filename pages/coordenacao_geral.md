@@ -41,18 +41,6 @@ header:
 </div><!-- /.row -->
 
 <br>
-<h1>Apoio Local</h1>
-
-<div class="row t30">		
-	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}cordeiro.gif" alt=""><br>
-        <b>Prof. Me. André F. R. Cordeiro</b><br>
-		<b>DIN/UEM</b><br>
-		<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>    
-	</div><!-- /.medium-4.columns -->	
-	
-
-</div><!-- /.row -->
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
