@@ -43,7 +43,7 @@ header:
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}gularte.jpeg" alt="" align="center"><br>
         <b>Alan Gularte (Dell)</b><br>		
-		<a href="http://lattes.cnpq.br/9493689598827849" target="_blank">Currículo Lattes</a><br>		
+		<a href="https://www.linkedin.com/in/alancafrunigularte" target="_blank">Linkedin</a><br>		
 		<h4>Título: Testes de Software e Transformação Digital (Palestra D) </h4><br>
 		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
 		<b>Hora:</b> 08h:45m - 10m:15m (1,5 horas) <br>
