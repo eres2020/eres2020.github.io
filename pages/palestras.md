@@ -41,6 +41,23 @@ header:
 
 <div class="row t30">
 	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}gularte.jpeg" alt="" align="center"><br>
+        <b>Alan Gularte (Dell)</b><br>		
+		<a href="http://lattes.cnpq.br/9493689598827849" target="_blank">Currículo Lattes</a><br>		
+		<h4>Título: Testes de Software e Transformação Digital (Palestra D) </h4><br>
+		<b>Data:</b> 21/05/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 08h:45m - 10m:15m (1,5 horas) <br>
+		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
+		<br>
+		<p class="text-justify"><b>Resumo:</b> Nesta nova era de transformação digital, os engenheiros de testes estão se deparando com um universo de mudanças na maneira como tradicionalmente testam os softwares em termos de habilidades, processos e ferramentas. Machine Learning/Inteligência Artificial, DevOps, testes ágeis e contínuos são alguns exemplos dos temas que estão desafiando a comunidade de testes e forçando-os a encontrar maneiras de testar mais rapidamente e com excelência. Nesta palestra, Alan Gularte compartilhará como superar os principais desafios no campo da automação de testes, fazendo o melhor uso das tecnologias disponíveis.</p>
+		<br><br>
+		<p class="text-justify"><b>Bio:</b> Alan Gularte é Engenheiro de Software Sênior da Dell. Desde 2013, ele apoia programas globais de testes de performance e engenharia de qualidade, liderando equipes distribuídas no Brasil e na Índia. Ele ingressou na Dell após 6 anos trabalhando como desenvolvedor web e mobile. Ele tem Especialização em Big Data e Ciência de Dados e está sempre trabalhando com iniciativas de inovação envolvendo automação para mesclar Engenharia de Qualidade com Inteligência Artificial. Alan é apaixonado por tecnologia e gestão de pessoas, porque acredita que as duas áreas precisam caminhar juntas. Ele adora viajar e conhecer diferentes culturas.</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns -->
+
+
+<div class="row t30">
+	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
         <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>		
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
