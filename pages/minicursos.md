@@ -44,7 +44,7 @@ header:
 		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
 		<b>Hora:</b> 15h:30m - 18h:00m (2,5 horas) <br>
 		<b>Local:</b> Bloco C56 (DIN) - LIN2 sala 10 (Térreo)<br><br>
-		<p class="text-justify"><b>Resumo:</b> Aborda o que é Experiência do Usuário, de onde surgiu esse termo, seus conceitos básicos, cases de sucesso, sua aplicação e importância nas empresas de TI atualmente. </p><br><br>
+		<p class="text-justify"><b>Resumo:</b> “User Experience”, ou Experiência do Usuário, é algo que vem sendo muito falado nos últimos anos, mas ainda gera muita confusão em relação ao que realmente se refere. No minicurso vamos abordado o surgimento do termo e sua definição, com base no pensamento de Dom Norman, as áreas e atividades à que UX abrange, as diferenças entre o que conhecemos como design e UX Design. Também falaremos sobre processos de trabalho, dentro de empresas de tecnologia, envolvendo a área de Experiência do Usuário, sua importância para a melhoria das soluções criadas e assertividade no desenvolvimento das mesmas.</p><br><br>
 		<b>Bio:</b> Atua como analista de qualidade e UX Designer, graduado em Publicidade e Propaganda e se especializando em UX Designer e Learning Experience, estando na área de TI há mais de 10 anos.
     </div><!-- /.medium-4.columns -->
 
