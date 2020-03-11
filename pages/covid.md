@@ -13,9 +13,11 @@ header:
 
 <br>
 
-<h3>Estamos atentamente monitorando o COVID-19 (Conora vírus) no Paraná e, especialmente, em Maringá.</h3>
+<h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá.</h3>
 
-Notícia da Secretaria de Saúde do Paraná - 11/03/2020:
+<br><i>Status - Casos Suspeitos: 25 - Mortes: 00</i>
+
+<br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19
 
 A Secretaria de Estado da Saúde e a Secretaria Municipal de Saúde de Curitiba informam o primeiro provável caso de coronavírus (Covid-19) no Paraná. Um morador de Curitiba, de 54 anos, com quadro clínico de tosse e febre, que retornou da Europa no início de março.<br>
 
