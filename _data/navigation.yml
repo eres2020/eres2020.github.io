@@ -2,9 +2,14 @@
   url: "/"
   side: left
 
-- title: Cód. Ética
-  url: "/etica/"
+#- title: Cód. Ética
+#  url: "/etica/"
+#  side: left  
+
+- title: COVID-19
+  url: "/covid/"
   side: left  
+
 
 - title: Chamada de Trabalhos
   url: "/chamada/"
