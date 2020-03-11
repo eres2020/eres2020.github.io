@@ -17,7 +17,7 @@ header:
 
 <br><i>Status - Casos Suspeitos: 34 (SP-19, RJ-8, BA-2, ES-1, DF-1, MG-1, Al-1, RS-1, <b>PR-Zero</b>) - Mortes: 00</i>
 
-<br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19
+<br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - <a href="http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19" target"_blank">Link aqui</a>
 
 A Secretaria de Estado da Saúde e a Secretaria Municipal de Saúde de Curitiba informam o primeiro provável caso de coronavírus (Covid-19) no Paraná. Um morador de Curitiba, de 54 anos, com quadro clínico de tosse e febre, que retornou da Europa no início de março.<br>
 
