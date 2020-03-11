@@ -13,30 +13,11 @@ header:
 
 <br>
 
-<h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá.</h3>
+<h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Clique aqui para acessar o COVID-19 Dashboard da Hopikins University</a></h3>
 
 <br><i>Casos Confirmados: 34 (SP-19, RJ-8, BA-2, ES-1, DF-1, MG-1, Al-1, RS-1, <b>PR-Zero</b>) - Mortes: <b>00-Zero</b></i>
 
-<br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - <a href="http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19" target"_blank">Link aqui</a>
-
-A Secretaria de Estado da Saúde e a Secretaria Municipal de Saúde de Curitiba informam o primeiro provável caso de coronavírus (Covid-19) no Paraná. Um morador de Curitiba, de 54 anos, com quadro clínico de tosse e febre, que retornou da Europa no início de março.<br>
-
-Um laboratório particular positivou o exame nesta quarta-feira (11), depois do homem procurar hospital privado, passando em seguida ao isolamento domiciliar.
-
-No entanto, segundo o protocolo e as orientações do Ministério da Saúde, somente após a confirmação pelos laboratórios públicos, como o Lacen do Paraná e a Fiocruz do Rio de Janeiro, é que o resultado passa a ser validado.
-
-O material já está sendo encaminhado para a contraprova nas respectivas unidades laboratoriais.
-
-Vale lembrar que, embora o exame feito na rede privada seja considerado válido, a confirmação passa pelas autoridades sanitárias do Estado e do Município em questão, cumprindo assim o estabelecido pelo MS.
-
-
-Qualquer informação divulgada de forma apressada, atropelando o fluxo oficial, seja por parte de hospitais ou laboratórios, representa um desserviço à população, gerando instabilidade social e à saúde pública.
-
-A Secretaria de Estado da Saúde reitera que está adotando todas as medidas preventivas e de retaguarda, inclusive com a rede pública hospitalar, com mais de 60 estabelecimentos em várias regiões, pronta para atender os casos que venham a ser confirmados.
-
-O Paraná foi um dos primeiros estados a lançar o plano de ação e contingenciamento para enfrentar a Covid-19, reconhecido pelo próprio Ministério da Saúde como uma referência nacional e um dos melhores do Brasil.
-
-Equipes da Sesa estão em alerta, monitorando permanentemente a situação, por meio do Centro de Operações em Emergências (COE), e ressalta o compromisso de informar com total transparência os dados e fatos apurados.
+<br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - <a href="http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19" target="_blank">Link aqui</a>
 
 
 <div class="row t30">	
