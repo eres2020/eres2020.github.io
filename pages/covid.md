@@ -15,7 +15,7 @@ header:
 
 <h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá.</h3>
 
-<br><i>Status - Casos Suspeitos: 34 (SP-19, RJ-8, BA-2, ES-1, DF-1, MG-1, Al-1, RS-1, <b>PR-Zero</b>) - Mortes: 00</i>
+<br><i>Casos Confirmados: 34 (SP-19, RJ-8, BA-2, ES-1, DF-1, MG-1, Al-1, RS-1, <b>PR-Zero</b>) - Mortes: <b>00-Zero</b></i>
 
 <br>Notícia da Secretaria de Saúde do Paraná - 11/03/2020 - <a href="http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7167&tit=INFORMACAO-PARA-A-IMPRENSA--Covid-19" target"_blank">Link aqui</a>
 
