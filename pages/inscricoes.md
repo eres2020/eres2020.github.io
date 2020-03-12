@@ -134,19 +134,19 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 <!-- professores educacao básica -->
   <tr align="center" bgcolor="#d3d3d3">
     <td width="10%" rowspan="4" align="center"><b>Professor de Educação Básica</b></td>
-	<td valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
-	<td>R$ 30,00</td>
-	<td>R$ 35,00</td>
-	<td>R$ 40,00</td>
-	<td>R$ 45,00</td>
+	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
+	<td bgcolor="#FFFFFF">R$ 30,00</td>
+	<td bgcolor="#FFFFFF">R$ 35,00</td>
+	<td bgcolor="#FFFFFF">R$ 40,00</td>
+	<td bgcolor="#FFFFFF">R$ 45,00</td>
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-    <td valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td>R$ 121,00</td>
-	<td>R$ 126,00</td>
-	<td>R$ 131,00</td>	  	  
-	<td>R$ 136,00</td>
+    <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+	<td bgcolor="#d3d3d3">R$ 121,00</td>
+	<td bgcolor="#d3d3d3">R$ 126,00</td>
+	<td bgcolor="#d3d3d3">R$ 131,00</td>	  	  
+	<td bgcolor="#d3d3d3">R$ 136,00</td>
   </tr>
 
 
@@ -160,11 +160,11 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-	<td>R$ 70,00</td>
-	<td>R$ 75,00</td>
-	<td>R$ 80,00</td>
-	<td>R$ 85,00</td>	
+	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
+	<td bgcolor="#FFFFFF">R$ 70,00</td>
+	<td bgcolor="#FFFFFF">R$ 75,00</td>
+	<td bgcolor="#FFFFFF">R$ 80,00</td>
+	<td bgcolor="#FFFFFF">R$ 85,00</td>	
   </tr>
   
  <tr>
@@ -178,39 +178,39 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
 <!-- proficcionais e efetivos -->
-  <tr align="center">
-    <td width="10%" rowspan="4" align="center"><b>Profissionais/Efetivos</b></td>
-	<td valign="middle">Profissional associado à SBC com anuidade vigente</td>
-	<td>R$ 95,00</td>
-	<td>R$ 100,00</td>
-	<td>R$ 105,00</td>
-	<td>R$ 110,00</td>
+  <tr align="center" bgcolor="#d3d3d3">
+    <td bgcolor="#d3d3d3" width="10%" rowspan="4" align="center"><b>Profissionais/Efetivos</b></td>
+	<td bgcolor="#FFFFFF" valign="middle">Profissional associado à SBC com anuidade vigente</td>
+	<td bgcolor="#FFFFFF">R$ 95,00</td>
+	<td bgcolor="#FFFFFF">R$ 100,00</td>
+	<td bgcolor="#FFFFFF">R$ 105,00</td>
+	<td bgcolor="#FFFFFF">R$ 110,00</td>
   </tr>
   
-  <tr align="center">
-    <td valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
-	<td>R$ 355,00</td>
-	<td>R$ 360,00</td>
-	<td>R$ 365,00</td>	  	  
-	<td>R$ 370,00</td>
+  <tr align="center" bgcolor="#d3d3d3">
+    <td bgcolor="#d3d3d3" valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
+	<td bgcolor="#d3d3d3">R$ 355,00</td>
+	<td bgcolor="#d3d3d3">R$ 360,00</td>
+	<td bgcolor="#d3d3d3">R$ 365,00</td>	  	  
+	<td bgcolor="#d3d3d3">R$ 370,00</td>
   </tr>
 
 
-  <tr align="center">
-    <td valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-	<td>R$ 355,00</td>
-	<td>R$ 360,00</td>
-	<td>R$ 365,00</td>	  	  
-	<td>R$ 370,00</td>
+  <tr align="center" bgcolor="#d3d3d3">
+    <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
+	<td bgcolor="#FFFFFF">R$ 355,00</td>
+	<td bgcolor="#FFFFFF">R$ 360,00</td>
+	<td bgcolor="#FFFFFF">R$ 365,00</td>	  	  
+	<td bgcolor="#FFFFFF">R$ 370,00</td>
 </tr>
 
 
-  <tr align="center">
-	<td valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-	<td>R$ 150,00</td>
-	<td>R$ 155,00</td>
-	<td>R$ 160,00</td>
-	<td>R$ 165,00</td>	
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
+	<td bgcolor="#d3d3d3">R$ 150,00</td>
+	<td bgcolor="#d3d3d3">R$ 155,00</td>
+	<td bgcolor="#d3d3d3">R$ 160,00</td>
+	<td bgcolor="#d3d3d3">R$ 165,00</td>	
   </tr>
 
   
