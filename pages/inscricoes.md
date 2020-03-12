@@ -9,9 +9,10 @@ header:
 
 <h1>Inscrições</h1>
 
-Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
+Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC clicando no botão abaixo: 
+<!--no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>-->
 
-<button name="button" onclick="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">Click me</button>
+<button name="button" onclick="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">Fazer Inscrição na ERES 2020</button>
 
 
 <h2>Formas de Pagamento</h2>
