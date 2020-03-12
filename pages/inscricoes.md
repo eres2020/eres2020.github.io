@@ -151,20 +151,20 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td>R$ 121,00</td>
-	<td>R$ 126,00</td>
-	<td>R$ 131,00</td>	  	  
-	<td>R$ 136,00</td>
+    <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+	<td bgcolor="#FFFFFF">R$ 121,00</td>
+	<td bgcolor="#FFFFFF">R$ 126,00</td>
+	<td bgcolor="#FFFFFF">R$ 131,00</td>	  	  
+	<td bgcolor="#FFFFFF">R$ 136,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-	<td bgcolor="#FFFFFF">R$ 70,00</td>
-	<td bgcolor="#FFFFFF">R$ 75,00</td>
-	<td bgcolor="#FFFFFF">R$ 80,00</td>
-	<td bgcolor="#FFFFFF">R$ 85,00</td>	
+	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
+	<td bgcolor="#d3d3d3">R$ 70,00</td>
+	<td bgcolor="#d3d3d3">R$ 75,00</td>
+	<td bgcolor="#d3d3d3">R$ 80,00</td>
+	<td bgcolor="#d3d3d3">R$ 85,00</td>	
   </tr>
   
  <tr>
