@@ -16,9 +16,9 @@ Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES
 
 Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento por meio do portal ECOS da SBC.
 
-<br><br>As inscrições podem ser feitas até o último dia do evento (22/05/2020), porém os pagamentos por débito e boleto serão fechados dia 15/05/2020.Após essa data será possível pagar por cartão de crédito, nota de empenho, e faturamento. Aqueles que não puderem efetuar o pagamento por uma das formas citadas poderão fazer a inscrição durante o evento e fazer o pagamento em espécie na secretaria do evento.
+<br>As inscrições podem ser feitas até o último dia do evento (22/05/2020), porém os pagamentos por débito e boleto serão fechados dia 15/05/2020. Após essa data será possível pagar por cartão de crédito, nota de empenho, e faturamento. Aqueles que não puderem efetuar o pagamento por uma das formas citadas poderão fazer a inscrição durante o evento e fazer o pagamento em espécie na secretaria do evento.
 
-<br><br>Para inscrições por nota de empenho ou faturamento, o participante deverá acessar o sistema ECOS e realizar a inscrição selecionando a forma de pagamento nota de empenho ou faturamento e clicar em pagar. O sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
+<br>Para inscrições por nota de empenho ou faturamento, o participante deverá acessar o sistema ECOS e realizar a inscrição selecionando a forma de pagamento nota de empenho ou faturamento e clicar em pagar. O sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
 <br><br>
 
 <h2>Valores das Inscrições</h2>
