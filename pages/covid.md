@@ -20,6 +20,7 @@ header:
 <br><i><a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Acompanhar por países</a></i><br>
 
 
+
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->

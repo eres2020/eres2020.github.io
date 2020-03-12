@@ -246,6 +246,7 @@ Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota
 </table>
 
 
+
 <h2>Atenção!</h2>
 
 Pagamentos por boleto e débito encerram-se dia 15/05/2020.
