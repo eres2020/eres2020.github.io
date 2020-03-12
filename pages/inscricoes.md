@@ -29,7 +29,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 <table style="width:100%" border="1" align="center">
 
   <tr bgcolor="#FFFF00" valign="middle" align="center">	
-	<th width="20%" colspan="2">CATEGORIAS</th>	
+	<th style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>	
     <th width="5%">Até 09/04/2020</th>
     <th width="5%">Até 30/04/2020</th>
     <th width="5%">Até 14/05/2020</th>
