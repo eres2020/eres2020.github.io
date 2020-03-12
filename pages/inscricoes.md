@@ -259,11 +259,11 @@ Cada artigo deve ter pelo menos 01 (um) autor inscrito no evento. <b>Cada autor 
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
-O cancelamento de inscrições pode ser realizado até dia 13/05/2020. O valor a ser devolvido será de 70% do valor pago pela inscrição na ERES 2020 e possíveis minicursos.<br>
+O cancelamento de inscrições pode ser realizado até dia 13/05/2020. O valor a ser devolvido será de 70% do valor pago pela inscrição na ERES 2020 e possíveis minicursos.
 
-Após esta data não haverá devolução de qualquer valor pago.<br>
+Após esta data não haverá devolução de qualquer valor pago.
 
-Para solicitar o cancelamento, enviar um e-mail para faturamento@sbc.org.br<br><br>
+Para solicitar o cancelamento, enviar um e-mail para faturamento@sbc.org.br<br>
 
 
 
