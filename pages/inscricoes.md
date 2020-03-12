@@ -42,7 +42,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   
 <!-- estudante graduacao e ensinomedio -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" align="center" valign="middle"><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
+    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 15,00</td>
 	<td bgcolor="#FFFFFF">R$ 20,00</td>
@@ -90,7 +90,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   
   <!-- estudante pos-graduacao -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" align="center"><b>Estudante de Pós-Graduação</b></td>
+    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Pós-Graduação</b></td>
 	<td bgcolor="#FFFFFF" valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 25,00</td>
 	<td bgcolor="#FFFFFF">R$ 30,00</td>
@@ -136,7 +136,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 <!-- professores educacao básica -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" align="center"><b>Professor de Educação Básica</b></td>
+    <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Professor de Educação Básica</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
 	<td bgcolor="#FFFFFF">R$ 30,00</td>
 	<td bgcolor="#FFFFFF">R$ 35,00</td>
@@ -182,7 +182,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 <!-- proficcionais e efetivos -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" align="center"><b>Profissionais/Efetivos</b></td>
+    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4"><b>Profissionais/Efetivos</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Profissional associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 95,00</td>
 	<td bgcolor="#FFFFFF">R$ 100,00</td>
