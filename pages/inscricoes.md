@@ -27,7 +27,7 @@ Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota
 <table style="width:100%" border="1" align="center">
 
   <tr bgcolor="#FFFF00">	
-	<th width="20%"colspan="2">CATEGORIAS</th>	
+	<th width="20%" colspan="2">CATEGORIAS</th>	
     <th width="5%">Até 09/04/2020</th>
     <th width="5%">Até 30/04/2020</th>
     <th width="5%">Até 14/05/2020</th>
