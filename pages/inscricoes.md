@@ -27,7 +27,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 <table style="width:100%" border="1" align="center">
 
   <tr bgcolor="#FFFF00">	
-	<th width="20%" colspan="2" align="center" valign="center">CATEGORIAS</th>	
+	<th width="20%" colspan="2">CATEGORIAS</th>	
     <th width="5%">Até 09/04/2020</th>
     <th width="5%">Até 30/04/2020</th>
     <th width="5%">Até 14/05/2020</th>
@@ -46,7 +46,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   
 <!-- estudante graduacao e ensinomedio -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td width="10%" rowspan="4" align="center"><b>Estudante de Graduação<br>ou<br>Estudante de  Ensino Médio</b></td>
+    <td width="10%" rowspan="4" align="center" valign="middle"><b>Estudante de Graduação<br>ou<br>Estudante de  Ensino Médio</b></td>
 	<td>Estudante associado à SBC com anuidade vigente</td>
 	<td>R$ 15,00</td>
 	<td>R$ 20,00</td>
@@ -55,7 +55,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-    <td>Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+    <td valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
 	<td>R$ 37,00</td>
 	<td>R$ 42,00</td>
 	<td>R$ 47,00</td>
@@ -64,7 +64,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td>Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+    <td valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
 	<td>R$ 37,00</td>
 	<td>R$ 42,00</td>
 	<td>R$ 47,00</td>
@@ -73,7 +73,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td>Estudante não associado à SBC (Somente inscrição no evento) </td>
+	<td valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
 	<td>R$ 39,00</td>
 	<td>R$ 44,00</td>
 	<td>R$ 50,00</td>
@@ -94,7 +94,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   <!-- estudante pos-graduacao -->
   <tr align="center">
     <td width="10%" rowspan="4" align="center"><b>Estudante de Pós-Graduação</b></td>
-	<td>Estudante de pós-graduação associado à SBC com anuidade vigente</td>
+	<td valign="middle">Estudante de pós-graduação associado à SBC com anuidade vigente</td>
 	<td>R$ 25,00</td>
 	<td>R$ 30,00</td>
 	<td>R$ 35,00</td>
@@ -102,7 +102,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   </tr>
   
   <tr align="center">
-    <td>Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+    <td valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
 	<td>R$ 116,00</td>
 	<td>R$ 121,00</td>
 	<td>R$ 126,00</td>
@@ -111,7 +111,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center">
-    <td>Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+    <td valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
 	<td>R$ 116,00</td>
 	<td>R$ 121,00</td>
 	<td>R$ 126,00</td>
@@ -120,7 +120,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center">
-	<td>Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
+	<td valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
 	<td>R$ 60,00</td>
 	<td>R$ 65,00</td>
 	<td>R$ 70,00</td>
@@ -141,7 +141,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 <!-- professores educacao básica -->
   <tr align="center" bgcolor="#d3d3d3">
     <td width="10%" rowspan="4" align="center"><b>Professor de Educação Básica</b></td>
-	<td>Professor de Educação Básica associado à SBC com anuidade vigente </td>
+	<td valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
 	<td>R$ 30,00</td>
 	<td>R$ 35,00</td>
 	<td>R$ 40,00</td>
@@ -149,7 +149,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-    <td>Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+    <td valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
 	<td>R$ 121,00</td>
 	<td>R$ 126,00</td>
 	<td>R$ 131,00</td>	  	  
@@ -158,7 +158,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td>Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+    <td valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
 	<td>R$ 121,00</td>
 	<td>R$ 126,00</td>
 	<td>R$ 131,00</td>	  	  
@@ -167,7 +167,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td>Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
+	<td valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
 	<td>R$ 70,00</td>
 	<td>R$ 75,00</td>
 	<td>R$ 80,00</td>
@@ -188,7 +188,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 <!-- proficcionais e efetivos -->
   <tr align="center">
     <td width="10%" rowspan="4" align="center"><b>Profissionais/Efetivos</b></td>
-	<td>Profissional associado à SBC com anuidade vigente</td>
+	<td valign="middle">Profissional associado à SBC com anuidade vigente</td>
 	<td>R$ 95,00</td>
 	<td>R$ 100,00</td>
 	<td>R$ 105,00</td>
@@ -196,7 +196,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
   </tr>
   
   <tr align="center">
-    <td>Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
+    <td valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
 	<td>R$ 355,00</td>
 	<td>R$ 360,00</td>
 	<td>R$ 365,00</td>	  	  
@@ -205,7 +205,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center">
-    <td>Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
+    <td valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
 	<td>R$ 355,00</td>
 	<td>R$ 360,00</td>
 	<td>R$ 365,00</td>	  	  
@@ -214,7 +214,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 
   <tr align="center">
-	<td>Profissional não associado à SBC (Somente inscrição no evento) </td>
+	<td valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
 	<td>R$ 150,00</td>
 	<td>R$ 155,00</td>
 	<td>R$ 160,00</td>
@@ -237,7 +237,7 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 	</tr>
 
 	<tr align="center">	
-		<td width="10%" rowspan="4" align="center"><b>Cada Minicurso<br></b></td>		
+		<td width="10%" rowspan="4" align="center" valign="middle"><b>Cada Minicurso<br></b></td>		
 		<td>R$ 40,00</td>
 		<td>R$ 43,00</td>
 		<td>R$ 46,00</td>
