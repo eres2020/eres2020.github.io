@@ -15,9 +15,9 @@ header:
 
 <h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. </h3>
 
-<br><i>Casos Confirmados no BRASIL: 38 (<b>PARANÁ-Zero</b>) - Mortes: <b>00-Zero</b></i> <br>
+<br><i>Casos Confirmados no BRASIL: 52 (<b>PARANÁ-Zero</b>) - Mortes: <b>00-Zero</b></i> <br>
 
-Última atualização: 11/03/2020 - 20h:50m <br><br>
+Última atualização: 12/03/2020 - 08:40m <br><br>
 
  <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Clique aqui para acessar o COVID-19 Dashboard da Hopikins University</a>
 
