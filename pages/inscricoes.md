@@ -28,7 +28,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 <table style="width:100%" border="1" align="center">
 
-  <tr bgcolor="#FFFF00">	
+  <tr bgcolor="#FFFF00" valign="middle" align="center">	
 	<th width="20%" colspan="2">CATEGORIAS</th>	
     <th width="5%">Até 09/04/2020</th>
     <th width="5%">Até 30/04/2020</th>
@@ -39,7 +39,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   
 <!-- estudante graduacao e ensinomedio -->
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" width="10%" rowspan="4" align="center" valign="middle"><b>Estudante de Graduação<br>ou<br>Estudante de  Ensino Médio</b></td>
+    <td bgcolor="#d3d3d3" width="10%" rowspan="4" align="center" valign="middle"><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 15,00</td>
 	<td bgcolor="#FFFFFF">R$ 20,00</td>
