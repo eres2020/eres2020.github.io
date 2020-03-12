@@ -254,7 +254,7 @@ Pagamentos por boleto e débito encerram-se dia 15/05/2020.
 
 Associados à SBC podem somente se inscrever como associado na categoria de associação a qual pertencem, impossibilitando de se inscrever como associado em outra categoria.
 
-<21>Política de Cancelamento de Inscrições</h2>
+<h2>Política de Cancelamento de Inscrições</h2>
 
 O cancelamento de inscrições pode ser realizado até dia 13/05/2020. O valor a ser devolvido será de 70% do valor pago pela inscrição na ERES 2020 e possíveis minicursos.<br><br>
 
