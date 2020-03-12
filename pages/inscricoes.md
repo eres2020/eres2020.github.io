@@ -95,12 +95,12 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td>R$ 40,00</td>
   </tr>
   
-  <tr align="center">
-    <td valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td>R$ 116,00</td>
-	<td>R$ 121,00</td>
-	<td>R$ 126,00</td>
-	<td>R$ 131,00</td>	  
+  <tr bgcolor="#d3d3d3" align="center">
+    <td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+	<td bgcolor="#d3d3d3">R$ 116,00</td>
+	<td bgcolor="#d3d3d3">R$ 121,00</td>
+	<td bgcolor="#d3d3d3">R$ 126,00</td>
+	<td bgcolor="#d3d3d3">R$ 131,00</td>	  
   </tr>
 
 
