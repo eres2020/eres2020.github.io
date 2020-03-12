@@ -235,6 +235,14 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 		<th width="5%">Até 14/05/2020</th>
 		<th width="5%">Até 22/05/2020</th>	
 	</tr>
+	
+	<tr>
+	<td height="15" bgcolor="#FFFFFF"></td>	
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>					
+  </tr>
 
 	<tr align="center">	
 		<td width="10%" rowspan="4" align="center" valign="middle"><b>Cada Minicurso<br></b></td>		
