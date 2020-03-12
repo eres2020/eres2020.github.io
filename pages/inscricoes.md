@@ -23,6 +23,8 @@ Para inscrições por nota de empenho ou faturamento, o participante deverá ace
 
 <h2>Valores das Inscrições</h2>
 
+Será exigido, no momento da inscrição, para as categorias que necessitam de comprovação, anexar o comprovante que ateste a categoria escolhida. A verificação deste documento pode levar até 1 dia útil. Somente após a validação, pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição na ERES 2020
+
 
 <table style="width:100%" border="1" align="center">
 
