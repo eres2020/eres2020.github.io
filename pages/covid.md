@@ -15,9 +15,9 @@ header:
 
 <h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. </h3>
 
-<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por estado no Basil</a></i><br>
+<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por estados no Brasil</a></i><br>
 
-<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por país</a></i><br>
+<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por países</a></i><br>
 
 
 <div class="row t30">	
