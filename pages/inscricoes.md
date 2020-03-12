@@ -86,8 +86,8 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
    
   
   <!-- estudante pos-graduacao -->
-  <tr align="center">
-    <td width="10%" rowspan="4" align="center"><b>Estudante de Pós-Graduação</b></td>
+  <tr align="center" bgcolor="#d3d3d3">
+    <td bgcolor="#d3d3d3" width="10%" rowspan="4" align="center"><b>Estudante de Pós-Graduação</b></td>
 	<td valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
 	<td>R$ 25,00</td>
 	<td>R$ 30,00</td>
