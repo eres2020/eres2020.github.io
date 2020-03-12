@@ -37,12 +37,12 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   <tr>
-	<td height="15" bgcolor="#000000"></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>				
-	<td></td>					
+	<td height="15" bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>					
   </tr>
   
   
