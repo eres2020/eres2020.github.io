@@ -67,7 +67,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
+	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
 	<td bgcolor="#d3d3d3">R$ 39,00</td>
 	<td bgcolor="#d3d3d3">R$ 44,00</td>
 	<td bgcolor="#d3d3d3">R$ 50,00</td>
