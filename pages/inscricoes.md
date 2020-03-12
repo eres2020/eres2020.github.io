@@ -56,6 +56,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td bgcolor="#FFFFFF">R$ 30,00</td>
   </tr>
   
+  
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
 	<td bgcolor="#d3d3d3">R$ 37,00</td>
