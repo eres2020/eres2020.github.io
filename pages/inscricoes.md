@@ -244,7 +244,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td bgcolor="#FFFFFF"></td>					
   </tr>
 
-	<tr align="center">	
+	<tr align="center" bgcolor="#FFFF00">	
 		<td width="10%" rowspan="4" align="center" valign="middle"><b>Cada Minicurso<br></b></td>		
 		<td>R$ 40,00</td>
 		<td>R$ 43,00</td>
