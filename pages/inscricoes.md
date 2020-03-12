@@ -50,24 +50,24 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <tr align="center" bgcolor="#d3d3d3">
     <td width="10%" rowspan="4" align="center" valign="middle"><b>Estudante de Graduação<br>ou<br>Estudante de  Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
-	<td>R$ 15,00</td>
-	<td>R$ 20,00</td>
-	<td>R$ 25,00</td>
-	<td>R$ 30,00</td>
+	<td bgcolor="#FFFFFF">R$ 15,00</td>
+	<td bgcolor="#FFFFFF">R$ 20,00</td>
+	<td bgcolor="#FFFFFF">R$ 25,00</td>
+	<td bgcolor="#FFFFFF">R$ 30,00</td>
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-    <td valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td bgcolor="#FFFFFF">R$ 37,00</td>
-	<td>R$ 42,00</td>
-	<td>R$ 47,00</td>
-	<td>R$ 52,00</td>	  
+    <td bgcolor="#d3d3d3" valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
+	<td bgcolor="#d3d3d3">R$ 37,00</td>
+	<td bgcolor="#d3d3d3">R$ 42,00</td>
+	<td bgcolor="#d3d3d3">R$ 47,00</td>
+	<td bgcolor="#d3d3d3">R$ 52,00</td>	  
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#FFFFFF">R$ 37,00</td>
+	<td>R$ 37,00</td>
 	<td>R$ 42,00</td>
 	<td>R$ 47,00</td>
 	<td>R$ 52,00</td>	  
@@ -76,7 +76,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#FFFFFF">R$ 39,00</td>
+	<td>R$ 39,00</td>
 	<td>R$ 44,00</td>
 	<td>R$ 50,00</td>
 	<td>R$ 55,00</td>	
@@ -96,7 +96,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <!-- estudante pos-graduacao -->
   <tr align="center">
     <td width="10%" rowspan="4" align="center"><b>Estudante de Pós-Graduação</b></td>
-	<td valign="middle">Estudante de pós-graduação associado à SBC com anuidade vigente</td>
+	<td valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
 	<td>R$ 25,00</td>
 	<td>R$ 30,00</td>
 	<td>R$ 35,00</td>
