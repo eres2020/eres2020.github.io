@@ -113,12 +113,12 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
 
 
-  <tr align="center">
-	<td valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
-	<td>R$ 60,00</td>
-	<td>R$ 65,00</td>
-	<td>R$ 70,00</td>
-	<td>R$ 75,00</td>	
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
+	<td bgcolor="#d3d3d3">R$ 60,00</td>
+	<td bgcolor="#d3d3d3">R$ 65,00</td>
+	<td bgcolor="#d3d3d3">R$ 70,00</td>
+	<td bgcolor="#d3d3d3">R$ 75,00</td>	
   </tr>
   
  <tr>
