@@ -67,20 +67,20 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td>R$ 37,00</td>
-	<td>R$ 42,00</td>
-	<td>R$ 47,00</td>
-	<td>R$ 52,00</td>	  
+    <td valign="middle" bgcolor="#FFFFFF">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+	<td bgcolor="#FFFFFF">R$ 37,00</td>
+	<td bgcolor="#FFFFFF">R$ 42,00</td>
+	<td bgcolor="#FFFFFF">R$ 47,00</td>
+	<td bgcolor="#FFFFFF">R$ 52,00</td>	  
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
-	<td>R$ 39,00</td>
-	<td>R$ 44,00</td>
-	<td>R$ 50,00</td>
-	<td>R$ 55,00</td>	
+	<td bgcolor="#d3d3d3">R$ 39,00</td>
+	<td bgcolor="#d3d3d3">R$ 44,00</td>
+	<td bgcolor="#d3d3d3">R$ 50,00</td>
+	<td bgcolor="#d3d3d3">R$ 55,00</td>	
   </tr>
    
  <tr>
