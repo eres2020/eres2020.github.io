@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Inscrições"
+title: ""
 permalink: "/inscricoes/"
 header:
    image_fullwidth: banner_eres2020.png
