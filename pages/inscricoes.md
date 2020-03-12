@@ -23,6 +23,7 @@ Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota
 
 <h2>Valores das Inscrições</h2>
 
+
 <table style="width:100%" border="1" align="center">
 
   <tr bgcolor="#FFFF00">	
