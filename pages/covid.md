@@ -15,9 +15,9 @@ header:
 
 <h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. </h3>
 
-<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por estado no Basil: </b></i></a><br>
+<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por estado no Basil</a></i><br>
 
-<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por país: <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Clique aqui para acessar o COVID-19 Dashboard da Hopikins University</a></b></i></a><br>
+<br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por país</a></i><br>
 
 
 <div class="row t30">	
