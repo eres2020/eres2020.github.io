@@ -82,13 +82,13 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td>R$ 55,00</td>	
   </tr>
    
-  <tr>
-	<td height="15"></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>	
-	<td></td>					
+ <tr>
+	<td height="15" bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>					
   </tr>
 
    
@@ -129,15 +129,14 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td>R$ 75,00</td>	
   </tr>
   
-  <tr>
-	<td height="15"></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>						
+ <tr>
+	<td height="15" bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>					
   </tr>
-  
 
 
 <!-- professores educacao básica -->
@@ -176,15 +175,14 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td>R$ 85,00</td>	
   </tr>
   
-  <tr>
-	<td height="15"></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>	
-	<td></td>						
+ <tr>
+	<td height="15" bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>
+	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>					
   </tr>
-  
 
 
 <!-- proficcionais e efetivos -->
