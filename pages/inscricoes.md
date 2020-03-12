@@ -255,7 +255,7 @@ Pagamentos por boleto e débito encerram-se dia 15/05/2020.
 
 Associados à SBC podem somente se inscrever como associado na categoria de associação a qual pertencem, impossibilitando de se inscrever como associado em outra categoria.
 
-<Cada artigo deve ter pelo menos 01 (um) autor inscrito no evento. <b>Cada autor inscrito pode validar no máximo 02 (dois) artigos.</b>
+Cada artigo deve ter pelo menos 01 (um) autor inscrito no evento. <b>Cada autor inscrito pode validar no máximo 02 (dois) artigos.</b>
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
