@@ -20,6 +20,13 @@ header:
 <br><i><a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Acompanhar por países</a></i><br>
 
 
+<div class="row t30">	
+	<img src="{{ site.urlimg }}covid.jpg" alt="" align="center">
+</div><!-- /.row -->
+
+Gráfico elaborado pelo cientista Drew Harris e adaptado pelo biólogo Carl Bergstrom mostra como medidas de prevenção podem retardar o contágio da Covid-19 e evitar o colapso do sistema de saúde — Foto: Carl Bergstrom e Esther Kim/CC BY 2.0.
+
+
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
