@@ -9,11 +9,11 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-<h2>Monitoramento do COVID-19</h2>
+<h2>Monitoramento da COVID-19</h2>
 
 <br>
 
-<h3>Estamos atentamente monitorando o COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. </h3>
+<h3>Estamos atentamente monitorando a COVID-19 (Corona vírus) no Paraná e, especialmente, em Maringá. </h3>
 
 <br><i><a href="http://plataforma.saude.gov.br/novocoronavirus/" target="_blank">Acompanhar por estados no Brasil</a></i><br>
 
