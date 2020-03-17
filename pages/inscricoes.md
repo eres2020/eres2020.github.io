@@ -9,6 +9,10 @@ header:
 
 <h1>Inscrições</h1>
 
+Estamos analisando novas datas para inscrições. Em breve estarão disponíveis.
+
+
+<!--
 Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC clicando no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
 
 
@@ -37,7 +41,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   
-<!-- estudante graduacao e ensinomedio -->
+
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
@@ -85,7 +89,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
    
   
-  <!-- estudante pos-graduacao -->
+  
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Pós-Graduação</b></td>
 	<td bgcolor="#FFFFFF" valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
@@ -131,7 +135,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
 
 
-<!-- professores educacao básica -->
+
   <tr align="center" bgcolor="#d3d3d3">
     <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Professor de Educação Básica</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
@@ -177,7 +181,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
 
 
-<!-- proficcionais e efetivos -->
+
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4"><b>Profissionais/Efetivos</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Profissional associado à SBC com anuidade vigente</td>
@@ -266,7 +270,7 @@ Após esta data não haverá devolução de qualquer valor pago.
 Para solicitar o cancelamento, enviar um e-mail para faturamento@sbc.org.br<br>
 
 
-
+-->
 
   
  
