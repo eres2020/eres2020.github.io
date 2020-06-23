@@ -14,7 +14,7 @@ header:
 
 <h1>Início</h1>
 
-A <b>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quarta edição da escola, a <b>ERES 2020</b>, irá ocorrer em Maringá-PR, no período de 21 a 23 de outubro de 2020.
+A <b>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quarta edição da escola, a <b>ERES 2020</b>, irá ocorrer em Maringá-PR, no período de 11 a 13 de novembro de 2020.
 
 Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target="_blank">Departamento de Informática (DIN)</a> da <a href="http://www.uem.br" target="_blank">Universidade Estadual de Maringá (UEM)</a>.
 
@@ -22,7 +22,8 @@ A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia
 
 A realização da ERES 2020 pretende oferecer aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores renomados. O evento também intenciona oferecer uma atualização tecnológica por meio de minicursos apresentados por pesquisadores ou profissionais experientes e qualificados. Ainda, oficinas e um painel serão realizados. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando assim o gosto pela pesquisa científica aos participantes.
 
-A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia, MiniCursos e submissões de artigos para serem apresentados em um fórum para graduacao, um fórum de industria e um fórum para pós-graduacao.
+<!--A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia, MiniCursos e submissões de artigos para serem apresentados em um fórum para graduacao, um fórum de industria e um fórum para pós-graduacao.-->
+A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia e submissões de artigos para serem apresentados em um fórum para graduacao, um fórum de industria e um fórum para pós-graduacao.
 
 
 
