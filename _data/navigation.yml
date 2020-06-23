@@ -6,11 +6,6 @@
 #  url: "/etica/"
 #  side: left  
 
-- title: COVID-19
-  url: "/covid/"
-  side: left  
-
-
 - title: Chamada de Trabalhos
   url: "/chamada/"
   side: left  
