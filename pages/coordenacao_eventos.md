@@ -89,6 +89,7 @@ header:
 
 <br><br>
 
+<!--
 <h2>Minicursos</h2>
 
 <div class="row t30">
@@ -175,6 +176,7 @@ header:
     </div>
 
 </div>
+-->
 
 <h2>Proceedings Chair</h2>
 
