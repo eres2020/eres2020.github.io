@@ -98,15 +98,15 @@ header:
         <b>Prof. Dr. Renato Balancieri</b><br>
 		<b>UNESPAR - Apucarana</b><br>
 		<a href="http://lattes.cnpq.br/7536192699862782" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
+    </div>
 
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}menolli.gif" alt=""><br>
         <b>Prof. Dr. André Luís Andrade Menolli</b><br>
 		<b>UENP - Campus Luiz Meneghel</b><br>
 		<a href="http://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+    </div>
+</div>
 
 <br><br>
 
