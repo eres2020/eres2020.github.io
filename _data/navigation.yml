@@ -10,25 +10,26 @@
   url: "/chamada/"
   side: left  
   
-- title: "Palestras e Minicursos"
+#- title: "Palestras e Minicursos"
+- title: "Palestras"
   url: ""
   side: left
   dropdown:
   - title: "Palestras"
     url: "/palestras/"
-  - title: "Minicursos"
-    url: "/minicursos/"
+#  - title: "Minicursos"
+#    url: "/minicursos/"
 
-- title: "Oficinas e Painel"
-  url: ""
-  side: left
-  dropdown:
-  - title: "Oficina Engenheiras de Software"
-    url: "/oficina_engenheiras/"
-  - title: "Oficina Ensino/Aprendizagem de Engenharia de Software"
-    url: "/oficina_ensino/"
-  - title: "Painel Currículo de Engenharia de Software"
-    url: "/painel/"
+#- title: "Oficinas e Painel"
+#  url: ""
+#  side: left
+#  dropdown:
+#  - title: "Oficina Engenheiras de Software"
+#    url: "/oficina_engenheiras/"
+#  - title: "Oficina Ensino/Aprendizagem de Engenharia de Software"
+#    url: "/oficina_ensino/"
+#  - title: "Painel Currículo de Engenharia de Software"
+#    url: "/painel/"
   
 
 - title: "Programação"
@@ -51,24 +52,24 @@
     url: "/comite_cientifico/"
   - title: "Comitê Diretivo"
     url: "/comite_diretivo/"
-  - title: "Voluntários"
-    url: "/voluntarios/"
+#  - title: "Voluntários"
+#    url: "/voluntarios/"
 
 
-- title: "Local do Evento"
-  url: "/local_evento/"
-  side: left
-  dropdown:
-  - title: "UEM"
-    url: "/uem/"
-  - title: "Como Chegar à ERES"
-    url: "/como_chegar/"
-  - title: "Hospedagem"
-    url: "/hospedagem/"
-  - title: "Refeições"
-    url: "/refeicoes/"
-  - title: "Sobre Maringá"
-    url: "/maringa/"
+#- title: "Local do Evento"
+#  url: "/local_evento/"
+#  side: left
+#  dropdown:
+#  - title: "UEM"
+#    url: "/uem/"
+#  - title: "Como Chegar à ERES"
+#    url: "/como_chegar/"
+#  - title: "Hospedagem"
+#    url: "/hospedagem/"
+#  - title: "Refeições"
+#    url: "/refeicoes/"
+#  - title: "Sobre Maringá"
+#    url: "/maringa/"
 
 
 - title: "Contato"
