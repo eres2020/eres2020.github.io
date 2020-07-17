@@ -82,11 +82,11 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
    
  <tr>
-	<td height="15" bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>					
+	<td height="15" bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>					
   </tr>
 
    
@@ -110,9 +110,9 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr align="center">
     <td valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 101,00</td>
-	<td bgcolor="#d3d3d3">R$ 103,50</td>
-	<td bgcolor="#d3d3d3">R$ 106,00</td>		  	  
+	<td bgcolor="#FFFFFF">R$ 101,00</td>
+	<td bgcolor="#FFFFFF">R$ 103,50</td>
+	<td bgcolor="#FFFFFF">R$ 106,00</td>		  	  
   </tr>
 
 
@@ -124,19 +124,19 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL inscrição no evento + associação quadrimestral à SBC) </td>
-	<td bgcolor="#d3d3d3">R$ 41,00</td>
-	<td bgcolor="#d3d3d3">R$ 43,50</td>
-	<td bgcolor="#d3d3d3">R$ 46,00</td>	
+	<td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#FFFFFF">R$ 41,00</td>
+	<td bgcolor="#FFFFFF">R$ 43,50</td>
+	<td bgcolor="#FFFFFF">R$ 46,00</td>	
   </tr>
 
   
  <tr>
-	<td height="15" bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>	
-	<td bgcolor="#FFFFFF"></td>					
+	<td height="15" bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>	
+	<td bgcolor="#000000"></td>					
   </tr>
 
 
@@ -159,9 +159,9 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 101,00</td>
-	<td bgcolor="#d3d3d3">R$ 103,50</td>
-	<td bgcolor="#d3d3d3">R$ 106,00</td>
+	<td bgcolor="#FFFFFF">R$ 101,00</td>
+	<td bgcolor="#FFFFFF">R$ 103,50</td>
+	<td bgcolor="#FFFFFF">R$ 106,00</td>
   </tr>
 
 
@@ -173,19 +173,19 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
  
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 41,00</td>
-	<td bgcolor="#d3d3d3">R$ 43,50</td>
-	<td bgcolor="#d3d3d3">R$ 46,00</td>	
+	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#FFFFFF">R$ 41,00</td>
+	<td bgcolor="#FFFFFF">R$ 43,50</td>
+	<td bgcolor="#FFFFFF">R$ 46,00</td>	
   </tr>
 
  <tr>
-	<td height="15" bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>				
-	<td bgcolor="#FFFFFF"></td>					
+	<td height="15" bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>
+	<td bgcolor="#000000"></td>				
+	<td bgcolor="#000000"></td>					
   </tr>
 
 
@@ -208,9 +208,9 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-	<td bgcolor="#d3d3d3">R$ 295,00</td>
-	<td bgcolor="#d3d3d3">R$ 300,00</td>
-	<td bgcolor="#d3d3d3">R$ 305,00</td>	  	  	
+	<td bgcolor="#FFFFFF">R$ 295,00</td>
+	<td bgcolor="#FFFFFF">R$ 300,00</td>
+	<td bgcolor="#FFFFFF">R$ 305,00</td>	  	  	
 </tr>
 
 
@@ -222,10 +222,10 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 122,00</td>
-	<td bgcolor="#d3d3d3">R$ 127,00</td>
-	<td bgcolor="#d3d3d3">R$ 132,00</td>	
+	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#FFFFFF">R$ 122,00</td>
+	<td bgcolor="#FFFFFF">R$ 127,00</td>
+	<td bgcolor="#FFFFFF">R$ 132,00</td>	
   </tr>
   
 </table>
