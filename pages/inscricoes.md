@@ -41,7 +41,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="20%" rowspan="5" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
+    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="17%" rowspan="5" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 7,00</td>
 	<td bgcolor="#FFFFFF">R$ 8,50</td>
