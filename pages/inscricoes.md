@@ -59,9 +59,9 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr align="center" bgcolor="#d3d3d3">
     <td valign="middle" bgcolor="#FFFFFF">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 29,00</td>
-	<td bgcolor="#d3d3d3">R$ 30,50</td>
-	<td bgcolor="#d3d3d3">R$ 32,00</td>	  
+	<td bgcolor="#FFFFFF">R$ 29,00</td>
+	<td bgcolor="#FFFFFF">R$ 30,50</td>
+	<td bgcolor="#FFFFFF">R$ 32,00</td>	  
   </tr>
 
 
@@ -73,10 +73,10 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL  inscrição no evento + associação quadrimestral à SBC) </td>
-	<td bgcolor="#d3d3d3">R$ 14,35</td>
-	<td bgcolor="#d3d3d3">R$ 15,85</td>
-	<td bgcolor="#d3d3d3">R$ 17,35</td>	
+	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL  inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#FFFFFF">R$ 14,35</td>
+	<td bgcolor="#FFFFFF">R$ 15,85</td>
+	<td bgcolor="#FFFFFF">R$ 17,35</td>	
   </tr>
   
 
