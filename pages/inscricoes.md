@@ -41,7 +41,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   
 
   <tr align="center" bgcolor="#d3d3d3">
-    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
+    <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="20%" rowspan="5" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
 	<td bgcolor="#FFFFFF">R$ 7,00</td>
 	<td bgcolor="#FFFFFF">R$ 8,50</td>
@@ -73,7 +73,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL  inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>  inscrição no evento + associação quadrimestral à SBC) </td>
 	<td bgcolor="#FFFFFF">R$ 14,35</td>
 	<td bgcolor="#FFFFFF">R$ 15,85</td>
 	<td bgcolor="#FFFFFF">R$ 17,35</td>	
@@ -109,7 +109,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
 
   <tr align="center">
-    <td valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
+    <td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
 	<td bgcolor="#FFFFFF">R$ 101,00</td>
 	<td bgcolor="#FFFFFF">R$ 103,50</td>
 	<td bgcolor="#FFFFFF">R$ 106,00</td>		  	  
@@ -124,7 +124,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC) </td>
 	<td bgcolor="#FFFFFF">R$ 41,00</td>
 	<td bgcolor="#FFFFFF">R$ 43,50</td>
 	<td bgcolor="#FFFFFF">R$ 46,00</td>	
@@ -173,7 +173,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
  
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b> inscrição no evento + associação quadrimestral à SBC)</td>
 	<td bgcolor="#FFFFFF">R$ 41,00</td>
 	<td bgcolor="#FFFFFF">R$ 43,50</td>
 	<td bgcolor="#FFFFFF">R$ 46,00</td>	
@@ -185,7 +185,6 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 	<td bgcolor="#000000"></td>
 	<td bgcolor="#000000"></td>
 	<td bgcolor="#000000"></td>				
-	<td bgcolor="#000000"></td>					
   </tr>
 
 
@@ -222,7 +221,7 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>: inscrição no evento + associação quadrimestral à SBC)</td>
 	<td bgcolor="#FFFFFF">R$ 122,00</td>
 	<td bgcolor="#FFFFFF">R$ 127,00</td>
 	<td bgcolor="#FFFFFF">R$ 132,00</td>	
