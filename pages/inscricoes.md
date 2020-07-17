@@ -9,8 +9,6 @@ header:
 
 <h1>Inscrições</h1>
 
-Estamos analisando novas datas para inscrições. Em breve estarão disponíveis.
-
 
 <!--
 Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC clicando no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
@@ -24,6 +22,7 @@ As inscrições podem ser feitas até o último dia do evento (22/05/2020), por�
 
 Para inscrições por nota de empenho ou faturamento, o participante deverá acessar o sistema ECOS e realizar a inscrição selecionando a forma de pagamento nota de empenho ou faturamento e clicar em pagar. O sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
 <br><br>
+-->
 
 <h2>Valores das Inscrições</h2>
 
@@ -34,10 +33,9 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr bgcolor="#FFFF00">	
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>	
-    <th width="5%">Até 09/04/2020</th>
-    <th width="5%">Até 30/04/2020</th>
-    <th width="5%">Até 14/05/2020</th>
-	<th width="5%">Até 22/05/2020</th>	
+    <th width="5%">Até 11/10/2020</th>
+    <th width="5%">Até 08/11/2020</th>
+    <th width="5%">Até 13/11/2020</th>
   </tr>
   
   
@@ -45,45 +43,49 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Graduação<br>ou<br>Estudante de Ensino Médio</b></td>
 	<td bgcolor="#FFFFFF">Estudante associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ 15,00</td>
-	<td bgcolor="#FFFFFF">R$ 20,00</td>
-	<td bgcolor="#FFFFFF">R$ 25,00</td>
-	<td bgcolor="#FFFFFF">R$ 30,00</td>
+	<td bgcolor="#FFFFFF">R$ 7,00</td>
+	<td bgcolor="#FFFFFF">R$ 8,50</td>
+	<td bgcolor="#FFFFFF">R$ 10,00</td>	
   </tr>
   
   
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 37,00</td>
-	<td bgcolor="#d3d3d3">R$ 42,00</td>
-	<td bgcolor="#d3d3d3">R$ 47,00</td>
-	<td bgcolor="#d3d3d3">R$ 52,00</td>	  
+	<td bgcolor="#d3d3d3">R$ 29,00</td>
+	<td bgcolor="#d3d3d3">R$ 30,50</td>
+	<td bgcolor="#d3d3d3">R$ 32,00</td>	
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td valign="middle" bgcolor="#FFFFFF">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#FFFFFF">R$ 37,00</td>
-	<td bgcolor="#FFFFFF">R$ 42,00</td>
-	<td bgcolor="#FFFFFF">R$ 47,00</td>
-	<td bgcolor="#FFFFFF">R$ 52,00</td>	  
+	<td bgcolor="#d3d3d3">R$ 29,00</td>
+	<td bgcolor="#d3d3d3">R$ 30,50</td>
+	<td bgcolor="#d3d3d3">R$ 32,00</td>	  
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#d3d3d3">R$ 39,00</td>
-	<td bgcolor="#d3d3d3">R$ 44,00</td>
-	<td bgcolor="#d3d3d3">R$ 50,00</td>
-	<td bgcolor="#d3d3d3">R$ 55,00</td>	
+	<td bgcolor="#d3d3d3">R$ 30,00</td>
+	<td bgcolor="#d3d3d3">R$ 32,00</td>
+	<td bgcolor="#d3d3d3">R$ 33,00</td>	
   </tr>
+  
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL  inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#d3d3d3">R$ 14,35</td>
+	<td bgcolor="#d3d3d3">R$ 15,85</td>
+	<td bgcolor="#d3d3d3">R$ 17,35</td>	
+  </tr>
+  
+
    
  <tr>
 	<td height="15" bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>				
 	<td bgcolor="#FFFFFF"></td>					
   </tr>
 
@@ -93,44 +95,47 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Estudante de Pós-Graduação</b></td>
 	<td bgcolor="#FFFFFF" valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ 25,00</td>
-	<td bgcolor="#FFFFFF">R$ 30,00</td>
-	<td bgcolor="#FFFFFF">R$ 35,00</td>
-	<td bgcolor="#FFFFFF">R$ 40,00</td>
+	<td bgcolor="#FFFFFF">R$ 10,00</td>
+	<td bgcolor="#FFFFFF">R$ 12,50</td>
+	<td bgcolor="#FFFFFF">R$ 15,00</td>	
   </tr>
   
   <tr bgcolor="#d3d3d3" align="center">
     <td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 116,00</td>
-	<td bgcolor="#d3d3d3">R$ 121,00</td>
-	<td bgcolor="#d3d3d3">R$ 126,00</td>
-	<td bgcolor="#d3d3d3">R$ 131,00</td>	  
+	<td bgcolor="#d3d3d3">R$ 101,00</td>
+	<td bgcolor="#d3d3d3">R$ 103,50</td>
+	<td bgcolor="#d3d3d3">R$ 106,00</td>	
   </tr>
 
 
   <tr align="center">
     <td valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td>R$ 116,00</td>
-	<td>R$ 121,00</td>
-	<td>R$ 126,00</td>
-	<td>R$ 131,00</td>	  	  
+	<td bgcolor="#d3d3d3">R$ 101,00</td>
+	<td bgcolor="#d3d3d3">R$ 103,50</td>
+	<td bgcolor="#d3d3d3">R$ 106,00</td>		  	  
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
-	<td bgcolor="#d3d3d3">R$ 60,00</td>
-	<td bgcolor="#d3d3d3">R$ 65,00</td>
-	<td bgcolor="#d3d3d3">R$ 70,00</td>
-	<td bgcolor="#d3d3d3">R$ 75,00</td>	
+	<td bgcolor="#d3d3d3">R$ 102,00</td>
+	<td bgcolor="#d3d3d3">R$ 105,00</td>
+	<td bgcolor="#d3d3d3">R$ 108,00</td>	
   </tr>
+  
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL inscrição no evento + associação quadrimestral à SBC) </td>
+	<td bgcolor="#d3d3d3">R$ 41,00</td>
+	<td bgcolor="#d3d3d3">R$ 43,50</td>
+	<td bgcolor="#d3d3d3">R$ 46,00</td>	
+  </tr>
+
   
  <tr>
 	<td height="15" bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>
-	<td bgcolor="#FFFFFF"></td>				
+	<td bgcolor="#FFFFFF"></td>	
 	<td bgcolor="#FFFFFF"></td>					
   </tr>
 
@@ -139,38 +144,41 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <tr align="center" bgcolor="#d3d3d3">
     <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4" ><b>Professor de Educação Básica</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
-	<td bgcolor="#FFFFFF">R$ 30,00</td>
-	<td bgcolor="#FFFFFF">R$ 35,00</td>
-	<td bgcolor="#FFFFFF">R$ 40,00</td>
-	<td bgcolor="#FFFFFF">R$ 45,00</td>
+	<td bgcolor="#FFFFFF">R$ 10,00</td>
+	<td bgcolor="#FFFFFF">R$ 12,50</td>
+	<td bgcolor="#FFFFFF">R$ 15,00</td>	
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-	<td bgcolor="#d3d3d3">R$ 121,00</td>
-	<td bgcolor="#d3d3d3">R$ 126,00</td>
-	<td bgcolor="#d3d3d3">R$ 131,00</td>	  	  
-	<td bgcolor="#d3d3d3">R$ 136,00</td>
+	<td bgcolor="#d3d3d3">R$ 101,00</td>
+	<td bgcolor="#d3d3d3">R$ 103,50</td>
+	<td bgcolor="#d3d3d3">R$ 106,00</td>	  	  	
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-	<td bgcolor="#FFFFFF">R$ 121,00</td>
-	<td bgcolor="#FFFFFF">R$ 126,00</td>
-	<td bgcolor="#FFFFFF">R$ 131,00</td>	  	  
-	<td bgcolor="#FFFFFF">R$ 136,00</td>
+	<td bgcolor="#d3d3d3">R$ 101,00</td>
+	<td bgcolor="#d3d3d3">R$ 103,50</td>
+	<td bgcolor="#d3d3d3">R$ 106,00</td>
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-	<td bgcolor="#d3d3d3">R$ 70,00</td>
-	<td bgcolor="#d3d3d3">R$ 75,00</td>
-	<td bgcolor="#d3d3d3">R$ 80,00</td>
-	<td bgcolor="#d3d3d3">R$ 85,00</td>	
+	<td bgcolor="#d3d3d3">R$ 102,00</td>
+	<td bgcolor="#d3d3d3">R$ 105,00</td>
+	<td bgcolor="#d3d3d3">R$ 108,00</td>	
   </tr>
-  
+ 
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#d3d3d3">R$ 41,00</td>
+	<td bgcolor="#d3d3d3">R$ 43,50</td>
+	<td bgcolor="#d3d3d3">R$ 46,00</td>	
+  </tr>
+
  <tr>
 	<td height="15" bgcolor="#FFFFFF"></td>
 	<td bgcolor="#FFFFFF"></td>
@@ -185,41 +193,44 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="4"><b>Profissionais/Efetivos</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Profissional associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ 95,00</td>
-	<td bgcolor="#FFFFFF">R$ 100,00</td>
-	<td bgcolor="#FFFFFF">R$ 105,00</td>
-	<td bgcolor="#FFFFFF">R$ 110,00</td>
+	<td bgcolor="#FFFFFF">R$ 35,00</td>
+	<td bgcolor="#FFFFFF">R$ 40,00</td>
+	<td bgcolor="#FFFFFF">R$ 45,00</td>	
   </tr>
   
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
-	<td bgcolor="#d3d3d3">R$ 355,00</td>
-	<td bgcolor="#d3d3d3">R$ 360,00</td>
-	<td bgcolor="#d3d3d3">R$ 365,00</td>	  	  
-	<td bgcolor="#d3d3d3">R$ 370,00</td>
+	<td bgcolor="#d3d3d3">R$ 295,00</td>
+	<td bgcolor="#d3d3d3">R$ 300,00</td>
+	<td bgcolor="#d3d3d3">R$ 305,00</td>	  	  	
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-	<td bgcolor="#FFFFFF">R$ 355,00</td>
-	<td bgcolor="#FFFFFF">R$ 360,00</td>
-	<td bgcolor="#FFFFFF">R$ 365,00</td>	  	  
-	<td bgcolor="#FFFFFF">R$ 370,00</td>
+	<td bgcolor="#d3d3d3">R$ 295,00</td>
+	<td bgcolor="#d3d3d3">R$ 300,00</td>
+	<td bgcolor="#d3d3d3">R$ 305,00</td>	  	  	
 </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#d3d3d3">R$ 150,00</td>
-	<td bgcolor="#d3d3d3">R$ 155,00</td>
-	<td bgcolor="#d3d3d3">R$ 160,00</td>
-	<td bgcolor="#d3d3d3">R$ 165,00</td>	
+	<td bgcolor="#d3d3d3">R$ 299,00</td>
+	<td bgcolor="#d3d3d3">R$ 304,00</td>
+	<td bgcolor="#d3d3d3">R$ 310,00</td>	
   </tr>
 
+  <tr align="center" bgcolor="#d3d3d3">
+	<td bgcolor="#d3d3d3" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO QUADRIMESTRAL: inscrição no evento + associação quadrimestral à SBC)</td>
+	<td bgcolor="#d3d3d3">R$ 122,00</td>
+	<td bgcolor="#d3d3d3">R$ 127,00</td>
+	<td bgcolor="#d3d3d3">R$ 132,00</td>	
+  </tr>
   
 </table>
 
+<!--
 <h2>Valores para Minicursos</h2>
 
 <table style="width:100%" border="1" align="center">
@@ -269,9 +280,7 @@ Após esta data não haverá devolução de qualquer valor pago.
 
 Para solicitar o cancelamento, enviar um e-mail para faturamento@sbc.org.br<br>
 
-
 -->
-
   
  
 
