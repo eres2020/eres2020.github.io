@@ -9,24 +9,18 @@ header:
 
 <h1>Inscrições</h1>
 
+Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul. 
 
-<!--
-Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC clicando no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
+Os valores de inscrição para a ERES 2020 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.
 
+<h2>Verificação da Categoria Escolhida<h2>
 
-<h2>Formas de Pagamento</h2>
+Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2020.
 
-Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento por meio do portal ECOS da SBC.
-
-As inscrições podem ser feitas até o último dia do evento (22/05/2020), porém os pagamentos por débito e boleto serão fechados dia 15/05/2020. Após essa data será possível pagar por cartão de crédito, nota de empenho, e faturamento. Aqueles que não puderem efetuar o pagamento por uma das formas citadas poderão fazer a inscrição durante o evento e fazer o pagamento em espécie na secretaria do evento.
-
-Para inscrições por nota de empenho ou faturamento, o participante deverá acessar o sistema ECOS e realizar a inscrição selecionando a forma de pagamento nota de empenho ou faturamento e clicar em pagar. O sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
-<br><br>
--->
 
 <h2>Valores das Inscrições</h2>
 
-Será exigido, no momento da inscrição, para as categorias que necessitam de comprovação, anexar o comprovante que ateste a categoria escolhida. A verificação deste documento pode levar até 1 dia útil. Somente após a validação, pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição na ERES 2020
+As inscrições poderão ser feitas até o último dia do evento.
 
 
 <table style="width:100%" border="1" align="center">
@@ -228,6 +222,57 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
   </tr>
   
 </table>
+
+
+<h2>Inscrições para Autores</h2>
+
+Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS até dia 30/out/2020.
+
+<b>Cada autor inscrito pode validar no máximo 02 (dois) artigos.</b>
+
+
+
+<h2>Formas de Pagamentos</h2>
+
+O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições da SBC, porém os pagamentos por débito e boleto serão fechados dia <10/Nov/2020>. Após essa data será possível pagar por cartão de crédito, nota de empenho e faturamento pelo sistema de inscrições.
+
+Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento "nota de empenho" ou "faturamento" e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
+
+<h2>Política de Cancelamento de Inscrições</h2>
+
+Até o dia 04/Nov/2020 pode-se fazer uma devolução de 70% do valor pago pela inscrição na ERES 2020. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar um e-mail para faturamento@sbc.org.br.
+
+
+<h2>Por que ser associado à SBC?</h2>
+
+Se associar à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal se juntar a nós? Outros motivos para ser associado à SBC são:
+•	Acesso à rede sem fio Eduroam (somente para pessoa física);
+•	Acesso ao FileSender da RNP;
+•	Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;
+•	Desconto de no mínimo 15% em inscrições nos eventos apoiados pela SBC;
+•	Valor de inscrição diferenciado no POSCOMP;
+•	Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade
+
+Confira os benefícios específicos de cada categoria no site da SBC - www.sbc.org.br
+
+
+
+<!--
+Para realizar sua inscrição na Escola Regional de Engenharia de Software (ERES 2020), acesse o sistema ECOS da SBC clicando no link <a href="https://centraldesistemas.sbc.org.br/ecos/eres2020" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
+
+
+<h2>Formas de Pagamento</h2>
+
+Boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento por meio do portal ECOS da SBC.
+
+As inscrições podem ser feitas até o último dia do evento (22/05/2020), porém os pagamentos por débito e boleto serão fechados dia 15/05/2020. Após essa data será possível pagar por cartão de crédito, nota de empenho, e faturamento. Aqueles que não puderem efetuar o pagamento por uma das formas citadas poderão fazer a inscrição durante o evento e fazer o pagamento em espécie na secretaria do evento.
+
+Para inscrições por nota de empenho ou faturamento, o participante deverá acessar o sistema ECOS e realizar a inscrição selecionando a forma de pagamento nota de empenho ou faturamento e clicar em pagar. O sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
+<br><br>
+-->
+
+
+
 
 <!--
 <h2>Valores para Minicursos</h2>
