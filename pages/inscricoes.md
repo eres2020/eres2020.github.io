@@ -234,7 +234,7 @@ Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma insc
 
 <h2>Formas de Pagamentos</h2>
 
-O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições da SBC, porém os pagamentos por débito e boleto serão fechados dia <10/Nov/2020>. Após essa data será possível pagar por cartão de crédito, nota de empenho e faturamento pelo sistema de inscrições.
+O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições da SBC, porém os pagamentos por débito e boleto serão fechados dia <06/Nov/2020>. Após essa data será possível pagar por cartão de crédito, nota de empenho e faturamento pelo sistema de inscrições.
 
 Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento "nota de empenho" ou "faturamento" e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
 
