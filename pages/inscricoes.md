@@ -33,8 +33,8 @@ Será exigido, no momento da inscrição, para as categorias que necessitam de c
 
   <tr bgcolor="#FFFF00">	
 	<th style="text-align:center" style="vertical-align:middle" width="20%" colspan="2">CATEGORIAS</th>	
-    <th width="5%">Até 11/10/2020</th>
-    <th width="5%">Até 08/11/2020</th>
+    <th width="5%">Até 12/10/2020</th>
+    <th width="5%">Até 09/11/2020</th>
     <th width="5%">Até 13/11/2020</th>
   </tr>
   
