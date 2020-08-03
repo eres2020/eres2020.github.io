@@ -7,6 +7,10 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
+
+<p style="color:red;">O link para inscrição estará disponível em breve!!!</p>
+
+
 <h1>Inscrições</h1>
 
 Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul. 
