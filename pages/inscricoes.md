@@ -14,6 +14,7 @@ Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SB
 
 Os valores de inscrição para a ERES 2020 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.
 
+
 <h2>Verificação da Categoria Escolhida</h2>
 
 Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2020.
