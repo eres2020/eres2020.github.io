@@ -8,9 +8,6 @@ header:
 ---
 
 
-<p style="color:red;">O link para inscrição estará disponível em breve!!!</p>
-
-
 <h1>Inscrições</h1>
 
 Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul. 
@@ -20,6 +17,11 @@ Os valores de inscrição para a ERES 2020 estão listados abaixo. Destacamos qu
 <h2>Verificação da Categoria Escolhida</h2>
 
 Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2020.
+
+
+<h2>Link para Inscrições</h2>
+
+<a target="_blank" href="https://centraldesistemas.sbc.org.br/ecos/eres2020">https://centraldesistemas.sbc.org.br/ecos/eres2020</a>
 
 
 <h2>Valores das Inscrições</h2>
