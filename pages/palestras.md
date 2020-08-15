@@ -49,7 +49,7 @@ header:
 		<a href="https://www.linkedin.com/in/alancafrunigularte" target="_blank">Linkedin</a><br>		
 		<h4>Título: Testes de Software e Transformação Digital (Palestra C) </h4><br>
 		<b>Data:</b> 13/11/2020 (Sexta-Feira) <br>
-		<b>Hora:</b> 08h:45m - 10m:15m (1,5 horas) <br>
+		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
 <!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
 		<br>
 		<p class="text-justify"><b>Resumo:</b> Nesta nova era de transformação digital, os engenheiros de testes estão se deparando com um universo de mudanças na maneira como tradicionalmente testam os softwares em termos de habilidades, processos e ferramentas. Machine Learning/Inteligência Artificial, DevOps, testes ágeis e contínuos são alguns exemplos dos temas que estão desafiando a comunidade de testes e forçando-os a encontrar maneiras de testar mais rapidamente e com excelência. Nesta palestra, Alan Gularte compartilhará como superar os principais desafios no campo da automação de testes, fazendo o melhor uso das tecnologias disponíveis.</p>
