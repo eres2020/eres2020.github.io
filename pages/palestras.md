@@ -48,7 +48,7 @@ header:
         <b>Alan Gularte (Dell)</b><br>		
 		<a href="https://www.linkedin.com/in/alancafrunigularte" target="_blank">Linkedin</a><br>		
 		<h4>Título: Testes de Software e Transformação Digital (Palestra C) </h4><br>
-		<b>Data:</b> 13/11/2020 (Quinta-Feira) <br>
+		<b>Data:</b> 13/11/2020 (Sexta-Feira) <br>
 		<b>Hora:</b> 08h:45m - 10m:15m (1,5 horas) <br>
 <!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
 		<br>
