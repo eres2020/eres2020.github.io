@@ -7,18 +7,16 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-Em breve....
 
-<!--
 <div class="row t30">
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}rocha.jpeg" alt="" align="center"><br>
         <b>Profa. Dra. Ana Regina Cavalcanti da Rocha (COPPE/UFRJ)</b><br>		
 		<a href="http://lattes.cnpq.br/6344175997146758" target="_blank">Currículo Lattes</a><br>		
 		<h4>Título: Compreendendo as Novas Perspectivas da Melhoria de Processos: As Novas Versões do CMMI e do MPS-SW (Palestra A) </h4><br>		
-		<b>Data:</b> 20/05/2020 (Quarta-Feira) <br>
+		<b>Data:</b> 11/11/2020 (Quarta-Feira) <br>
 		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
-		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	
+<!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
 		<br>
 		<p class="text-justify"><b>Resumo:</b> Esta palestra mostrará a importância da melhoria de processos e os benefícios que traz às empresas. Apresentará os novos modelos CMMI-DEV v 2.0 e MPS-SW:2020 e as novas perspectivas para a melhoria de processos e produtividade nas empresas. Será também apresentado como dar início à melhoria de processos com o MPS e sua compatibilidade com os métodos ágeis. Por fim, será  mostrada a compatibilidade entre os modelos CMMI e MPS-SW.</p>
 		<br><br>
@@ -27,6 +25,40 @@ Em breve....
 </div>
 
 
+<div class="row t30">
+	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}pompermaier.gif" alt="" align="center"><br>
+        <b>Prof. Leandro Bento Pompermaier (Tecnopuc/PUCRS)</b><br>		
+		<a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
+		<h4>Título: 1000 em 10: A Experiência do Tecnopuc na Geração de Startups (Palestra B) </h4><br>
+		<b>Data:</b> 12/11/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
+<!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
+		<br>
+		<p class="text-justify"><b>Resumo:</b> A palestra mostrará como a intenção estratégica do Tecnopuc (1000 negócios inovadores em 10 anos) impacta nas ações de empreendedorismo na universidade (PUCRS). Será apresentada a mudança organizacional do Tecnopuc para englobar tal estratégia e, dentro deste contexto, os programas de desenvolvimento de startups, direcionados para toda a jornada do empreendedor, serão apresentados e detalhados.</p>
+		<br><br>
+		<p class="text-justify"><b>Bio:</b> Leandro é co-fundador da e-Core, empresa de software que atua globalmente, com escritórios no Brasil, México e EUA. Co-fundador da Adoy Invest, startup que mescla Inteligência Artificial e lógica de fundos de investimentos no mundo das criptomoedas. Professor da PUCRS com mais de 20 anos de experiência e líder da área de Startups do Tecnopuc, referência mundial em parque tecnológico. Investidor anjo de Startups, líder do chapter RS da Anjos do Brasil. </p>
+    </div>
+</div>
+
+
+<div class="row t30">
+	<div class="medium-16 columns">
+        <img src="{{ site.urlimg }}gularte.jpeg" alt="" align="center"><br>
+        <b>Alan Gularte (Dell)</b><br>		
+		<a href="https://www.linkedin.com/in/alancafrunigularte" target="_blank">Linkedin</a><br>		
+		<h4>Título: Testes de Software e Transformação Digital (Palestra C) </h4><br>
+		<b>Data:</b> 13/11/2020 (Quinta-Feira) <br>
+		<b>Hora:</b> 08h:45m - 10m:15m (1,5 horas) <br>
+<!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
+		<br>
+		<p class="text-justify"><b>Resumo:</b> Nesta nova era de transformação digital, os engenheiros de testes estão se deparando com um universo de mudanças na maneira como tradicionalmente testam os softwares em termos de habilidades, processos e ferramentas. Machine Learning/Inteligência Artificial, DevOps, testes ágeis e contínuos são alguns exemplos dos temas que estão desafiando a comunidade de testes e forçando-os a encontrar maneiras de testar mais rapidamente e com excelência. Nesta palestra, Alan Gularte compartilhará como superar os principais desafios no campo da automação de testes, fazendo o melhor uso das tecnologias disponíveis.</p>
+		<br><br>
+		<p class="text-justify"><b>Bio:</b> Alan Gularte é Engenheiro de Software Sênior da Dell. Desde 2013, ele apoia programas globais de testes de performance e engenharia de qualidade, liderando equipes distribuídas no Brasil e na Índia. Ele ingressou na Dell após 6 anos trabalhando como desenvolvedor web e mobile. Ele tem Especialização em Big Data e Ciência de Dados e está sempre trabalhando com iniciativas de inovação envolvendo automação para mesclar Engenharia de Qualidade com Inteligência Artificial. Alan é apaixonado por tecnologia e gestão de pessoas, porque acredita que as duas áreas precisam caminhar juntas. Ele adora viajar e conhecer diferentes culturas.</p>
+    </div>
+</div>
+
+<!--
 <div class="row t30">
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}barbosa.jpg" alt="" align="center"><br>
