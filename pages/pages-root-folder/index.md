@@ -14,7 +14,7 @@ header:
 
 <h1>Início</h1>
 
-A <b>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quarta edição da escola, a <b>ERES 2020</b>, irá ocorrer em Maringá-PR, no período de 11 a 13 de novembro de 2020.
+A <b>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quarta edição da escola, a <b>ERES 2020</b>, irá ocorrer TOTALMENTE ONLINE, no período de 11 a 13 de novembro de 2020.
 
 Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target="_blank">Departamento de Informática (DIN)</a> da <a href="http://www.uem.br" target="_blank">Universidade Estadual de Maringá (UEM)</a>.
 
