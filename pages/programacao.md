@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Programação Preliminar"
+title: "Programação"
 permalink: "/programacao/"
 header:
    image_fullwidth: banner_eres2020.png
