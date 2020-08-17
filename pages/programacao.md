@@ -7,16 +7,12 @@ header:
    image_fullwidth: banner_eres2020.png
 ---
 
-Em elaboração...
-
-<!--
 <div class="row t30">
 	<div class="medium-32 columns">
 		<a href="{{ site.urlimg }}programacao.pdf" target="_blank">Clique aqui para programação em PDF</a><br><br>
 		<img src="{{ site.urlimg }}programacao.png"/><br>		
 	</div>
 </div>
-->
 
 
 <div class="row t30">	
