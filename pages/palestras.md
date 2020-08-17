@@ -31,7 +31,7 @@ header:
         <b>Alan Gularte (Dell)</b><br>		
 		<a href="https://www.linkedin.com/in/alancafrunigularte" target="_blank">Linkedin</a><br>		
 		<h4>Título: Testes de Software e Transformação Digital (Palestra B) </h4><br>
-		<b>Data:</b> 13/11/2020 (Quinta-Feira) <br>
+		<b>Data:</b> 12/11/2020 (Quinta-Feira) <br>
 		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
 <!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
 		<br>
@@ -47,7 +47,7 @@ header:
         <b>Prof. Leandro Bento Pompermaier (Tecnopuc/PUCRS)</b><br>		
 		<a href="http://lattes.cnpq.br/0325963463061376" target="_blank">Currículo Lattes</a><br>		
 		<h4>Título: 1000 em 10: A Experiência do Tecnopuc na Geração de Startups (Palestra C) </h4><br>
-		<b>Data:</b> 12/11/2020 (Sexta-Feira) <br>
+		<b>Data:</b> 13/11/2020 (Sexta-Feira) <br>
 		<b>Hora:</b> 08h:45m - 10h:15m (1,5 horas) <br>
 <!--		<b>Local:</b> Bloco XXX - Anfiteatro YYY<br><br>	-->
 		<br>
