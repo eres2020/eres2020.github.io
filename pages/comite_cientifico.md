@@ -72,6 +72,7 @@ header:
 <li> Andreia Malucelli - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
 <li> Gilleanes Thorwald Araujo Guedes - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Gislaine Camila L. Leal - DEP/Universidade Estadual de Maringá (UEM) </li>
+<li> Heloise Mânica Paris Teixeira - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Igor Scaliante Wiese - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Igor Steinmacher - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Itana M. S. Gimenes - DIN/Universidade Estadual de Maringá (UEM) </li>
