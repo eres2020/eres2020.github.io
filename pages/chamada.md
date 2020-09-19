@@ -35,7 +35,7 @@ autores de artigos da Trilha da Indústria devem estar filiados à uma empresa o
 <h1><font color="red">Datas Importantes:</font></h1>
  
 <ul>
-<li><font color="black"><strike>Submissão de artigos:</strike>     <strike>até 17/Ago/2020</strike> até 24/Ago/2020 às 23h:55m</font></li> 
+<li><font color="black"><strike>Submissão de artigos:</strike>     <strike>até 17/Ago/2020</strike> <strike>até 24/Ago/2020 às 23h:55m</strike></font></li> 
 <li><font color="red">Período de rebuttal:      21/Set/2020 a 28/Set/2020</font></li>
 <li><font color="black">Notificação aos autores:  05/Out/2020</font></li>
 <li><font color="black">Envio da versão final:    11/Out/2020</font></li>
