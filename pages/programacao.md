@@ -17,6 +17,7 @@ header:
 <br>
 
 <b>Sessão Técnica 1: título da sessão <br>
+Quarta-feira, 11/Nov, 10:30 - 12:00 <br>
 Chair: Prof. Dr. xxx</b>
 <ul>
 	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
@@ -25,23 +26,7 @@ Chair: Prof. Dr. xxx</b>
 </ul>
 
 
-Sessão Técnica 2:
 
-Sessão Técnica 3:
-
-Sessão Técnica 4:
-
-Sessão Técnica 5:
-
-Sessão Técnica 6:
-
-Sessão Técnica 7:
-
-Sessão Técnica 8:
-
-Sessão Técnica 9:
-
-Sessão Técnica 10:
 
 
 
