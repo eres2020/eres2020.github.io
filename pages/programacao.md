@@ -14,6 +14,35 @@ header:
 	</div>
 </div>
 
+</br>
+
+<b>Sessão Técnica 1:</b>
+<ul>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+
+Sessão Técnica 2:
+
+Sessão Técnica 3:
+
+Sessão Técnica 4:
+
+Sessão Técnica 5:
+
+Sessão Técnica 6:
+
+Sessão Técnica 7:
+
+Sessão Técnica 8:
+
+Sessão Técnica 9:
+
+Sessão Técnica 10:
+
+
 
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
