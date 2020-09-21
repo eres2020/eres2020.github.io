@@ -16,7 +16,7 @@ header:
 
 <br>
 
-<b>Sessão Técnica 1: título da sessão <br>
+<b>SESSÃO TÉCNICA 1: título da sessão <br>
 Quarta-feira, 11/Nov, 10:30 - 12:00 <br>
 Chair: Prof. Dr. xxx</b>
 <ul>
