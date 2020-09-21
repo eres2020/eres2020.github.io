@@ -52,6 +52,8 @@ header:
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
 
+<hr>
+
 <h3>Quinta-Feira - 12/Nov/2020</h3>
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
@@ -60,7 +62,7 @@ header:
 	<li><b>10:30</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li>
 	<li><b>10:45</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
 	<li><b>11:00</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
-	<li><b>11:15</b> - <i>título</i> - <b>Apresentador:</b> Profa. Dra. Letícia Machado (UFPA)</li>
+	<li><b>11:15</b> - <i>título</i> - <b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li>
 	<li><b>11:30</b> - <i>Debate sobre os resultados</i></li>
 </ul>
 
@@ -88,6 +90,8 @@ header:
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
+
+<hr>
 
 <h3>Sexta-Feira - 13/Nov/2020</h3>
 
