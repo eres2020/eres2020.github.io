@@ -16,7 +16,7 @@ header:
 
 <br>
 
-<h1>Quarta-Feira - 11/Nov/2020</h1>
+<h2>Quarta-Feira - 11/Nov/2020</h2>
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
