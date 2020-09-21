@@ -61,8 +61,7 @@ header:
 	<li><b>10:45</b> - <i>título</i> - <b>Apresentador:</b>Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
 	<li><b>11:00</b> - <i>título</i> - <b>Apresentador:</b>Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
 	<li><b>11:15</b> - <i>título</i> - <b>Apresentador:</b>Profa. Dra. Letícia Machado (UFPA)</li>
-	<li><b>11:30</b> - <i>Debate sobre os resultados</i>
-	
+	<li><b>11:30</b> - <i>Debate sobre os resultados</i></li>
 </ul>
 
 
