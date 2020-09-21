@@ -25,6 +25,23 @@ header:
 </ul>
 
 
+<b>SESSÃO TÉCNICA 2:</b> <i>Requisitos de Software</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+
+<b>SESSÃO TÉCNICA 3:</b> <i>Engenharia de Software Empírica</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
 
 
 
