@@ -18,7 +18,7 @@ header:
 
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
-<b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
+<b>SESSÃO TÉCNICA 1:</b> <i>?????</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
 	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
@@ -27,7 +27,7 @@ header:
 </ul>
 
 
-<b>SESSÃO TÉCNICA 2:</b> <i>Requisitos de Software</i> <br>
+<b>SESSÃO TÉCNICA 2:</b> <i>?????</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
 	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
@@ -36,7 +36,7 @@ header:
 </ul>
 
 
-<b>SESSÃO TÉCNICA 3:</b> <i>Engenharia de Software Empírica</i> <br>
+<b>SESSÃO TÉCNICA 3:</b> <i>?????</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
 	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
@@ -57,14 +57,12 @@ header:
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <i>título</i> - <b>Apresentador:</b>Prof. Dr. Marco Túlio Valente (UFMG)</li>
-	<li><b>10:45</b> - <i>título</i> - <b>Apresentador:</b>Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
-	<li><b>11:00</b> - <i>título</i> - <b>Apresentador:</b>Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
-	<li><b>11:15</b> - <i>título</i> - <b>Apresentador:</b>Profa. Dra. Letícia Machado (UFPA)</li>
+	<li><b>10:30</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li>
+	<li><b>10:45</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
+	<li><b>11:00</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
+	<li><b>11:15</b> - <i>título</i> - <b>Apresentador:</b> Profa. Dra. Letícia Machado (UFPA)</li>
 	<li><b>11:30</b> - <i>Debate sobre os resultados</i></li>
 </ul>
-
-
 
 
 <b>SESSÃO TÉCNICA 5:</b> <i>??????</i> <br>
@@ -75,7 +73,47 @@ header:
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
 
+<b>SESSÃO TÉCNICA 6:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
 
+<b>SESSÃO TÉCNICA 7:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>17:00</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+<h3>Sexta-Feira - 13/Nov/2020</h3>
+
+<b>SESSÃO TÉCNICA 8:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+<b>SESSÃO TÉCNICA 9:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+<b>SESSÃO TÉCNICA 10:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
 
 
 <div class="row t30">	
