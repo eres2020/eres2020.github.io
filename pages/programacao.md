@@ -16,7 +16,7 @@ header:
 
 <br>
 
-<h2>Quarta-Feira - 11/Nov/2020</h2>
+<h3>Quarta-Feira - 11/Nov/2020</h3>
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
@@ -52,7 +52,7 @@ header:
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
 
-<h2>Quinta-Feira - 12/Nov/2020</h2>
+<h3>Quinta-Feira - 12/Nov/2020</h3>
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
