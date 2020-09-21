@@ -19,14 +19,12 @@ header:
 <li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Andreia Sabedra Bordin - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Avelino F. Zorzo - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
-<li> Carlos Emilio Padilla Severo - IFSul RS </li>
 <li> Claudio Schepke - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Cristiano Tolfo - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Elder de Macedo Rodrigues - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Ewerson Carvalho - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Ingrid Nunes - UFRGS </li>
 <li> Jean Felipe Patikowski Cheiran - Universidade Federal do Pampa (UNIPAMPA) </li>
-<li> Juliana Herbert - UFCSPA </li>
 <li> Juliano Varella De Carvalho - FEEVALE </li>
 <li> Kleinner Silva Farias - UNISINOS </li>
 <li> Kurt Werner Molz - UNISC </li>
@@ -78,6 +76,7 @@ header:
 <li> Itana M. S. Gimenes - DIN/Universidade Estadual de Maringá (UEM) </li>
 <li> Katia Romero Felizardo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Marco Aurélio Graciotto Silva - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
+<li> Paulo Nardi - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Rafael Alves Paes de Oliveira - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Reginaldo Ré - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Renato Balancieri - UNESPAR </li>
@@ -98,6 +97,7 @@ header:
 <li> Fabiano Ferrari - Universidade Federal de São Carlos (UFSCar) </li>
 <li> Elisa Nakagawa - ICMC/USP</li>
 <li> Ellen Francine Barbosa - ICMC/USP</li>
+<li> Isabel Villanes - UFAM</li>
 <li> José C. Maldonado - ICMC/USP</li>
 <li> Rodrigo Pereira dos Santos (UNIRIO) </li>
 <li> Simone do Rocio Senger de Souza - ICMC/USP </li>
