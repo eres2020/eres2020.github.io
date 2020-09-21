@@ -16,6 +16,8 @@ header:
 
 <br>
 
+<hr>
+
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
 <b>SESSÃO TÉCNICA 1:</b> <i>?????</i> <br>
