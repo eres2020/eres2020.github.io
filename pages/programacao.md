@@ -16,9 +16,8 @@ header:
 
 <br>
 
-<b>SESSÃO TÉCNICA 1:</b> título da sessão <br>
-Quarta-feira, 11/Nov, 10:30 - 12:00 <br>
-Chair: Prof. Dr. xxx
+<b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
 <ul>
 	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
