@@ -44,6 +44,32 @@ header:
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
 
+<b>SESSÃO TÉCNICA 4:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>17:00</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+<h2>Quinta-Feira - 12/Nov/2020</h2>
+
+<b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
+
+
+<b>SESSÃO TÉCNICA 5:</b> <i>??????</i> <br>
+<b>Chair:</b> Prof. Dr. xxx
+<ul>
+	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+</ul>
 
 
 
