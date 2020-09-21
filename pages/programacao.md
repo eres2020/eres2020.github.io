@@ -16,7 +16,7 @@ header:
 
 <br>
 
-<b>Sessão Técnica 1 (Quarta-feira, 11/Nov): <i>título da sessão</i> - Chair: Prof. Dr. xxx</b>
+<b>Sessão Técnica 1: <i>título da sessão</i> - Chair: Prof. Dr. xxx</b>
 <ul>
 	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
