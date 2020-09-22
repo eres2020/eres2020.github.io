@@ -93,6 +93,7 @@ header:
 
 <ul> 
 <li> Adenilso Simão - ICMC/USP</li>
+<li> Awdren Fontão - UFMS</li>
 <li> Bruno Barbieri de Pontes Cafeo - Universidade Federal do Matro Grosso do Sul </li>
 <li> Fabiano Ferrari - Universidade Federal de São Carlos (UFSCar) </li>
 <li> Elisa Nakagawa - ICMC/USP</li>
