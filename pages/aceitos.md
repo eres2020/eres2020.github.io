@@ -52,26 +52,26 @@ header:
 	</ul>
 
 
-<li><b></b></li>
+<li><b>Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto</b></li>
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
+		<li>Narcizo Gabriel Freitas Palioto (Universidade Estadual de Maringá - Brazil)</li>
+		<li>Thelma Colanzi (Universidade Estadual de Maringá - Brazil)</li>		
 	</ul>
 
-<li><b></b></li>
+<li><b>Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto</b></li>
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
+		<li>Pedro Azevedo (Universidade Tecnológica Federal do Paraná - Brazil)</li>
+		<li>Vinicius Vieira (Universidade Tecnológica Federal do Paraná - Brazil)</li>
+		<li>Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>		
+		<li>Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>
 	</ul>
 
 
-<li><b></b></li>
+<li><b>RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b></li>
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
+		<li>Douglas Giordano (Universidade Federal do Pampa (UNIPAMPA) - Brazil)</li>
+		<li>Arthur Becker (Federal University of Pampa - Brazil)</li>
+		<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>		
 	</ul>
 
 
@@ -120,17 +120,6 @@ header:
  
 
 
-
-
-Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto	"Narcizo Gabriel Freitas Palioto (Universidade Estadual de Maringá - Brazil),
-Thelma Colanzi (Universidade Estadual de Maringá - Brazil)"
-Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto	"Pedro Azevedo (Universidade Tecnológica Federal do Paraná - Brazil),
-Vinicius Vieira (Universidade Tecnológica Federal do Paraná - Brazil),
-Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil),
-Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)"
-RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML	"Douglas Giordano (Universidade Federal do Pampa (UNIPAMPA) - Brazil),
-Arthur Becker (Federal University of Pampa - Brazil),
-João Pablo S. da Silva (Federal University of Pampa - Brazil)"
 Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático	"Rafael Torres (UNIPAMPA - Brazil),
 Bruno Ferreira (Universidade Federal do Pampa - Brazil),
 Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
@@ -143,6 +132,8 @@ Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
 João Pablo S. da Silva (Federal University of Pampa - Brazil),
 Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
 Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)"
+
+
 Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático	"Bruno Ferreira (Universidade Federal do Pampa - Brazil),
 Rafael Torres (UNIPAMPA - Brazil),
 Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
@@ -201,26 +192,6 @@ Fabrícia Roos-Frantz (Universidade do Noroeste do Estado do Rio Grande do Sul -
 
 -->
  
-<h2>Coordenação Geral da ERES 2020:</h2>
-     Prof. Dr. Edson Oliveira Junior - DIN/UEM
-     Profa. Dra. Aline M. M. M. Amaral - DIN/UEM
-     Prof. Dr. Donizete Carlos Bruzarosco - DIN/UEM
-     Prof. Me. Marcello Erick Bonfim - UniCesumar
-
-<h2>Coordenação do Fórum de Graduação:</h2>
-     Prof. Dr. André Takeshi Endo - UTFPR - Cornélio Procópio
-     Prof. Dr. Igor Scaliante Wiese - UTFPR - Campo Mourão
- 
-<h2>Coordenação do Fórum de Pós-Graduação:</h2>
-     Profa. Dra. Katia Romero Felizardo - UTFPR - Cornélio Procópio
-     Profa. Dra. Andreia Malucelli - PUCPR
-
-<h2>Coordenação da Trilha da Indústria:</h2>
-     Prof. Dr. Avelino F. Zorzo - PUCRS
-     Profa. Dra. Gislaine Camila L. Leal - DEP/UEM
-
-
-
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
 </div><!-- /.row -->
