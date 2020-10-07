@@ -74,6 +74,57 @@ header:
 		<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>		
 	</ul>
 
+<li><b>Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático</b></li>
+	<ul>
+		<li>Rafael Torres (UNIPAMPA - Brazil)</li>
+		<li>Bruno Ferreira (Universidade Federal do Pampa - Brazil)</li>
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
+		<li>Marcelo Thielo (Universidade Federal do Pampa - Brazil)</li>
+	</ul>
+
+
+<li><b>Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b></li>
+	<ul>
+		<li>Jaqueline Moura (Universidade Federal do Pampa - Brazil)</li>
+		<li>Natiele Lucca (UNIVERISDADE FEDERAL DO PAMPA - ALEGRETE - Brazil)</li>
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>		
+	</ul>
+
+
+
+<li><b>Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b></li>
+	<ul>
+		<li>Bruno Ferreira (Universidade Federal do Pampa - Brazil)</li>
+		<li>Rafael Torres (UNIPAMPA - Brazil)</li>
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+	</ul>
+
+<li><b>Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b></li>
+	<ul>
+		<li>Márcio Vitor dos Santos (COTSI - Federal University of Technology - Paraná (UTFPR) - Brazil)</li>
+		<li>Wesley Assunção (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil)</li>
+		<li>Ivonei Freitas Silva (UNIOESTE - Brazil)</li>		
+	</ul>
+
+<li><b>Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso</b></li>
+	<ul>
+		<li>Thales Dal Molim (Universidade Tecnológica Federal do Paraná - Brazil)</li>
+		<li>Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>				
+	</ul>
+
+<li><b>Avaliação de Dependências no Desenvolvimento de Sistemas</b></li>
+	<ul>
+		<li>Flávio Schiavoni (Federal University of São João Del Rei - Brazil)</li>
+		<li>Carlos Barbosa (Federal University of São João Del Rei - Brazil)</li>
+	</ul>
 
 <li><b></b></li>
 	<ul>
@@ -82,23 +133,12 @@ header:
 		<li></li>		
 	</ul>
 
-
 <li><b></b></li>
 	<ul>
 		<li></li>
 		<li></li>
 		<li></li>		
 	</ul>
-
-
-
-<li><b></b></li>
-	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
-	</ul>
-
 
 
 
@@ -107,46 +147,6 @@ header:
 	
 	<!--
 	
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li><li></li><li></li><li></li>
-	<li></li><li></li><li></li>
-		
-
-</li>
-</ul>
- 
-
-
-Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático	"Rafael Torres (UNIPAMPA - Brazil),
-Bruno Ferreira (Universidade Federal do Pampa - Brazil),
-Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
-Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
-Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil),
-Marcelo Thielo (Universidade Federal do Pampa - Brazil)"
-Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText	"Jaqueline Moura (Universidade Federal do Pampa - Brazil),
-Natiele Lucca (UNIVERISDADE FEDERAL DO PAMPA - ALEGRETE - Brazil),
-Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
-João Pablo S. da Silva (Federal University of Pampa - Brazil),
-Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
-Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)"
-
-
-Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático	"Bruno Ferreira (Universidade Federal do Pampa - Brazil),
-Rafael Torres (UNIPAMPA - Brazil),
-Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
-Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil),
-Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil),
-Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)"
-Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático	"Márcio Vitor dos Santos (COTSI - Federal University of Technology - Paraná (UTFPR) - Brazil),
-Wesley Assunção (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil),
-Ivonei Freitas Silva (UNIOESTE - Brazil)"
-Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso	"Thales Dal Molim (Universidade Tecnológica Federal do Paraná - Brazil),
-Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)"
-Avaliação de Dependências no Desenvolvimento de Sistemas	"Flávio Schiavoni (Federal University of São João Del Rei - Brazil),
-Carlos Barbosa (Federal University of São João Del Rei - Brazil)"
 Search-based Test Data Generation for Mutation Testing: a tool for Python programs	"Matheus Moreira Ferreira (Universidade Tecnológica Federal do Paraná - Brazil),
 Lincoln Costa (Universidade Federal do Rio de Janeiro - Brazil),
 Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)"
