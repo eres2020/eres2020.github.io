@@ -21,7 +21,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 
 
 <ul>
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b></li>
+<li><b><img src="{{ site.urlimg }}usa.jpg" align="center" width="50%" height="50%">Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b></li>
 	<ul>
 		<li>Guilherme Legramante (Universidade Federal do Pampa - Brazil)</li>
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
