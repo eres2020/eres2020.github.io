@@ -21,7 +21,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 
 
 <ul>
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center"><img src="{{ site.urlimg }}usa.jpg" align="center">Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b></li>
+<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b></li>
 	<ul>
 		<li>Guilherme Legramante (Universidade Federal do Pampa - Brazil)</li>
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
@@ -29,7 +29,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center"><img src="{{ site.urlimg }}usa.jpg" align="center">Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
+<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
 	<ul>
 		<li>Tamires Deprá (Universidade Estadual de Maringá - Brazil)</li>
 		<li>Aline Amaral (Universidade Estadual de Maringa - Brazil)</li>
