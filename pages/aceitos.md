@@ -224,7 +224,7 @@ header:
 
 <li><b>Modeling and Configuring UML-based Software Product Lines with SMartyModeling</b></li>
 	<ul>		
-		Leandro Silva (Universidade Estadual de Maringá)</li>
+		<li>Leandro Silva (Universidade Estadual de Maringá)</li>
 		<li>Edson OliveiraJr (Universidade Estadual de Maringá)</li>		
 	</ul>
 	
