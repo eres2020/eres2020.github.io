@@ -213,7 +213,7 @@ header:
 
 <li><b>Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas</b></li>
 	<ul>
-		<li>Luis Tabile (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)
+		<li>Luis Tabile (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
 		<li>Fabrícia Roos-Frantz (Universidade do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>		
 	</ul>
 	
