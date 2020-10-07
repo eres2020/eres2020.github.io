@@ -29,7 +29,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center"> Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center"> Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
 	<ul>
 		<li>Tamires Deprá (Universidade Estadual de Maringá - Brazil)</li>
 		<li>Aline Amaral (Universidade Estadual de Maringa - Brazil)</li>
