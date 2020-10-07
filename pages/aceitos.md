@@ -10,6 +10,13 @@ header:
 ---
 <hr>
 
+Todos os artigos passaram por um processo de avaliação <i>double-blind</i> em que os autores não conhecem os revisores e nem os revisores conhecem os autores dos artigos.
+
+As avaliações são realizadas pelos membros do Comitê de Programa de cada Fórum/Trilha. 
+
+Cada artigo foi revisado por pelo menos 2 revisores.
+
+
 <h2>Fórum de Graduação</h2>
 
 
