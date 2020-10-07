@@ -29,7 +29,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center"><img src="{{ site.urlimg }}usa.jpg" align="center">Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center"><img src="{{ site.urlimg }}usa.jpg" align="center">Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b></li>
 	<ul>
 		<li>Tamires Deprá (Universidade Estadual de Maringá - Brazil)</li>
 		<li>Aline Amaral (Universidade Estadual de Maringa - Brazil)</li>
@@ -37,21 +37,21 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático</b></li>
 	<ul>
 		<li>Kaliane Viesseli (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil)</li>
 		<li>Arielyn Silva (Universidade Tecnológica Federal do Paraná - Brazil)</li>		
 		<li>Gustavo Santos (Universidade Tecnológica Federal do Paraná - UTFPR-DV - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Algoritmo para Cálculo da Similaridade Semântica entre Nomes de Conferências Cadastradas no Curriculum Lattes e na Base Qualis</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Algoritmo para Cálculo da Similaridade Semântica entre Nomes de Conferências Cadastradas no Curriculum Lattes e na Base Qualis</b></li>
 	<ul>
 		<li>Rafael Soares (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
 		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>		
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios</b></li>
 	<ul>
 		<li>Leandro Silva (Universidade Estadual de Maringá - Brazil)</li>
 		<li>Bruno Fernandes (Universidade Estadual de Maringá - Brazil)</li>
@@ -59,13 +59,13 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto</b></li>
 	<ul>
 		<li>Narcizo Gabriel Freitas Palioto (Universidade Estadual de Maringá - Brazil)</li>
 		<li>Thelma Colanzi (Universidade Estadual de Maringá - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto</b></li>
 	<ul>
 		<li>Pedro Azevedo (Universidade Tecnológica Federal do Paraná - Brazil)</li>
 		<li>Vinicius Vieira (Universidade Tecnológica Federal do Paraná - Brazil)</li>
@@ -74,14 +74,14 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b></li>
 	<ul>
 		<li>Douglas Giordano (Universidade Federal do Pampa (UNIPAMPA) - Brazil)</li>
 		<li>Arthur Becker (Federal University of Pampa - Brazil)</li>
 		<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático</b></li>
 	<ul>
 		<li>Rafael Torres (UNIPAMPA - Brazil)</li>
 		<li>Bruno Ferreira (Universidade Federal do Pampa - Brazil)</li>
@@ -92,7 +92,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b></li>
 	<ul>
 		<li>Jaqueline Moura (Universidade Federal do Pampa - Brazil)</li>
 		<li>Natiele Lucca (UNIVERISDADE FEDERAL DO PAMPA - ALEGRETE - Brazil)</li>
@@ -114,20 +114,20 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b></li>
 	<ul>
 		<li>Márcio Vitor dos Santos (COTSI - Federal University of Technology - Paraná (UTFPR) - Brazil)</li>
 		<li>Wesley Assunção (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil)</li>
 		<li>Ivonei Freitas Silva (UNIOESTE - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso</b></li>
 	<ul>
 		<li>Thales Dal Molim (Universidade Tecnológica Federal do Paraná - Brazil)</li>
 		<li>Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>				
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Avaliação de Dependências no Desenvolvimento de Sistemas</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Avaliação de Dependências no Desenvolvimento de Sistemas</b></li>
 	<ul>
 		<li>Flávio Schiavoni (Federal University of São João Del Rei - Brazil)</li>
 		<li>Carlos Barbosa (Federal University of São João Del Rei - Brazil)</li>
@@ -140,14 +140,14 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b></li>
 	<ul>
 		<li>Andrea Bordin (Universidade Federal do Pampa - Brazil)</li>
 		<li>Maurício Escobar (Instituto Federal Farroupilha Alegrete - Brazil)</li>
 		<li>Alex Severo Chervenski (Universidade Federal do Pampa - Brazil)</li>				
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo
 </b></li>
 	<ul>
 		<li>Bruno Ferreira (Universidade Federal do Pampa - Brazil)</li>
@@ -158,7 +158,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 	</ul>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Usando o teste ponta a ponta para garantia de confiabilidade de um Sistema Integrado de Gestão: uma prova de conceito</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Usando o teste ponta a ponta para garantia de confiabilidade de um Sistema Integrado de Gestão: uma prova de conceito</b></li>
 	<ul>
 		<li>Yury Lima (Universidade Federal do Pampa (UNIPAMPA) - Brazil)</li>
 		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
@@ -166,13 +166,13 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná</b></li>
 	<ul>
 		<li>Matheus Rehbein (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
 		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Aplicação da Ferramenta Google Colaboratory para o Ensino da Linguagem Python</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Aplicação da Ferramenta Google Colaboratory para o Ensino da Linguagem Python</b></li>
 	<ul>
 		<li>Martony Silva (Universidade Federal do Piaui - Brazil)</li>		
 	</ul>
@@ -185,14 +185,14 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Sabrina Marczak (PUCRS - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Impacto das Avaliações de Interface na qualidade de um Software Previdenciário</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Impacto das Avaliações de Interface na qualidade de um Software Previdenciário</b></li>
 	<ul>
 		<li>Douglas Pozzolo (Universidade Federal de Mato Grosso - Brazil)</li>
 		<li>Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil)</li>
 		<li>Raphael Gomes (Universidade Federal de Mato Grosso - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Business Intelligence com Qlik Sense aplicado ao Radar Saúde</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Business Intelligence com Qlik Sense aplicado ao Radar Saúde</b></li>
 	<ul>
 		<li>Leander Alves (UFMT - Brazil)</li>
 		<li>Joyce Aline Marins (Universidade Federal de Mato Grosso - Brazil)</li>
@@ -202,7 +202,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de Software: uma análise no período de pandemia</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de Software: uma análise no período de pandemia</b></li>
 	<ul>
 		<li>Flavia Barbosa (Universidade Federal do Pampa - Brazil)</li>
 		<li>Ícaro Crespo (Universidade Federal do Pampa - Brazil)</li>
@@ -210,7 +210,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Andrea Bordin (Universidade Federal do Pampa - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Estratégias Remotas à Avaliação de Interfaces de Usuário</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Estratégias Remotas à Avaliação de Interfaces de Usuário</b></li>
 	<ul>
 		<li>Amanda Melo (Universidade Federal do Pampa - Brazil)</li>
 		<li>Ícaro Crespo (Universidade Federal do Pampa - Brazil)</li>
@@ -218,7 +218,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Gabriela Córdova Medeiros (Universidade Federal do Pampa - Brazil)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas</b></li>
 	<ul>
 		<li>Luis Tabile (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
 		<li>Fabrícia Roos-Frantz (Universidade do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>		
@@ -243,7 +243,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Marcelo Morandini (Universidade de São Paulo)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Políticas de Gerência de Configuração de Software para Grupos de Pesquisa</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Políticas de Gerência de Configuração de Software para Grupos de Pesquisa</b></li>
 	<ul>		
 		<li>Felipe Silva (Universidade Estadual de Maringa)</li>
 		<li>Aline Amaral (Universidade Estadual de Maringa)</li>
@@ -258,7 +258,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa))</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b></li>
 	<ul>		
 		<li>Jonnathan Lopes (Universidade Federal do Pampa (UNIPAMPA))</li>
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa))</li>
@@ -278,13 +278,13 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 		<li>Ivonei Freitas Silva (UNIOESTE)</li>		
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Do Harpia ao Mosaicode a Evolução de um Ambiente de Programação Visual</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Do Harpia ao Mosaicode a Evolução de um Ambiente de Programação Visual</b></li>
 	<ul>		
 		<li>Flávio Schiavoni (Federal University of São João Del Rei)</li>
 		<li>Luan Gonçalves (Federal University of São João Del Rei)</li>
 	</ul>
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Uso de Algoritmo Baseado na Meta-heurística PSO para Configuração do Pool de Threads em Motores de Execução de Plataformas de Integração de Aplicações</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Uso de Algoritmo Baseado na Meta-heurística PSO para Configuração do Pool de Threads em Motores de Execução de Plataformas de Integração de Aplicações</b></li>
 	<ul>		
 		<li>Maira Brigo (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)</li>
 		<li>Daniela Sellaro (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)</li>
@@ -297,7 +297,7 @@ Cada artigo foi revisado por pelo menos 2 revisores.
 <h2>Trilha da Indústria</h2>
 
 
-<li><b><img src="{{ site.urlimg }}usa.jpg" align="center">Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b></li>
+<li><b><img src="{{ site.urlimg }}brasil.jpg" align="center">Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b></li>
 	<ul>
 		<li>Bruno Cavalcante (UEM)</li>
 		<li>Liandra Jesus (UEM)</li>
