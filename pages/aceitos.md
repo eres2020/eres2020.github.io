@@ -20,7 +20,81 @@ header:
 		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
 		<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>
 		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>		
-	</ul>	
+	</ul>
+</li>
+
+<li><b>Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR<\b>
+	<ul>
+		<li>Tamires Deprá (Universidade Estadual de Maringá - Brazil)<\li>
+		<li>Aline Amaral (Universidade Estadual de Maringa - Brazil)</li>
+		<li>Douglas Tanno (Universidade Estadual de Maringá - Brazil)</li>		
+	</ul>
+</li>
+
+<li><b>Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático<\b>
+	<ul>
+		<li>Kaliane Viesseli (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil)<\li>
+		<li>Arielyn Silva (Universidade Tecnológica Federal do Paraná - Brazil)</li>		
+		<li>Gustavo Santos (Universidade Tecnológica Federal do Paraná - UTFPR-DV - Brazil)</li>		
+	</ul>
+</li>
+
+<li><b>Algoritmo para Cálculo da Similaridade Semântica entre Nomes de Conferências Cadastradas no Curriculum Lattes e na Base Qualis<\b>
+	<ul>
+		<li>Rafael Soares (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)<\li>
+		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>		
+	</ul>
+</li>
+
+<li><b>Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios<\b>
+	<ul>
+		<li>Leandro Silva (Universidade Estadual de Maringá - Brazil)<\li>
+		<li>Bruno Fernandes (Universidade Estadual de Maringá - Brazil)</li>
+		<li>Edson OliveiraJr (Universidade Estadual de Maringá - Brazil)</li>
+	</ul>
+</li>
+
+<li><b><\b>
+	<ul>
+		<li><\li>
+		<li></li>
+		<li></li>		
+	</ul>
+</li>
+
+<li><b><\b>
+	<ul>
+		<li><\li>
+		<li></li>
+		<li></li>		
+	</ul>
+</li>
+
+<li><b><\b>
+	<ul>
+		<li><\li>
+		<li></li>
+		<li></li>		
+	</ul>
+</li>
+
+<li><b><\b>
+	<ul>
+		<li><\li>
+		<li></li>
+		<li></li>		
+	</ul>
+</li>
+
+<li><b><\b>
+	<ul>
+		<li><\li>
+		<li></li>
+		<li></li>		
+	</ul>
+</li>
+
+
 	
 	<!--
 	
@@ -38,17 +112,7 @@ header:
 
 
 
-Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá - PR	"Tamires Deprá (Universidade Estadual de Maringá - Brazil),
-Aline Amaral (Universidade Estadual de Maringa - Brazil),
-Douglas Tanno (Universidade Estadual de Maringá - Brazil)"
-Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático	"Kaliane Viesseli (Universidade Tecnológica Federal do Paraná - UTFPR - Brazil),
-Arielyn Silva (Universidade Tecnológica Federal do Paraná - Brazil),
-Gustavo Santos (Universidade Tecnológica Federal do Paraná - UTFPR-DV - Brazil)"
-Algoritmo para Cálculo da Similaridade Semântica entre Nomes de Conferências Cadastradas no Curriculum Lattes e na Base Qualis	"Rafael Soares (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil),
-Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)"
-Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios	"Leandro Silva (Universidade Estadual de Maringá - Brazil),
-Bruno Fernandes (Universidade Estadual de Maringá - Brazil),
-Edson OliveiraJr (Universidade Estadual de Maringá - Brazil)"
+
 Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto	"Narcizo Gabriel Freitas Palioto (Universidade Estadual de Maringá - Brazil),
 Thelma Colanzi (Universidade Estadual de Maringá - Brazil)"
 Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto	"Pedro Azevedo (Universidade Tecnológica Federal do Paraná - Brazil),
