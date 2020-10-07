@@ -222,6 +222,69 @@ header:
 <h2>Fórum de Pós-Graduação</h2>
 
 
+<li><b>Modeling and Configuring UML-based Software Product Lines with SMartyModeling</b></li>
+	<ul>		
+		Leandro Silva (Universidade Estadual de Maringá)</li>
+		<li>Edson OliveiraJr (Universidade Estadual de Maringá)</li>		
+	</ul>
+	
+<li><b>A Unified Feature Model for Scrum Artifacts from a Literature and Practice Perspective</b></li>
+	<ul>		
+		<li>Luciano Garcia (Universidade Estadual de Maringá)</li>
+		<li>Edson OliveiraJr (Universidade Estadual de Maringá)</li>
+		<li>Gislaine Camila Leal (Universidade Estadual de Maringá)</li>
+		<li>Marcelo Morandini (Universidade de São Paulo)</li>		
+	</ul>
+
+<li><b>Políticas de Gerência de Configuração de Software para Grupos de Pesquisa</b></li>
+	<ul>		
+		<li>Felipe Silva (Universidade Estadual de Maringa)</li>
+		<li>Aline Amaral (Universidade Estadual de Maringa)</li>
+		<li>Thelma Colanzi (Universidade Estadual de Maringá)</li>		
+	</ul>
+
+<li><b>Systematic Literature Review on Web Performance Testing</b></li>
+	<ul>		
+		<li>Guilherme Legramante (Universidade Federal do Pampa)</li>		
+		Maicon Bernardino (Universidade Federal do Pampa (Unipampa))</li>		
+		Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete)</li>		
+		Fábio Basso (Universidade Federal do Pampa (Unipampa))</li>		
+	</ul>
+
+<li><b>Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b></li>
+	<ul>		
+		<li>Jonnathan Lopes (Universidade Federal do Pampa (UNIPAMPA))</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa))</li>
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa))</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete)</li>		
+	</ul>
+
+<li><b>Towards a Process for Migrating Legacy Systems into Microservices Architectural Style</b></li>
+	<ul>		
+		<li>Daniele Wolfart (UTFPR)</li>
+		<li>Ederson Schmeing (PPGComp - Western Paraná State University (UNIOESTE))</li>
+		<li>Gustavo C. L. Geraldino (PPGComp - Western Paraná State University (UNIOESTE))</li>
+		<li>Guilherme L. D. Villaca (PPGComp - Western Paraná State University (UNIOESTE))</li>
+		<li>Diogo do N. Paza (PPGComp - Western Paraná State University (UNIOESTE))</li>
+		<li>Diogo C. P. Domingos (PPGComp - Western Paraná State University (UNIOESTE))</li>
+		<li>Wesley Assunção (Universidade Tecnológica Federal do Paraná - UTFPR)</li>
+		<li>Ivonei Freitas Silva (UNIOESTE)</li>		
+	</ul>
+
+<li><b>Do Harpia ao Mosaicode a Evolução de um Ambiente de Programação Visual</b></li>
+	<ul>		
+		<li>Flávio Schiavoni (Federal University of São João Del Rei)</li>
+		<li>Luan Gonçalves (Federal University of São João Del Rei)</li>
+	</ul>
+
+<li><b>Uso de Algoritmo Baseado na Meta-heurística PSO para Configuração do Pool de Threads em Motores de Execução de Plataformas de Integração de Aplicações</b></li>
+	<ul>		
+		<li>Maira Brigo (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)</li>
+		<li>Daniela Sellaro (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)</li>
+		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)</li>		
+	</ul>
+	
+
 
 
 <h2>Trilha da Indústria</h2>
