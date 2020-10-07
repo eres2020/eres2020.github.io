@@ -2,15 +2,11 @@
   url: "/"
   side: left
 
-#- title: Cód. Ética
-#  url: "/etica/"
-#  side: left  
-
 - title: Chamada de Trabalhos
   url: "/chamada/"
   side: left  
   
- - title: Artigos Aceitos
+- title: Artigos Aceitos
   url: "/aceitos/"
   side: left  
 
