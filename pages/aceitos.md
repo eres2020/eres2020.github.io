@@ -126,71 +126,98 @@ header:
 		<li>Carlos Barbosa (Federal University of São João Del Rei - Brazil)</li>
 	</ul>
 
-<li><b></b></li>
+<li><b>Search-based Test Data Generation for Mutation Testing: a tool for Python programs</b></li>
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
+		<li>Matheus Moreira Ferreira (Universidade Tecnológica Federal do Paraná - Brazil)</li>
+		<li>Lincoln Costa (Universidade Federal do Rio de Janeiro - Brazil)</li>
+		<li>Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>		
 	</ul>
 
-<li><b></b></li>
+<li><b>Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b></li>
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>		
+		<li>Andrea Bordin (Universidade Federal do Pampa - Brazil)</li>
+		<li>Maurício Escobar (Instituto Federal Farroupilha Alegrete - Brazil)</li>
+		<li>Alex Severo Chervenski (Universidade Federal do Pampa - Brazil)</li>				
+	</ul>
+
+<li><b>Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo
+</b></li>
+	<ul>
+		<li>Bruno Ferreira (Universidade Federal do Pampa - Brazil)</li>
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>		
 	</ul>
 
 
+<li><b>Usando o teste ponta a ponta para garantia de confiabilidade de um Sistema Integrado de Gestão: uma prova de conceito</b></li>
+	<ul>
+		<li>Yury Lima (Universidade Federal do Pampa (UNIPAMPA) - Brazil)</li>
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
+		<li>Rafael Paes Oliveira (UTFPR - Brazil)</li>
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>		
+	</ul>
 
+<li><b>Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná</b></li>
+	<ul>
+		<li>Matheus Rehbein (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
+		<li>Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>
+	</ul>
 
+<li><b>Aplicação da Ferramenta Google Colaboratory para o Ensino da Linguagem Python</b></li>
+	<ul>
+		<li>Martony Silva (Universidade Federal do Piaui - Brazil)</li>		
+	</ul>
 
+<li><b>The Use of Design Thinking in a Global Information Technology Company</b></li>
+	<ul>
+		<li>Gabriel Kryvoruchca (PUCRS - Brazil)</li>
+		<li>Lauriane Corrêa (PUCRS - Brazil)</li>
+		<li>Rafael Parizi (Instituto Federal Farroupilha - Brazil)</li>
+		<li>Sabrina Marczak (PUCRS - Brazil)</li>
+	</ul>
+
+<li><b>Impacto das Avaliações de Interface na qualidade de um Software Previdenciário</b></li>
+	<ul>
+		<li>Douglas Pozzolo (Universidade Federal de Mato Grosso - Brazil)</li>
+		<li>Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil)</li>
+		<li>Raphael Gomes (Universidade Federal de Mato Grosso - Brazil)</li>
+	</ul>
+
+<li><b>Business Intelligence com Qlik Sense aplicado ao Radar Saúde</b></li>
+	<ul>
+		<li>Leander Alves (UFMT - Brazil)</li>
+		<li>Joyce Aline Marins (Universidade Federal de Mato Grosso - Brazil)</li>
+		<li>Marcelo Takao Tanaka (TCEMT - Brazil)</li>
+		<li>Jeison Santos (UFMT - Brazil)</li>
+		<li>Vanice Cunha (Universidade Federal de Mato Grosso - Brazil)</li>
+		<li>Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil)</li>
+	</ul>
+
+<li><b>Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de Software: uma análise no período de pandemia</b></li>
+	<ul>
+		<li>Flavia Barbosa (Universidade Federal do Pampa - Brazil)</li>
+		<li>Ícaro Crespo (Universidade Federal do Pampa - Brazil)</li>
+		<li>Lucas Augusto Guterres Garais (Universidade Federal do Pampa - Brazil)</li>
+		<li>Andrea Bordin (Universidade Federal do Pampa - Brazil)</li>
+	</ul>
+
+<li><b>Estratégias Remotas à Avaliação de Interfaces de Usuário</b></li>
+	<ul>
+		<li>Amanda Melo (Universidade Federal do Pampa - Brazil)</li>
+		<li>Ícaro Crespo (Universidade Federal do Pampa - Brazil)</li>
+		<li>Amanda de Oliveira (Universidade Federal do Pampa - Brazil)</li>
+		<li>Gabriela Córdova Medeiros (Universidade Federal do Pampa - Brazil)</li>
+	</ul>
+
+<li><b>Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas</b></li>
+	<ul>
+		<li>Luis Tabile (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)
+		<li>Fabrícia Roos-Frantz (Universidade do Noroeste do Estado do Rio Grande do Sul - Brazil)</li>		
+	</ul>
 	
-	<!--
-	
-Search-based Test Data Generation for Mutation Testing: a tool for Python programs	"Matheus Moreira Ferreira (Universidade Tecnológica Federal do Paraná - Brazil),
-Lincoln Costa (Universidade Federal do Rio de Janeiro - Brazil),
-Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)"
-Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos	"Andrea Bordin (Universidade Federal do Pampa - Brazil),
-Maurício Escobar (Instituto Federal Farroupilha Alegrete - -- Select Country --),
-Alex Severo Chervenski (Universidade Federal do Pampa - Brazil)"
-Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo	"Bruno Ferreira (Universidade Federal do Pampa - Brazil),
-Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
-Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil),
-Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil),
-Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)"
-Usando o teste ponta a ponta para garantia de confiabilidade de um Sistema Integrado de Gestão: uma prova de conceito	"Yury Lima (Universidade Federal do Pampa (UNIPAMPA) - Brazil),
-Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil),
-Rafael Paes Oliveira (UTFPR - Brazil),
-Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)"
-Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná	"Matheus Rehbein (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil),
-Rafael Frantz (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil)"
-Aplicação da Ferramenta Google Colaboratory para o Ensino da Linguagem Python	Martony Silva (Universidade Federal do Piaui - Brazil)
-The Use of Design Thinking in a Global Information Technology Company	"Gabriel Kryvoruchca (PUCRS - Brazil),
-Lauriane Corrêa (PUCRS - Brazil),
-Rafael Parizi (Instituto Federal Farroupilha - Brazil),
-Sabrina Marczak (PUCRS - Brazil)"
-Impacto das Avaliações de Interface na qualidade de um Software Previdenciário	"Douglas Pozzolo (Universidade Federal de Mato Grosso - Brazil),
-Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil),
-Raphael Gomes (Universidade Federal de Mato Grosso - Brazil)"
-Business Intelligence com Qlik Sense aplicado ao Radar Saúde	"Leander Alves (UFMT - Brazil),
-Joyce Aline Marins (Universidade Federal de Mato Grosso - Brazil),
-Marcelo Takao Tanaka (TCEMT - Brazil),
-Jeison Santos (UFMT - -- Select Country --),
-Vanice Cunha (Universidade Federal de Mato Grosso - Brazil),
-Cristiano Maciel (Universidade Federal de Mato Grosso - UFMT - Brazil)"
-Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de Software: uma análise no período de pandemia	"Flavia Barbosa (Universidade Federal do Pampa - Brazil),
-Ícaro Crespo (Universidade Federal do Pampa - Brazil),
-Lucas Augusto Guterres Garais (Universidade Federal do Pampa - Brazil),
-Andrea Bordin (Universidade Federal do Pampa - Brazil)"
-Estratégias Remotas à Avaliação de Interfaces de Usuário	"Amanda Melo (Universidade Federal do Pampa - Brazil),
-Ícaro Crespo (Universidade Federal do Pampa - Brazil),
-Amanda de Oliveira (Universidade Federal do Pampa - Brazil),
-Gabriela Córdova Medeiros (Universidade Federal do Pampa - Brazil)"
-Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas	"Luis Tabile (Universidade Regional do Noroeste do Estado do Rio Grande do Sul - Brazil),
-Fabrícia Roos-Frantz (Universidade do Noroeste do Estado do Rio Grande do Sul - Brazil)"
 
-
--->
  
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
