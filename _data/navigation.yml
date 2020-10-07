@@ -10,6 +10,10 @@
   url: "/chamada/"
   side: left  
   
+ - title: Artigos Aceitos
+  url: "/aceitos/"
+  side: left  
+
 #- title: "Palestras e Minicursos"
 - title: "Palestras"
   url: ""
