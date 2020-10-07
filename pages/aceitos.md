@@ -246,9 +246,9 @@ header:
 <li><b>Systematic Literature Review on Web Performance Testing</b></li>
 	<ul>		
 		<li>Guilherme Legramante (Universidade Federal do Pampa)</li>		
-		Maicon Bernardino (Universidade Federal do Pampa (Unipampa))</li>		
-		Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete)</li>		
-		Fábio Basso (Universidade Federal do Pampa (Unipampa))</li>		
+		<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa))</li>		
+		<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete)</li>		
+		<li>Fábio Basso (Universidade Federal do Pampa (Unipampa))</li>		
 	</ul>
 
 <li><b>Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b></li>
