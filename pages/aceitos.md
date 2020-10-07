@@ -218,6 +218,27 @@ header:
 	</ul>
 	
 
+
+<h2>Fórum de Pós-Graduação</h2>
+
+
+
+
+
+<h2>Trilha da Indústria</h2>
+
+
+<li><b>Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b></li>
+	<ul>
+		<li>Bruno Cavalcante (UEM)</li>
+		<li>Liandra Jesus (UEM)</li>
+		<li>Gislaine Camila Leal (Universidade Estadual de Maringá)</li>
+		<li>Renato Balancieri (Universidade Estadual do Paraná)</li>
+		<li>Ivaldir Junior (Universidade de Pernambuco - UPE)</li>
+	</ul>
+
+
+
  
 <div class="row t30">	
 	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
