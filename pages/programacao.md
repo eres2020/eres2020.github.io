@@ -102,13 +102,20 @@ header:
 </ul>
 
 
-<b>SESSÃO TÉCNICA 5:</b> <i>??????</i> <br>
+
+<b>SESSÃO TÉCNICA 5:</b> <i>Teste de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>13:30</b> - <b>[PG] Systematic Literature Review on Web Performance Testing</b> <br>
+		<b>Autores:</b> <i> Guilherme Legramante (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Elder Rodrigues (UNIPAMPA), Fábio Basso (UNIPAMPA)</i></li>			
+		
+	<li><b>13:50</b> - <b>[Gr] Search-based Test Data Generation for Mutation Testing: a tool for Python programs</b> <br>
+		<b>Autores:</b> <i> Matheus Moreira Ferreira (UTFPR), Lincoln Costa (UFRJ), Francisco Carlos Souza (UTFPR)</i></li>
+				
+	<li><b>14:10</b> - <b>[Gr] Usando o teste ponta a ponta para garantia de confiabilidade de um Sistema Integrado de Gestão: uma prova de conceito</b> <br>
+		<b>Autores:</b> <i> Yury Lima (UNIPAMPA), Elder Rodrigues (UNIPAMPA), Rafael Paes Oliveira (UTFPR), Maicon Bernardino (UNIPAMPA)</i></li>			
 </ul>
+
 
 <b>SESSÃO TÉCNICA 6:</b> <i>??????</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
