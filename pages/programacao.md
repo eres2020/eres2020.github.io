@@ -28,7 +28,7 @@ header:
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> - <b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (Unipampa), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (Unipampa)</i></li>			
+	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> <br> <b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (Unipampa), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (Unipampa)</i></li>			
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
