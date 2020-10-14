@@ -20,17 +20,25 @@ header:
 
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
-<!--[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR
-[Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText
-[PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style
+<!--
+
+[PG] 
 -->	
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> <br> <b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (Unipampa), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (Unipampa)</i></li>			
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> <br>
+		<b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (UNIPAMPA), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i></li>			
+	
+	<li><b>10:50</b> - <b>[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b> <br>
+		<b>Autores:</b> <i> Tamires Deprá (UEM), Aline Amaral (UEM), Douglas Tanno (UEM)</i></li>
+		
+	<li><b>11:20</b> - <b>[Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b> <br>
+		<b>Autores:</b> <i> Jaqueline Moura (UNIPAMPA), Natiele Lucca (UNIPAMPA), Fábio Basso (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>		
+		
+	<li><b>11:40</b> - <b>[PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style</b> <br>
+		<b>Autores:</b> <i> Daniele Wolfart (UTFPR), Ederson Schmeing (UNIOESTE), Gustavo C. L. Geraldino (UNIOESTE), Guilherme L. D. Villaca (UNIOESTE), Diogo do N. Paza (UNIOESTE), Diogo C. P. Domingos (UNIOESTE), Wesley Assunção (UTFPR), Ivonei Freitas Silva (UNIOESTE)</i></li>				
 </ul>
 
 
