@@ -18,6 +18,8 @@ header:
 
 <hr>
 
+Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indústria = [IN]
+
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
