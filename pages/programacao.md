@@ -56,12 +56,20 @@ header:
 </ul>
 
 
-<b>SESSÃO TÉCNICA 3:</b> <i>?????</i> <br>
+<b>SESSÃO TÉCNICA 3:</b> <i>Ensino de Engenharia de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>15:30</b> - <b>[Gr] Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto</b> <br>
+		<b>Autores:</b> <i> Pedro Azevedo (UTFPR), Vinicius Vieira (UTFPR), Alinne Souza (UTFPR), Francisco Carlos Souza (UTFPR)</i></li>			
+	
+	<li><b>15:50</b> - <b>[Gr] Aplicação da Ferramenta Google Colaboratory para o Ensino da Linguagem Python</b> <br>
+		<b>Autores:</b> <i> Martony Silva (UFPI)</i></li>
+		
+	<li><b>16:10</b> - <b>[Gr] Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de Software: uma análise no período de pandemia</b> <br>
+		<b>Autores:</b> <i> Flavia Barbosa (UNIPAMPA), Ícaro Crespo (UNIPAMPA), Lucas Augusto Guterres Garais (UNIPAMPA), Andrea Bordin (UNIPAMPA)</i></li>		
+				
+	<li><b>16:30</b> - <b>[PG] Políticas de Gerência de Configuração de Software para Grupos de Pesquisa</b> <br>
+		<b>Autores:</b> <i> Felipe Silva (UEM), Aline Amaral (UEM), Thelma Colanzi (UEM)</i></li>	
 </ul>
 
 <b>SESSÃO TÉCNICA 4:</b> <i>??????</i> <br>
