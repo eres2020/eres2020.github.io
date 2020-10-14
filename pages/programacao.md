@@ -97,9 +97,9 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
 	<li><b>10:30</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li>
-	<li><b>10:45</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
-	<li><b>11:00</b> - <i>título</i> - <b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
-	<li><b>11:15</b> - <i>título</i> - <b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li>
+	<li><b>10:45</b> - <i>Impactos da COVID-19 no desenvolvimento de software no Brasil</i> - <b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
+	<li><b>11:00</b> - <i>Como a COVID-19 afeta desenvolvedores de software e como suas organizações podem ajudar</i> - <b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
+	<li><b>11:15</b> - <i>Experiências da diferença de gênero na Engenharia de Software durante a crise de COVID-19</i> - <b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li>
 	<li><b>11:30</b> - <i>Debate sobre os resultados</i></li>
 </ul>
 
