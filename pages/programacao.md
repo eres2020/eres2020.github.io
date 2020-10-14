@@ -164,15 +164,19 @@ header:
 	<li><b>11:30</b> - <b>[IN] Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b> <br>
 		<b>Autores:</b> <i> Bruno Cavalcante (UEM), Liandra Jesus (UEM), Gislaine Camila Leal (UEM), Renato Balancieri (UNESPAR), Ivaldir Junior (UPE)</i></li>
 </ul>
+	
 
-
-
-<b>SESSÃO TÉCNICA 9:</b> <i>??????</i> <br>
+<b>SESSÃO TÉCNICA 9:</b> <i>Linhas de Produto de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>13:30</b> - <b>[PG] Modeling and Configuring UML-based Software Product Lines with SMartyModeling</b> <br>
+		<b>Autores:</b> <i> Leandro Silva (UEM), Edson OliveiraJr (UEM)</i></li>					
+	
+	<li><b>13:50</b> - <b>[Gr] [Gr] Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios</b> <br>
+		<b>Autores:</b> <i> Leandro Silva (UEM), Bruno Fernandes (UEM), Edson OliveiraJr (UEM)</i></li>
+		
+	<li><b>14:10</b> - <b>[Gr] Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto</b> <br>
+		<b>Autores:</b> <i> Narcizo Gabriel Freitas Palioto (UEM), Thelma Colanzi (UEM)</i></li>			
 </ul>
 
 <b>SESSÃO TÉCNICA 10:</b> <i>??????</i> <br>
