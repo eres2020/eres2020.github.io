@@ -142,7 +142,7 @@ header:
 		<b>Autores:</b> <i> Jonnathan Lopes (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Fábio Basso (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>			
 	
 	<li><b>17:20</b> - <b>[Gr] Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná</b> <br>
-		<b>Autores:</b> <i> Matheus Rehbein (Unijuí), Rafael Frantz (Unijuí)</i></li></ul>
+		<b>Autores:</b> <i> Matheus Rehbein (Unijuí), Rafael Frantz (Unijuí)</i></li>
 </ul>		
 
 <hr>
@@ -156,13 +156,13 @@ header:
 		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Luan Gonçalves (UFSJ)</i></li>			
 	
 	<li><b>10:50</b> - <b>[Gr] Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b> <br>
-		<b>Autores:</b> <i> Andrea Bordin (UNIPAMPA), Maurício Escobar (IF Farroupilha), Alex Severo Chervenski (UNIPAMPA)</i></li></ul>
+		<b>Autores:</b> <i> Andrea Bordin (UNIPAMPA), Maurício Escobar (IF Farroupilha), Alex Severo Chervenski (UNIPAMPA)</i></li>
 		
 	<li><b>11:10</b> - <b>[Gr] Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo</b> <br>
 		<b>Autores:</b> <i> Bruno Ferreira (UNIPAMPA), Fábio Basso (UNIPAMPA), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i></li>			
 	
 	<li><b>11:30</b> - <b>[IN] Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b> <br>
-		<b>Autores:</b> <i> Bruno Cavalcante (UEM), Liandra Jesus (UEM), Gislaine Camila Leal (UEM), Renato Balancieri (UNESPAR), Ivaldir Junior (UPE)</i></li></ul>
+		<b>Autores:</b> <i> Bruno Cavalcante (UEM), Liandra Jesus (UEM), Gislaine Camila Leal (UEM), Renato Balancieri (UNESPAR), Ivaldir Junior (UPE)</i></li>
 </ul>
 
 
