@@ -172,19 +172,28 @@ header:
 	<li><b>13:30</b> - <b>[PG] Modeling and Configuring UML-based Software Product Lines with SMartyModeling</b> <br>
 		<b>Autores:</b> <i> Leandro Silva (UEM), Edson OliveiraJr (UEM)</i></li>					
 	
-	<li><b>13:50</b> - <b>[Gr] [Gr] Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios</b> <br>
+	<li><b>13:50</b> - <b>[Gr] Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios</b> <br>
 		<b>Autores:</b> <i> Leandro Silva (UEM), Bruno Fernandes (UEM), Edson OliveiraJr (UEM)</i></li>
 		
 	<li><b>14:10</b> - <b>[Gr] Configuração de Algoritmos Genéticos Multiobjetivos para Otimização de Projeto de Arquitetura de Linha de Produto</b> <br>
 		<b>Autores:</b> <i> Narcizo Gabriel Freitas Palioto (UEM), Thelma Colanzi (UEM)</i></li>			
 </ul>
 
-<b>SESSÃO TÉCNICA 10:</b> <i>??????</i> <br>
+
+<b>SESSÃO TÉCNICA 10:</b> <i>Requisitos de Software e IHC</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>15:30</b> - <b>[Gr] Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b> <br>
+		<b>Autores:</b> <i> Guilherme Legramante (UNIPAMPA), Maicon Bernardino (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>					
+	
+	<li><b>15:50</b> - <b>[Gr] Business Intelligence com Qlik Sense aplicado ao Radar Saúde</b> <br>
+		<b>Autores:</b> <i> Leander Alves (UFMT), Joyce Aline Marins (UFMT), Marcelo Takao Tanaka (TCEMT), Jeison Santos (UFMT), Vanice Cunha (UFMT), Cristiano Maciel (UFMT)</i></li>
+		
+	<li><b>16:10</b> - <b>[Gr] Impacto das Avaliações de Interface na qualidade de um Software Previdenciário</b> <br>
+		<b>Autores:</b> <i> Douglas Pozzolo (UFMT), Cristiano Maciel (UFMT), Raphael Gomes (UFMT)</i></li>			
+		
+	<li><b>16:30</b> - <b>[Gr] Estratégias Remotas à Avaliação de Interfaces de Usuário</b> <br>
+		<b>Autores:</b> <i> Amanda Melo (UNIPAMPA), Ícaro Crespo (UNIPAMPA), Amanda de Oliveira (UNIPAMPA), Gabriela Córdova Medeiros (UNIPAMPA)</i></li>					
 </ul>
 
 
