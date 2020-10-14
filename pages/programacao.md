@@ -20,11 +20,10 @@ header:
 
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
-
-[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR
+<!--[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR
 [Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText
 [PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style
-
+-->
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
