@@ -23,12 +23,12 @@ header:
 <!--[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR
 [Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText
 [PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style
--->
+-->	
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <i>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</i> - <b>Autores:</b> Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (Unipampa), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (Unipampa)</li>			
+	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> - <b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (Unipampa), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (Unipampa)</i></li>			
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
 </ul>
