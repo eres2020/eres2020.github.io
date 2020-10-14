@@ -72,12 +72,19 @@ header:
 		<b>Autores:</b> <i> Felipe Silva (UEM), Aline Amaral (UEM), Thelma Colanzi (UEM)</i></li>	
 </ul>
 
-<b>SESSÃO TÉCNICA 4:</b> <i>??????</i> <br>
+
+
+<b>SESSÃO TÉCNICA 4:</b> <i>Manutenção de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>17:00</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>15:30</b> - <b>[Gr] RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b> <br>
+		<b>Autores:</b> <i> Douglas Giordano (UNIPAMPA), Arthur Becker (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA)</i></li>			
+	
+	<li><b>15:50</b> - <b>[Gr] Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático</b> <br>
+		<b>Autores:</b> <i> Kaliane Viesseli (UTFPR), Arielyn Silva (UTFPR), Gustavo Santos (UTFPR)</i></li>
+		
+	<li><b>16:10</b> - <b>[Gr] Avaliação de Dependências no Desenvolvimento de Sistemas</b> <br>
+		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Carlos Barbosa (UFSJ)</i></li>			
 </ul>
 
 <hr>
