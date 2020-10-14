@@ -20,11 +20,6 @@ header:
 
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
-<!--
-
-[PG] 
--->	
-
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
@@ -34,20 +29,30 @@ header:
 	<li><b>10:50</b> - <b>[Gr] Estudo Exploratório Sobre o Uso da Arquitetura de Microsserviços em Empresas da Cidade de Maringá-PR</b> <br>
 		<b>Autores:</b> <i> Tamires Deprá (UEM), Aline Amaral (UEM), Douglas Tanno (UEM)</i></li>
 		
-	<li><b>11:20</b> - <b>[Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b> <br>
+	<li><b>11:10</b> - <b>[Gr] Explorando o Refinamento de uma DSL para Versões Baseadas em EMF, Eclipse Sirius e XText</b> <br>
 		<b>Autores:</b> <i> Jaqueline Moura (UNIPAMPA), Natiele Lucca (UNIPAMPA), Fábio Basso (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>		
 		
-	<li><b>11:40</b> - <b>[PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style</b> <br>
+	<li><b>11:30</b> - <b>[PG] Towards a Process for Migrating Legacy Systems into Microservices Architectural Style</b> <br>
 		<b>Autores:</b> <i> Daniele Wolfart (UTFPR), Ederson Schmeing (UNIOESTE), Gustavo C. L. Geraldino (UNIOESTE), Guilherme L. D. Villaca (UNIOESTE), Diogo do N. Paza (UNIOESTE), Diogo C. P. Domingos (UNIOESTE), Wesley Assunção (UTFPR), Ivonei Freitas Silva (UNIOESTE)</i></li>				
 </ul>
 
 
-<b>SESSÃO TÉCNICA 2:</b> <i>?????</i> <br>
+
+<b>SESSÃO TÉCNICA 2:</b> <i>Desenvolvimento</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>13:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+
+	<li><b>13:30</b> - <b>[Gr] Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático</b> <br>
+		<b>Autores:</b> <i> Rafael Torres (UNIPAMPA), Bruno Ferreira (UNIPAMPA), Fábio Basso (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Elder Rodrigues (UNIPAMPA), Marcelo Thielo (UNIPAMPA)</i></li>			
+	
+	<li><b>13:50</b> - <b>[Gr] Algoritmo para Cálculo da Similaridade Semântica entre Nomes de Conferências Cadastradas no Curriculum Lattes e na Base Qualis</b> <br>
+		<b>Autores:</b> <i> Rafael Soares (Unijuí), Rafael Frantz (Unijuí)</i></li>
+		
+	<li><b>14:10</b> - <b>[Gr] Modelagem da Solução de integração Café por meio de Rede de Petri Coloridas</b> <br>
+		<b>Autores:</b> <i> Luis Tabile (Unijuí), Fabrícia Roos-Frantz (Unijuí)</i></li>		
+		
+	<li><b>14:30</b> - <b>[PG] Uso de Algoritmo Baseado na Meta-heurística PSO para Configuração do Pool de Threads em Motores de Execução de Plataformas de Integração de Aplicações</b> <br>
+		<b>Autores:</b> <i> Maira Brigo (Unijuí), Daniela Sellaro (Unijuí), Rafael Frantz (Unijuí)</i></li>	
 </ul>
 
 
