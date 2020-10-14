@@ -149,13 +149,23 @@ header:
 
 <h3>Sexta-Feira - 13/Nov/2020</h3>
 
-<b>SESSÃO TÉCNICA 8:</b> <i>??????</i> <br>
+<b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>10:30</b> - <b>[PG] Do Harpia ao Mosaicode a Evolução de um Ambiente de Programação Visual</b> <br>
+		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Luan Gonçalves (UFSJ)</i></li>			
+	
+	<li><b>10:50</b> - <b>[Gr] Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b> <br>
+		<b>Autores:</b> <i> Andrea Bordin (UNIPAMPA), Maurício Escobar (IF Farroupilha), Alex Severo Chervenski (UNIPAMPA)</i></li></ul>
+		
+	<li><b>11:10</b> - <b>[Gr] Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo</b> <br>
+		<b>Autores:</b> <i> Bruno Ferreira (UNIPAMPA), Fábio Basso (UNIPAMPA), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i></li>			
+	
+	<li><b>11:30</b> - <b>[IN] Práticas e Ferramentas Utilizadas em Startups de Software Paranaenses: Um Estudo Exploratório</b> <br>
+		<b>Autores:</b> <i> Bruno Cavalcante (UEM), Liandra Jesus (UEM), Gislaine Camila Leal (UEM), Renato Balancieri (UNESPAR), Ivaldir Junior (UPE)</i></li></ul>
 </ul>
+
+
 
 <b>SESSÃO TÉCNICA 9:</b> <i>??????</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
