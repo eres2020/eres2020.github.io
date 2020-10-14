@@ -133,13 +133,17 @@ header:
 		<b>Autores:</b> <i> Luciano Garcia (UEM), Edson OliveiraJr (UEM), Gislaine Camila Leal (UEM), Marcelo Morandini (USP)</i></li>
 </ul>
 
-<b>SESSÃO TÉCNICA 7:</b> <i>??????</i> <br>
+
+
+<b>SESSÃO TÉCNICA 7:</b> <i>Linguagens e Inteligência Artificial</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>17:00</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-</ul>
+	<li><b>17:00</b> - <b>[PG] Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b> <br>
+		<b>Autores:</b> <i> Jonnathan Lopes (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Fábio Basso (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>			
+	
+	<li><b>17:20</b> - <b>[Gr] Avaliação de Deep Learning para Predição de Mensagens Processadas pela Plataforma de Integração Guaraná</b> <br>
+		<b>Autores:</b> <i> Matheus Rehbein (Unijuí), Rafael Frantz (Unijuí)</i></li></ul>
+</ul>		
 
 <hr>
 
