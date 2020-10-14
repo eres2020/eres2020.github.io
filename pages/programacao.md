@@ -77,13 +77,13 @@ header:
 <b>SESSÃO TÉCNICA 4:</b> <i>Manutenção de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>15:30</b> - <b>[Gr] RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b> <br>
+	<li><b>17:00</b> - <b>[Gr] RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b> <br>
 		<b>Autores:</b> <i> Douglas Giordano (UNIPAMPA), Arthur Becker (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA)</i></li>			
 	
-	<li><b>15:50</b> - <b>[Gr] Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático</b> <br>
+	<li><b>17:20</b> - <b>[Gr] Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeamento Sistemático</b> <br>
 		<b>Autores:</b> <i> Kaliane Viesseli (UTFPR), Arielyn Silva (UTFPR), Gustavo Santos (UTFPR)</i></li>
 		
-	<li><b>16:10</b> - <b>[Gr] Avaliação de Dependências no Desenvolvimento de Sistemas</b> <br>
+	<li><b>17:40</b> - <b>[Gr] Avaliação de Dependências no Desenvolvimento de Sistemas</b> <br>
 		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Carlos Barbosa (UFSJ)</i></li>			
 </ul>
 
