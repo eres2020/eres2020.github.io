@@ -117,12 +117,20 @@ header:
 </ul>
 
 
-<b>SESSÃO TÉCNICA 6:</b> <i>??????</i> <br>
+<b>SESSÃO TÉCNICA 6:</b> <i>Processo de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>15:30</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
-	<li><b>xx:xx</b> - <i>título</i> - <b>Autores:</b> xxx, yyy, zzz</li>
+	<li><b>15:30</b> - <b>[Gr] Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b> <br>
+		<b>Autores:</b> <i> Márcio Vitor dos Santos (UTFPR), Wesley Assunção (UTFPR), Ivonei Freitas Silva (UNIOESTE)</i></li>			
+		
+	<li><b>15:50</b> - <b>[Gr] Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso</b> <br>
+		<b>Autores:</b> <i> Thales Dal Molim (UTFPR), Francisco Carlos Souza (UTFPR)</i></li>
+		
+	<li><b>16:10</b> - <b>[Gr] The Use of Design Thinking in a Global Information Technology Company</b> <br>
+		<b>Autores:</b> <i> Gabriel Kryvoruchca (PUCRS), Lauriane Corrêa (PUCRS), Rafael Parizi (IF Farroupilha), Sabrina Marczak (PUCRS)</i></li>			
+	
+	<li><b>16:30</b> - <b>[PG] A Unified Feature Model for Scrum Artifacts from a Literature and Practice Perspective</b> <br>
+		<b>Autores:</b> <i> Luciano Garcia (UEM), Edson OliveiraJr (UEM), Gislaine Camila Leal (UEM), Marcelo Morandini (USP)</i></li>
 </ul>
 
 <b>SESSÃO TÉCNICA 7:</b> <i>??????</i> <br>
