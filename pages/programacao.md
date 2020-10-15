@@ -20,6 +20,8 @@ header:
 
 Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indústria = [IN]
 
+<hr>
+
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
 <b>PALESTRA A:</b> <i>Compreendendo as Novas Perspectivas da Melhoria de Processos: As Novas Versões do CMMI e do MPS-SW</i> <br>
