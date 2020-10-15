@@ -108,7 +108,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
-	<li><b>10:30</b> - <b>título</b> <br> 
+	<li><b>10:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
 		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
 		
 	<li><b>10:45</b> - <b>Impactos da COVID-19 no desenvolvimento de software no Brasil</b> <br>
