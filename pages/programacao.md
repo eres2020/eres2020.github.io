@@ -23,8 +23,8 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
 <b>PALESTRA A:</b> <i>Compreendendo as Novas Perspectivas da Melhoria de Processos: As Novas Versões do CMMI e do MPS-SW</i> <br>
-<b>Palestrante:</b> Profa Dra Ana Regina Cavalcanti da Rocha (COPPE/UFRJ) <br>
-<b>Horário:</b> 8:45 as 10:15
+<b>Palestrante:</b> Profa. Dra. Ana Regina Cavalcanti da Rocha (COPPE/UFRJ) <br>
+<b>Horário:</b> 8:45 às 10:15
 
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
@@ -98,6 +98,11 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 <h3>Quinta-Feira - 12/Nov/2020</h3>
 
+<b>PALESTRA B:</b> <i>Testes de Software e Transformação Digital</i> <br>
+<b>Palestrante:</b> Alan Gularte (Dell)<br>
+<b>Horário:</b> 8:45 às 10:15
+
+
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
@@ -163,6 +168,10 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <hr>
 
 <h3>Sexta-Feira - 13/Nov/2020</h3>
+
+<b>PALESTRA C:</b> <i>1000 em 10: A Experiência do Tecnopuc na Geração de Startups</i> <br>
+<b>Palestrante:</b> Prof. Me. Leandro Bento Pompermaier (Tecnopuc/PUCRS)<br>
+<b>Horário:</b> 8:45 às 10:15
 
 <b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
