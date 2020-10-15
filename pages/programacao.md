@@ -22,6 +22,11 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 <h3>Quarta-Feira - 11/Nov/2020</h3>
 
+<b>PALESTRA A:</b> <i>Compreendendo as Novas Perspectivas da Melhoria de Processos: As Novas Versões do CMMI e do MPS-SW</i> <br>
+<b>Palestrante:</b> Profa Dra Ana Regina Cavalcanti da Rocha (COPPE/UFRJ) <br>
+<b>Horário:</b> 8:45 as 10:15
+
+
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
 <b>Chair:</b> Prof. Dr. xxx
 <ul>
