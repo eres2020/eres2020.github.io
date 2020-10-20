@@ -30,7 +30,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Profa. Dra. Aline M. M. M. Amaral (UEM)
 <ul>
 	<li><b>10:30</b> - <b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapeamento Sistemático</b> <br>
 		<b>Autores:</b> <i>Bruno Ferreira (UNIPAMPA), Rafael Torres (UNIPAMPA), Fábio Basso (UNIPAMPA), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i></li>			
@@ -66,7 +66,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 3:</b> <i>Ensino de Engenharia de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Andre Menolli (UENP)
 <ul>
 	<li><b>15:30</b> - <b>[Gr] Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto</b> <br>
 		<b>Autores:</b> <i> Pedro Azevedo (UTFPR), Vinicius Vieira (UTFPR), Alinne Souza (UTFPR), Francisco Carlos Souza (UTFPR)</i></li>			
@@ -84,7 +84,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 4:</b> <i>Manutenção de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Renato Balancieri (UNESPAR)
 <ul>
 	<li><b>17:00</b> - <b>[Gr] RecorDS (Recognizer Diagram Sketch): Um Aplicativo para Extracão de Diagramas UML</b> <br>
 		<b>Autores:</b> <i> Douglas Giordano (UNIPAMPA), Arthur Becker (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA)</i></li>			
@@ -106,7 +106,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Edson OliveiraJr (UEM)
 <ul>
 	<li><b>10:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
 		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
@@ -126,7 +126,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 5:</b> <i>Teste de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Adilson Bonifácio (UEL)
 <ul>
 	<li><b>13:30</b> - <b>[PG] Systematic Literature Review on Web Performance Testing</b> <br>
 		<b>Autores:</b> <i> Guilherme Legramante (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Elder Rodrigues (UNIPAMPA), Fábio Basso (UNIPAMPA)</i></li>			
@@ -140,7 +140,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 6:</b> <i>Processo de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Profa. Dra. Thelma Colanzi (UEM)
 <ul>
 	<li><b>15:30</b> - <b>[Gr] Engenharia de Software em Empresas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b> <br>
 		<b>Autores:</b> <i> Márcio Vitor dos Santos (UTFPR), Wesley Assunção (UTFPR), Ivonei Freitas Silva (UNIOESTE)</i></li>			
@@ -193,7 +193,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 	
 
 <b>SESSÃO TÉCNICA 9:</b> <i>Linhas de Produto de Software</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Wesley Assunção (UTFPR-Toledo)
 <ul>
 	<li><b>13:30</b> - <b>[PG] Modeling and Configuring UML-based Software Product Lines with SMartyModeling</b> <br>
 		<b>Autores:</b> <i> Leandro Silva (UEM), Edson OliveiraJr (UEM)</i></li>					
