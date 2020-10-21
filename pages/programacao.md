@@ -185,7 +185,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Luan Gonçalves (UFSJ)</i></li>			
 	
 	<li><b>10:50</b> - <b>[Gr] Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</b> <br>
-		<b>Autores:</b> <i> Andrea Bordin (UNIPAMPA), Maurício Escobar (IF Farroupilha), Alex Severo Chervenski (UNIPAMPA)</i></li>
+		<b>Autores:</b> <i> Maurício dos Santos Escobar (UNIPAMPA), Alex Severo Chervenski (UNIPAMPA), Andréa Sabedra Bordin (UNIPAMPA)</i></li>
 		
 	<li><b>11:10</b> - <b>[Gr] Investigando a Integração de Ferramentas com OSLC através do Eclipse Lyo</b> <br>
 		<b>Autores:</b> <i> Bruno Ferreira (UNIPAMPA), Fábio Basso (UNIPAMPA), Rafael Frantz (Unijuí), Elder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i></li>			
