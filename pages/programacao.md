@@ -160,7 +160,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 7:</b> <i>Linguagens e Inteligência Artificial</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Fernando dos Santos (UDESC)
 <ul>
 	<li><b>17:00</b> - <b>[PG] Avaliação Preliminar de uma Linguagem para a Representação Textual de Modelos Conceituais de Bancos de Dados Relacionais</b> <br>
 		<b>Autores:</b> <i> Jonnathan Lopes (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Fábio Basso (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>			
