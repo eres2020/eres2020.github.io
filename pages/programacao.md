@@ -109,18 +109,18 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
 <b>Chair:</b> Prof. Dr. Edson OliveiraJr (UEM)
-<ul>
-	<li><b>10:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
-		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
-		
-	<li><b>10:45</b> - <b>Impactos da COVID-19 no desenvolvimento de software no Brasil</b> <br>
+<ul>	
+	<li><b>10:30</b> - <b>Impactos da COVID-19 no desenvolvimento de software no Brasil</b> <br>
 		<b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
 		
-	<li><b>11:00</b> - <b>Como a COVID-19 afeta desenvolvedores de software e como suas organizações podem ajudar</b> <br>
+	<li><b>10:45</b> - <b>Como a COVID-19 afeta desenvolvedores de software e como suas organizações podem ajudar</b> <br>
 		<b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
 		
-	<li><b>11:15</b> - <b>Experiências da diferença de gênero na Engenharia de Software durante a crise de COVID-19</b> <br>
+	<li><b>11:00</b> - <b>Experiências da diferença de gênero na Engenharia de Software durante a crise de COVID-19</b> <br>
 		<b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li>
+		
+	<li><b>11:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
+		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
 		
 	<li><b>11:30</b> - <i>Debate sobre os resultados</i></li>
 </ul>
