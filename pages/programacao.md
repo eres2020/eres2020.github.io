@@ -210,7 +210,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 10:</b> <i>Requisitos de Software e IHC</i> <br>
-<b>Chair:</b> Profa. Dra. Kátia Felizardo (UTFPR-CP)
+<b>Chair:</b> Profa. Dra. Katia R. Felizardo (UTFPR-CP)
 <ul>
 	<li><b>15:30</b> - <b>[Gr] Controlled Experiment in Crosscutting Concerns Identification from Software Requirements Specification</b> <br>
 		<b>Autores:</b> <i> Guilherme Legramante (UNIPAMPA), Maicon Bernardino (UNIPAMPA), João Pablo S. da Silva (UNIPAMPA), Elder Rodrigues (UNIPAMPA)</i></li>					
