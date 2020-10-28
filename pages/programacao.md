@@ -49,7 +49,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 
 
 <b>SESSÃO TÉCNICA 2:</b> <i>Desenvolvimento</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. André Endo (UTFPR-CP)
 <ul>
 
 	<li><b>13:30</b> - <b>[Gr] Investigando Técnicas de Recomendação de Assets Híbridos de Software: Um Mapeamento Sistemático</b> <br>
