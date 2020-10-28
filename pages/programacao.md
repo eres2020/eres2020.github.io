@@ -179,7 +179,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>Anfitriã:</b>  Profa. Dra. Gislaine Camila L. Leal (UEM)
 
 <b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
-<b>Chair:</b> Prof. Dr. xxx
+<b>Chair:</b> Prof. Dr. Maicon Bernardino (UNIPAMPA)
 <ul>
 	<li><b>10:30</b> - <b>[PG] Do Harpia ao Mosaicode a Evolução de um Ambiente de Programação Visual</b> <br>
 		<b>Autores:</b> <i> Flávio Schiavoni (UFSJ), Luan Gonçalves (UFSJ)</i></li>			
