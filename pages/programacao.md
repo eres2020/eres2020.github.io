@@ -114,7 +114,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 		<b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
 		
 	<li><b>10:45</b> - <b>Efeitos dos fatores humanos e organizacionais na produtividade dos times de software em ambiente pandêmico</b> <br>
-		<b>Apresentadora:</b> Profa. Dra. Carla Bezerra (UFCE)</li>
+		<b>Apresentadora:</b> Profa. Dra. Carla Bezerra (UFC-Quixadá)</li>
 
 	<li><b>11:00</b> - <b>Como a COVID-19 afeta desenvolvedores de software e como suas organizações podem ajudar</b> <br>
 		<b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
