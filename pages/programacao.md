@@ -27,7 +27,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>PALESTRA A:</b> <i>Compreendendo as Novas Perspectivas da Melhoria de Processos: As Novas Versões do CMMI e do MPS-SW</i> <br>
 <b>Palestrante:</b> Profa. Dra. Ana Regina Cavalcanti da Rocha (COPPE/UFRJ) <br>
 <b>Horário:</b> 8:45 às 10:15<br>
-<b>Anfitriã:</b>  Profa. Dra. Sheila Reinehr (PUCPR)
+<b>Anfitriã:</b>  Profa. Dra. Itana Gimenes (Diretora de Educação da SBC)
 
 
 <b>SESSÃO TÉCNICA 1:</b> <i>Arquitetura de Software</i> <br>
