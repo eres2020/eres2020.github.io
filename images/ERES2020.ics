@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ERES2020
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:Programação da ERES 2020\nMais detalhes em eres.sbc.org.br
+BEGIN:VEVENT
+DTSTART:20201113T200000Z
+DTEND:20201113T210000Z
+DTSTAMP:20201106T001836Z
+UID:0f2s47ere1v5u18huedll9kjgn@google.com
+CREATED:20201013T212926Z
+DESCRIPTION:
+LAST-MODIFIED:20201013T212926Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Encerramento e Premiações
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201111
+DTEND;VALUE=DATE:20201114
+DTSTAMP:20201106T001836Z
+UID:5gj6upnbkq1eqomb1puhj5g117@google.com
+CREATED:20201013T212940Z
+DESCRIPTION:
+LAST-MODIFIED:20201013T212940Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ERES 2020
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201113T114500Z
+DTEND:20201113T131500Z
+DTSTAMP:20201106T001836Z
+UID:4lqujfl2qm6o9kffgnb3ha7cj8@google.com
+CREATED:20201013T212658Z
+DESCRIPTION:<h4>Título: 1000 em 10: A Experiência do Tecnopuc na Geração de
+  Startups (Palestra C)</h4><br><b>Data:</b>&nbsp\;13/11/2020 (Sexta-Feira)<
+ br><b>Hora:</b>&nbsp\;08h:45m - 10h:15m (1\,5 horas)<br><br><p><b>Resumo:</
+ b>&nbsp\;A palestra mostrará como a intenção estratégica do Tecnopuc (1000 
+ negócios inovadores em 10 anos) impacta nas ações de empreendedorismo na un
+ iversidade (PUCRS). Será apresentada a mudança organizacional do Tecnopuc p
+ ara englobar tal estratégia e\, dentro deste contexto\, os programas de des
+ envolvimento de startups\, direcionados para toda a jornada do empreendedor
+ \, serão apresentados e detalhados.<br><br></p><p><b>Bio:</b>&nbsp\;Leandro
+  é co-fundador da e-Core\, empresa de software que atua globalmente\, com e
+ scritórios no Brasil\, México e EUA. Co-fundador da Adoy Invest\, startup q
+ ue mescla Inteligência Artificial e lógica de fundos de investimentos no mu
+ ndo das criptomoedas. Professor da PUCRS com mais de 20 anos de experiência
+  e líder da área de Startups do Tecnopuc\, referência mundial em parque tec
+ nológico. Investidor anjo de Startups\, líder do chapter RS da Anjos do Bra
+ sil.</p>
+LAST-MODIFIED:20201015T003810Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keynote - Leandro Pompermaier (TecnoPUC)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201112T133000Z
+DTEND:20201112T150000Z
+DTSTAMP:20201106T001836Z
+UID:6poj00k4kb5o18i71c7qivtlan@google.com
+CREATED:20201013T212453Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA ESPECIAL:</b>&nbsp\;<i>Engenharia de Softw
+ are e a COVID-19</i></p><ul><li><b>10:30</b>&nbsp\;-&nbsp\;<b>título</b><br
+ ><b>Apresentador:</b>&nbsp\;Prof. Dr. Marco Túlio Valente (UFMG)</li><li><b
+ >10:45</b>&nbsp\;-&nbsp\;<b>Impactos da COVID-19 no desenvolvimento de soft
+ ware no Brasil</b><br><b>Apresentador:</b>&nbsp\;Prof. Dr. Rafael Prikladni
+ cki (PUCRS)</li><li><b>11:00</b>&nbsp\;-&nbsp\;<b>Como a COVID-19 afeta des
+ envolvedores de software e como suas organizações podem ajudar</b><br><b>Ap
+ resentador:</b>&nbsp\;Prof. Dr. Marcos Kalinowski (PUC-Rio)</li><li><b>11:1
+ 5</b>&nbsp\;-&nbsp\;<b>Experiências da diferença de gênero na Engenharia de
+  Software durante a crise de COVID-19</b><br><b>Apresentadora:</b>&nbsp\;Pr
+ ofa. Dra. Letícia Machado (UFPA)</li><li><b>11:30</b>&nbsp\;-&nbsp\;<i>Deba
+ te sobre os resultados</i></li></ul>
+LAST-MODIFIED:20201015T004050Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica Especial - COVID-19 e ES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201112T163000Z
+DTEND:20201112T180000Z
+DTSTAMP:20201106T001836Z
+UID:6g054pmom7gmlhj5uapqgvv81b@google.com
+CREATED:20201013T212526Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 5:</b>&nbsp\;<i>Teste de Software</i></p><
+ ul><li><b>13:30</b>&nbsp\;-&nbsp\;<b>[PG] Systematic Literature Review on W
+ eb Performance Testing</b><br><b>Autores:</b>&nbsp\;<i>Guilherme Legramante
+  (UNIPAMPA)\, Maicon Bernardino (UNIPAMPA)\, Elder Rodrigues (UNIPAMPA)\, F
+ ábio Basso (UNIPAMPA)</i></li><li><b>13:50</b>&nbsp\;-&nbsp\;<b>[Gr] Search
+ -based Test Data Generation for Mutation Testing: a tool for Python program
+ s</b><br><b>Autores:</b>&nbsp\;<i>Matheus Moreira Ferreira (UTFPR)\, Lincol
+ n Costa (UFRJ)\, Francisco Carlos Souza (UTFPR)</i></li><li><b>14:10</b>&nb
+ sp\;-&nbsp\;<b>[Gr] Usando o teste ponta a ponta para garantia de confiabil
+ idade de um Sistema Integrado de Gestão: uma prova de conceito</b><br><b>Au
+ tores:</b>&nbsp\;<i>Yury Lima (UNIPAMPA)\, Elder Rodrigues (UNIPAMPA)\, Raf
+ ael Paes Oliveira (UTFPR)\, Maicon Bernardino (UNIPAMPA)</i></li></ul>
+LAST-MODIFIED:20201015T004109Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 5 - Teste de Software
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201112T183000Z
+DTEND:20201112T200000Z
+DTSTAMP:20201106T001836Z
+UID:61bjn0l9i0qhtnjalhe748aus0@google.com
+CREATED:20201013T212552Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 6:</b>&nbsp\;<i>Processo de Software</i></
+ p><ul><li><b>15:30</b>&nbsp\;-&nbsp\;<b>[Gr] Engenharia de Software em Empr
+ esas de Pequeno e Médio Porte: Um Mapeamento Sistemático</b><br><b>Autores:
+ </b>&nbsp\;<i>Márcio Vitor dos Santos (UTFPR)\, Wesley Assunção (UTFPR)\, I
+ vonei Freitas Silva (UNIOESTE)</i></li><li><b>15:50</b>&nbsp\;-&nbsp\;<b>[G
+ r] Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo d
+ e Caso</b><br><b>Autores:</b>&nbsp\;<i>Thales Dal Molim (UTFPR)\, Francisco
+  Carlos Souza (UTFPR)</i></li><li><b>16:10</b>&nbsp\;-&nbsp\;<b>[Gr] The Us
+ e of Design Thinking in a Global Information Technology Company</b><br><b>A
+ utores:</b>&nbsp\;<i>Gabriel Kryvoruchca (PUCRS)\, Lauriane Corrêa (PUCRS)\
+ , Rafael Parizi (IF Farroupilha)\, Sabrina Marczak (PUCRS)</i></li><li><b>1
+ 6:30</b>&nbsp\;-&nbsp\;<b>[PG] A Unified Feature Model for Scrum Artifacts 
+ from a Literature and Practice Perspective</b><br><b>Autores:</b>&nbsp\;<i>
+ Luciano Garcia (UEM)\, Edson OliveiraJr (UEM)\, Gislaine Camila Leal (UEM)\
+ , Marcelo Morandini (USP)</i></li></ul>
+LAST-MODIFIED:20201015T004126Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 6 - Processo de Software
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201112T200000Z
+DTEND:20201112T210000Z
+DTSTAMP:20201106T001836Z
+UID:48qlcor64k53tc3h3gjg7c23di@google.com
+CREATED:20201013T212612Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 7:</b>&nbsp\;<i>Linguagens e Inteligência 
+ Artificial</i></p><ul><li><b>17:00</b>&nbsp\;-&nbsp\;<b>[PG] Avaliação Prel
+ iminar de uma Linguagem para a Representação Textual de Modelos Conceituais
+  de Bancos de Dados Relacionais</b><br><b>Autores:</b>&nbsp\;<i>Jonnathan L
+ opes (UNIPAMPA)\, Maicon Bernardino (UNIPAMPA)\, Fábio Basso (UNIPAMPA)\, E
+ lder Rodrigues (UNIPAMPA)</i></li><li><b>17:20</b>&nbsp\;-&nbsp\;<b>[Gr] Av
+ aliação de Deep Learning para Predição de Mensagens Processadas pela Plataf
+ orma de Integração Guaraná</b><br><b>Autores:</b>&nbsp\;<i>Matheus Rehbein 
+ (Unijuí)\, Rafael Frantz (Unijuí)</i></li></ul>
+LAST-MODIFIED:20201015T004147Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 7 - Linguagens e Inteligência Artificial
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201113T133000Z
+DTEND:20201113T150000Z
+DTSTAMP:20201106T001836Z
+UID:68jiqud852rp4fe0osft9bf3n9@google.com
+CREATED:20201013T212732Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 8:</b>&nbsp\;<i>Ferramentas</i></p><ul><li
+ ><b>10:30</b>&nbsp\;-&nbsp\;<b>[PG] Do Harpia ao Mosaicode a Evolução de um
+  Ambiente de Programação Visual</b><br><b>Autores:</b>&nbsp\;<i>Flávio Schi
+ avoni (UFSJ)\, Luan Gonçalves (UFSJ)</i></li><li><b>10:50</b>&nbsp\;-&nbsp\
+ ;<b>[Gr] Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para 
+ Análise de Dados Qualitativos</b><br><b>Autores:</b>&nbsp\;<i>Andrea Bordin
+  (UNIPAMPA)\, Maurício Escobar (IF Farroupilha)\, Alex Severo Chervenski (U
+ NIPAMPA)</i></li><li><b>11:10</b>&nbsp\;-&nbsp\;<b>[Gr] Investigando a Inte
+ gração de Ferramentas com OSLC através do Eclipse Lyo</b><br><b>Autores:</b
+ >&nbsp\;<i>Bruno Ferreira (UNIPAMPA)\, Fábio Basso (UNIPAMPA)\, Rafael Fran
+ tz (Unijuí)\, Elder Rodrigues (UNIPAMPA)\, Maicon Bernardino (UNIPAMPA)</i>
+ </li><li><b>11:30</b>&nbsp\;-&nbsp\;<b>[IN] Práticas e Ferramentas Utilizad
+ as em Startups de Software Paranaenses: Um Estudo Exploratório</b><br><b>Au
+ tores:</b>&nbsp\;<i>Bruno Cavalcante (UEM)\, Liandra Jesus (UEM)\, Gislaine
+  Camila Leal (UEM)\, Renato Balancieri (UNESPAR)\, Ivaldir Junior (UPE)</i>
+ </li></ul>
+LAST-MODIFIED:20201015T004207Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 8 - Ferramentas
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201113T163000Z
+DTEND:20201113T180000Z
+DTSTAMP:20201106T001836Z
+UID:4p54rvv8so28rck2j71hko9ttm@google.com
+CREATED:20201013T212758Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 9:</b>&nbsp\;<i>Linhas de Produto de Softw
+ are</i></p><ul><li><b>13:30</b>&nbsp\;-&nbsp\;<b>[PG] Modeling and Configur
+ ing UML-based Software Product Lines with SMartyModeling</b><br><b>Autores:
+ </b>&nbsp\;<i>Leandro Silva (UEM)\, Edson OliveiraJr (UEM)</i></li><li><b>1
+ 3:50</b>&nbsp\;-&nbsp\;<b>[Gr] Evolução do Ambiente SMartyModeling por meio
+  de Testes Exploratórios</b><br><b>Autores:</b>&nbsp\;<i>Leandro Silva (UEM
+ )\, Bruno Fernandes (UEM)\, Edson OliveiraJr (UEM)</i></li><li><b>14:10</b>
+ &nbsp\;-&nbsp\;<b>[Gr] Configuração de Algoritmos Genéticos Multiobjetivos 
+ para Otimização de Projeto de Arquitetura de Linha de Produto</b><br><b>Aut
+ ores:</b>&nbsp\;<i>Narcizo Gabriel Freitas Palioto (UEM)\, Thelma Colanzi (
+ UEM)</i></li></ul>
+LAST-MODIFIED:20201015T004225Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 9 - Linhas de Produto de Software
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201113T183000Z
+DTEND:20201113T200000Z
+DTSTAMP:20201106T001836Z
+UID:3gpas3v0ldvhq9841f5vdirep3@google.com
+CREATED:20201013T212836Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 10:</b>&nbsp\;<i>Requisitos de Software e 
+ IHC</i></p><ul><li><b>15:30</b>&nbsp\;-&nbsp\;<b>[Gr] Controlled Experiment
+  in Crosscutting Concerns Identification from Software Requirements Specifi
+ cation</b><br><b>Autores:</b>&nbsp\;<i>Guilherme Legramante (UNIPAMPA)\, Ma
+ icon Bernardino (UNIPAMPA)\, João Pablo S. da Silva (UNIPAMPA)\, Elder Rodr
+ igues (UNIPAMPA)</i></li><li><b>15:50</b>&nbsp\;-&nbsp\;<b>[Gr] Business In
+ telligence com Qlik Sense aplicado ao Radar Saúde</b><br><b>Autores:</b>&nb
+ sp\;<i>Leander Alves (UFMT)\, Joyce Aline Marins (UFMT)\, Marcelo Takao Tan
+ aka (TCEMT)\, Jeison Santos (UFMT)\, Vanice Cunha (UFMT)\, Cristiano Maciel
+  (UFMT)</i></li><li><b>16:10</b>&nbsp\;-&nbsp\;<b>[Gr] Impacto das Avaliaçõ
+ es de Interface na qualidade de um Software Previdenciário</b><br><b>Autore
+ s:</b>&nbsp\;<i>Douglas Pozzolo (UFMT)\, Cristiano Maciel (UFMT)\, Raphael 
+ Gomes (UFMT)</i></li><li><b>16:30</b>&nbsp\;-&nbsp\;<b>[Gr] Estratégias Rem
+ otas à Avaliação de Interfaces de Usuário</b><br><b>Autores:</b>&nbsp\;<i>A
+ manda Melo (UNIPAMPA)\, Ícaro Crespo (UNIPAMPA)\, Amanda de Oliveira (UNIPA
+ MPA)\, Gabriela Córdova Medeiros (UNIPAMPA)</i></li></ul>
+LAST-MODIFIED:20201015T004246Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 10 - Requisitos de Software e IHC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T133000Z
+DTEND:20201111T150000Z
+DTSTAMP:20201106T001836Z
+UID:3oaufd9mo48l8s0bkmna3q7a04@google.com
+CREATED:20201013T212137Z
+DESCRIPTION:<p><a href="https://zoom.us/j/96997085079?pwd=V2daRUQxc1ByZ29Ha
+ FJFbEVMajI2UT09">https://zoom.us/j/96997085079?pwd=V2daRUQxc1ByZ29HaFJFbEVM
+ ajI2UT09</a>&nbsp\; &nbsp\;&nbsp\;<b><br></b></p><p><b>SESSÃO TÉCNICA 1:</b
+ >&nbsp\;<i>Arquitetura de Software</i><br></p><ul><li><b>10:30</b>&nbsp\;-&
+ nbsp\;<b>[Gr] Open Services for Lifecycle Collaboration: Um Estudo de Mapea
+ mento Sistemático</b><br><b>Autores:</b>&nbsp\;<i>Bruno Ferreira (UNIPAMPA)
+ \, Rafael Torres (UNIPAMPA)\, Fábio Basso (UNIPAMPA)\, Rafael Frantz (Uniju
+ í)\, Elder Rodrigues (UNIPAMPA)\, Maicon Bernardino (UNIPAMPA)</i></li><li>
+ <b>10:50</b>&nbsp\;-&nbsp\;<b>[Gr] Estudo Exploratório Sobre o Uso da Arqui
+ tetura de Microsserviços em Empresas da Cidade de Maringá-PR</b><br><b>Auto
+ res:</b>&nbsp\;<i>Tamires Deprá (UEM)\, Aline Amaral (UEM)\, Douglas Tanno 
+ (UEM)</i></li><li><b>11:10</b>&nbsp\;-&nbsp\;<b>[Gr] Explorando o Refinamen
+ to de uma DSL para Versões Baseadas em EMF\, Eclipse Sirius e XText</b><br>
+ <b>Autores:</b>&nbsp\;<i>Jaqueline Moura (UNIPAMPA)\, Natiele Lucca (UNIPAM
+ PA)\, Fábio Basso (UNIPAMPA)\, João Pablo S. da Silva (UNIPAMPA)\, Maicon B
+ ernardino (UNIPAMPA)\, Elder Rodrigues (UNIPAMPA)</i></li><li><b>11:30</b>&
+ nbsp\;-&nbsp\;<b>[PG] Towards a Process for Migrating Legacy Systems into M
+ icroservices Architectural Style</b><br><b>Autores:</b>&nbsp\;<i>Daniele Wo
+ lfart (UTFPR)\, Ederson Schmeing (UNIOESTE)\, Gustavo C. L. Geraldino (UNIO
+ ESTE)\, Guilherme L. D. Villaca (UNIOESTE)\, Diogo do N. Paza (UNIOESTE)\, 
+ Diogo C. P. Domingos (UNIOESTE)\, Wesley Assunção (UTFPR)\, Ivonei Freitas 
+ Silva (UNIOESTE)</i></li></ul>
+LAST-MODIFIED:20201105T234422Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 1 - Arquitetura de Software
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201112T114500Z
+DTEND:20201112T132000Z
+DTSTAMP:20201106T001836Z
+UID:5rvebhp4mioq8h0ierr3k7fjgn@google.com
+CREATED:20201013T212358Z
+DESCRIPTION:<h4>Título: Testes de Software e Transformação Digital (Palestr
+ a B)<br></h4><br><b>Data:</b>&nbsp\;12/11/2020 (Quinta-Feira)<br><b>Hora:</
+ b>&nbsp\;08h:45m - 10h:15m (1\,5 horas)<br><br><p><b>Resumo:</b>&nbsp\;Nest
+ a nova era de transformação digital\, os engenheiros de testes estão se dep
+ arando com um universo de mudanças na maneira como tradicionalmente testam 
+ os softwares em termos de habilidades\, processos e ferramentas. Machine Le
+ arning/Inteligência Artificial\, DevOps\, testes ágeis e contínuos são algu
+ ns exemplos dos temas que estão desafiando a comunidade de testes e forçand
+ o-os a encontrar maneiras de testar mais rapidamente e com excelência. Nest
+ a palestra\, Alan Gularte compartilhará como superar os principais desafios
+  no campo da automação de testes\, fazendo o melhor uso das tecnologias dis
+ poníveis.<br><br></p><p><b>Bio:</b>&nbsp\;Alan Gularte é Engenheiro de Soft
+ ware Sênior da Dell. Desde 2013\, ele apoia programas globais de testes de 
+ performance e engenharia de qualidade\, liderando equipes distribuídas no B
+ rasil e na Índia. Ele ingressou na Dell após 6 anos trabalhando como desenv
+ olvedor web e mobile. Ele tem Especialização em Big Data e Ciência de Dados
+  e está sempre trabalhando com iniciativas de inovação envolvendo automação
+  para mesclar Engenharia de Qualidade com Inteligência Artificial. Alan é a
+ paixonado por tecnologia e gestão de pessoas\, porque acredita que as duas 
+ áreas precisam caminhar juntas. Ele adora viajar e conhecer diferentes cult
+ uras.</p>
+LAST-MODIFIED:20201105T234541Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Keynote - Allan Gularte (Dell)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T111500Z
+DTEND:20201111T114500Z
+DTSTAMP:20201106T001836Z
+UID:060hrvnk4lqth1j7tg8tl8cq40@google.com
+CREATED:20201013T211915Z
+DESCRIPTION:  
+LAST-MODIFIED:20201105T234549Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Abertura ERES 2020
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T114500Z
+DTEND:20201111T131500Z
+DTSTAMP:20201106T001836Z
+UID:371jjjtrn8mgjtenppt7242qoc@google.com
+CREATED:20201013T212054Z
+DESCRIPTION:<h4>Título: Compreendendo as Novas Perspectivas da Melhoria de 
+ Processos: As Novas Versões do CMMI e do MPS-SW (Palestra A)<br></h4><br><b
+ >Data:</b>&nbsp\;11/11/2020 (Quarta-Feira)<br><b>Hora:</b>&nbsp\;08h:45m - 
+ 10h:15m (1\,5 horas)<br><br><p><b>Resumo:</b>&nbsp\;Esta palestra mostrará 
+ a importância da melhoria de processos e os benefícios que traz às empresas
+ . Apresentará os novos modelos CMMI-DEV v 2.0 e MPS-SW:2020 e as novas pers
+ pectivas para a melhoria de processos e produtividade nas empresas. Será ta
+ mbém apresentado como dar início à melhoria de processos com o MPS e sua co
+ mpatibilidade com os métodos ágeis. Por fim\, será mostrada a compatibilida
+ de entre os modelos CMMI e MPS-SW.<br><br></p><p><b>Bio:</b>&nbsp\;Professo
+ ra titular da COPPE/UFRJ\, pesquisadora na área de Engenharia de Software\,
+  orientou mais de 100 teses e dissertações na área de Qualidade de Software
+ . Formada em Matemática pela UFRJ\, com mestrado e doutorado pela PUC-RIO. 
+ Em 2010\, recebeu o Prêmio Internacional Anita Borg de Agentes de Mudança (
+ EUA)\, por sua atuação como desenvolvedora do potencial das mulheres na áre
+ a de tecnologia. Foi responsável pela definição do modelo de melhoria de pr
+ ocessos MR-MPS-SW\, atualmente com mais de 700 empresas avaliadas. Trabalha
+  com melhoria de processos baseada em multi-modelos\, tendo sido a criadora
+  do modelo QPS para Qualidade de Produto de Software.</p>
+LAST-MODIFIED:20201105T234557Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keynote - Profa. Ana Regina (UFRJ)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T163000Z
+DTEND:20201111T180000Z
+DTSTAMP:20201106T001836Z
+UID:6ekumio320670i91b6nigi4l0v@google.com
+CREATED:20201013T212209Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 2:</b>&nbsp\;<i>Desenvolvimento</i><br></p
+ ><ul><li><b>13:30</b>&nbsp\;-&nbsp\;<b>[Gr] Investigando Técnicas de Recome
+ ndação de Assets Híbridos de Software: Um Mapeamento Sistemático</b><br><b>
+ Autores:</b>&nbsp\;<i>Rafael Torres (UNIPAMPA)\, Bruno Ferreira (UNIPAMPA)\
+ , Fábio Basso (UNIPAMPA)\, Maicon Bernardino (UNIPAMPA)\, Elder Rodrigues (
+ UNIPAMPA)\, Marcelo Thielo (UNIPAMPA)</i></li><li><b>13:50</b>&nbsp\;-&nbsp
+ \;<b>[Gr] Algoritmo para Cálculo da Similaridade Semântica entre Nomes de C
+ onferências Cadastradas no Curriculum Lattes e na Base Qualis</b><br><b>Aut
+ ores:</b>&nbsp\;<i>Rafael Soares (Unijuí)\, Rafael Frantz (Unijuí)</i></li>
+ <li><b>14:10</b>&nbsp\;-&nbsp\;<b>[Gr] Modelagem da Solução de integração C
+ afé por meio de Rede de Petri Coloridas</b><br><b>Autores:</b>&nbsp\;<i>Lui
+ s Tabile (Unijuí)\, Fabrícia Roos-Frantz (Unijuí)</i></li><li><b>14:30</b>&
+ nbsp\;-&nbsp\;<b>[PG] Uso de Algoritmo Baseado na Meta-heurística PSO para 
+ Configuração do Pool de Threads em Motores de Execução de Plataformas de In
+ tegração de Aplicações</b><br><b>Autores:</b>&nbsp\;<i>Maira Brigo (Unijuí)
+ \, Daniela Sellaro (Unijuí)\, Rafael Frantz (Unijuí)</i></li></ul>
+LAST-MODIFIED:20201105T234605Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 2 - Desenvolvimento
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T183000Z
+DTEND:20201111T200000Z
+DTSTAMP:20201106T001836Z
+UID:7h5cqpo3fruu3ko80nbt3bhg0k@google.com
+CREATED:20201013T212234Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 3:</b>&nbsp\;<i>Ensino de Engenharia de So
+ ftware</i><br></p><ul><li><b>15:30</b>&nbsp\;-&nbsp\;<b>[Gr] Uma abordagem 
+ para auxiliar estudantes com deficiência visual na modelagem de sistemas: u
+ m estudo piloto</b><br><b>Autores:</b>&nbsp\;<i>Pedro Azevedo (UTFPR)\, Vin
+ icius Vieira (UTFPR)\, Alinne Souza (UTFPR)\, Francisco Carlos Souza (UTFPR
+ )</i></li><li><b>15:50</b>&nbsp\;-&nbsp\;<b>[Gr] Aplicação da Ferramenta Go
+ ogle Colaboratory para o Ensino da Linguagem Python</b><br><b>Autores:</b>&
+ nbsp\;<i>Martony Silva (UFPI)</i></li><li><b>16:10</b>&nbsp\;-&nbsp\;<b>[Gr
+ ] Hábitos de estudos de graduandos em Ciência da Computação e Engenharia de
+  Software: uma análise no período de pandemia</b><br><b>Autores:</b>&nbsp\;
+ <i>Flavia Barbosa (UNIPAMPA)\, Ícaro Crespo (UNIPAMPA)\, Lucas Augusto Gute
+ rres Garais (UNIPAMPA)\, Andrea Bordin (UNIPAMPA)</i></li><li><b>16:30</b>&
+ nbsp\;-&nbsp\;<b>[PG] Políticas de Gerência de Configuração de Software par
+ a Grupos de Pesquisa</b><br><b>Autores:</b>&nbsp\;<i>Felipe Silva (UEM)\, A
+ line Amaral (UEM)\, Thelma Colanzi (UEM)</i></li></ul>
+LAST-MODIFIED:20201105T234612Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 3 - Ensino de Engenharia de Software
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T200000Z
+DTEND:20201111T210000Z
+DTSTAMP:20201106T001836Z
+UID:3gdp8o3t6bn02klu8j0invaiai@google.com
+CREATED:20201013T212256Z
+DESCRIPTION:<p><b>SESSÃO TÉCNICA 4:</b>&nbsp\;<i>Manutenção de Software</i>
+ <br></p><ul><li><b>17:00</b>&nbsp\;-&nbsp\;<b>[Gr] RecorDS (Recognizer Diag
+ ram Sketch): Um Aplicativo para Extracão de Diagramas UML</b><br><b>Autores
+ :</b>&nbsp\;<i>Douglas Giordano (UNIPAMPA)\, Arthur Becker (UNIPAMPA)\, Joã
+ o Pablo S. da Silva (UNIPAMPA)</i></li><li><b>17:20</b>&nbsp\;-&nbsp\;<b>[G
+ r] Estimativa de Esforço em Atividades de Manutenção de Software: Um Mapeam
+ ento Sistemático</b><br><b>Autores:</b>&nbsp\;<i>Kaliane Viesseli (UTFPR)\,
+  Arielyn Silva (UTFPR)\, Gustavo Santos (UTFPR)</i></li><li><b>17:40</b>&nb
+ sp\;-&nbsp\;<b>[Gr] Avaliação de Dependências no Desenvolvimento de Sistema
+ s</b><br><b>Autores:</b>&nbsp\;<i>Flávio Schiavoni (UFSJ)\, Carlos Barbosa 
+ (UFSJ)</i></li></ul>
+LAST-MODIFIED:20201105T234619Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 4 - Manutenção de Software
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
