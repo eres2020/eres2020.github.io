@@ -116,13 +116,13 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 		<b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
 		
 	<li><b>10:45</b> - <b>Efeitos dos fatores humanos e organizacionais na produtividade dos times de software em ambiente pandêmico</b> <br>
-		<b>Apresentadora:</b> Profa. Dra. Carla Bezerra (UFC-Quixadá)</li>
+		<b>Apresentadora:</b> Profa. Dra. Carla Bezerra (UFC-Quixadá)</li> - <a href="{{ site.urlimg }}slidesCarla.pdf" target="_blank">Slides</a>
 
 	<li><b>11:00</b> - <b>Como a COVID-19 afeta desenvolvedores de software e como suas organizações podem ajudar</b> <br>
-		<b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li>
+		<b>Apresentador:</b> Prof. Dr. Marcos Kalinowski (PUC-Rio)</li> - <a href="{{ site.urlimg }}slidesKali.pdf" target="_blank">Slides</a>
 		
 	<li><b>11:15</b> - <b>Experiências da diferença de gênero na Engenharia de Software durante a crise de COVID-19</b> <br>
-		<b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li>
+		<b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li> - <a href="{{ site.urlimg }}slidesLeticia.pdf" target="_blank">Slides</a>
 		
 	<li><b>11:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
 		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
