@@ -183,7 +183,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>PALESTRA C:</b> <i>1000 em 10: A Experiência do Tecnopuc na Geração de Startups</i> <br>
 <b>Palestrante:</b> Prof. Me. Leandro Bento Pompermaier (Tecnopuc/PUCRS)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
-<b>Anfitriã:</b>  Profa. Dra. Gislaine Camila L. Leal (UEM)
+<b>Anfitriã:</b>  Prof. Dr. Maicon Bernardino (UNIPAMPA)
 
 <b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
 <b>Chair:</b> Prof. Dr. Maicon Bernardino (UNIPAMPA)
