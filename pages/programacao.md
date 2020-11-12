@@ -115,7 +115,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>Chair:</b> Prof. Dr. Edson OliveiraJr (UEM)
 <ul>	
 	<li><b>10:30</b> - <b>Impactos da COVID-19 no desenvolvimento de software no Brasil</b> <br>
-		<b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li>
+		<b>Apresentador:</b> Prof. Dr. Rafael Prikladnicki (PUCRS)</li> - <a href="{{ site.urlimg }}slidesPrik.pdf" target="_blank">Slides</a>
 		
 	<li><b>10:45</b> - <b>Efeitos dos fatores humanos e organizacionais na produtividade dos times de software em ambiente pandêmico</b> <br>
 		<b>Apresentadora:</b> Profa. Dra. Carla Bezerra (UFC-Quixadá)</li> - <a href="{{ site.urlimg }}slidesCarla.pdf" target="_blank">Slides</a>
