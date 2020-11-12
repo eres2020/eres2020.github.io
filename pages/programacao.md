@@ -108,7 +108,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>PALESTRA B:</b> <i>Testes de Software e Transformação Digital</i> <br>
 <b>Palestrante:</b> Alan Gularte (Dell)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
-<b>Anfitrião:</b>  Prof. Dr. Avelino Zorzo (PUCRS)
+<b>Anfitrião:</b>  Prof. Dr. Elder Rodrigues (UNIPAMPA)
 
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
