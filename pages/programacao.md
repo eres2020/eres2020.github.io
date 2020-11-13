@@ -108,7 +108,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>PALESTRA B:</b> <i>Testes de Software e Transformação Digital</i> <br>
 <b>Palestrante:</b> Alan Gularte (Dell)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
-<b>Anfitrião:</b>  Prof. Dr. Elder Rodrigues (UNIPAMPA)
+<b>Anfitrião:</b>  Prof. Dr. Elder Rodrigues (UNIPAMPA)<br>
 <a href="{{ site.urlimg }}palB.pdf" target="_blank">Slides Palestra B</a>
 
 
@@ -184,7 +184,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>PALESTRA C:</b> <i>1000 em 10: A Experiência do Tecnopuc na Geração de Startups</i> <br>
 <b>Palestrante:</b> Prof. Me. Leandro Bento Pompermaier (Tecnopuc/PUCRS)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
-<b>Anfitriã:</b>  Prof. Dr. Maicon Bernardino (UNIPAMPA)
+<b>Anfitriã:</b>  Prof. Dr. Maicon Bernardino (UNIPAMPA)<br>
 <a href="{{ site.urlimg }}palC.pdf" target="_blank">Slides Palestra C</a>
 
 <b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
