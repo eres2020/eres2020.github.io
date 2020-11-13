@@ -128,7 +128,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 		<b>Apresentadora:</b> Profa. Dra. Letícia Machado (UFPA)</li> - <a href="{{ site.urlimg }}slidesLeticia.pdf" target="_blank">Slides</a>
 		
 	<li><b>11:30</b> - <b>Melhores Práticas para Desenvolvimento Remoto de Software</b> <br> 
-		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> 
+		<b>Apresentador:</b> Prof. Dr. Marco Túlio Valente (UFMG)</li> - <a href="{{ site.urlimg }}	.pdf" target="_blank">Slides</a>
 		
 	<li><b>11:45</b> - <i>Debate sobre os resultados</i></li>
 </ul>
