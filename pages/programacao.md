@@ -12,6 +12,7 @@ header:
 		<a href="{{ site.urlimg }}ERES2020.ics" target="_blank">Clique aqui para baixar a agenda do Google Calendar com toda a programação da ERES 2020</a><br><br>
 		<a href="{{ site.urlimg }}programacao.pdf" target="_blank">Clique aqui para programação em PDF</a><br><br>
 		<a href="{{ site.urlimg }}anaisERES2020Temp.pdf" target="_blank">Clique aqui para uma versão temporária dos Anais da ERES 2020</a><br><br>
+		<a href="https://zenodo.org/communities/eres2020" target="_blank">Coleção de vídeos dos trabalhos apresentados no Zenodo</a><br><br>
 		<img src="{{ site.urlimg }}programacao.png"/><br>		
 		
 	</div>
