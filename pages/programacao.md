@@ -109,6 +109,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>Palestrante:</b> Alan Gularte (Dell)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
 <b>Anfitrião:</b>  Prof. Dr. Elder Rodrigues (UNIPAMPA)
+<a href="{{ site.urlimg }}palB.pdf" target="_blank">Slides Palestra B</a>
 
 
 <b>SESSÃO TÉCNICA ESPECIAL:</b> <i>Engenharia de Software e a COVID-19</i> <br>
@@ -184,6 +185,7 @@ Fórum de Graduação = [Gr], Fórum de Pós-Graduação = [PG], Trilha da Indú
 <b>Palestrante:</b> Prof. Me. Leandro Bento Pompermaier (Tecnopuc/PUCRS)<br>
 <b>Horário:</b> 8:45 às 10:15<br>
 <b>Anfitriã:</b>  Prof. Dr. Maicon Bernardino (UNIPAMPA)
+<a href="{{ site.urlimg }}palC.pdf" target="_blank">Slides Palestra C</a>
 
 <b>SESSÃO TÉCNICA 8:</b> <i>Ferramentas</i> <br>
 <b>Chair:</b> Prof. Dr. Maicon Bernardino (UNIPAMPA)
