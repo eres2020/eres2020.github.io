@@ -11,6 +11,15 @@ header:
 
 <h2>Clique na figura para fazer download ou acessar os anais da ERES.</h2>
 
+<div class="medium-8 columns t30">      
+	<b>Maringá-PR (Online Streaming) 2020</b>
+	
+	<a href="https://sol.sbc.org.br/index.php/eres/issue/view/684" target="_blank">
+		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
+	</a>
+</div><!-- /.medium-8.columns -->
+
+<br>
 
 <div class="medium-8 columns t30">      
 	<b>Alto Vale do Itajai-SC 2019</b>
